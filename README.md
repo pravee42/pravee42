@@ -1,16 +1,21 @@
-### Hi there 👋
+Hi I am Praveen Kumar
+I am a full-stack web developer, currently Using React Js for the frontend and Djangofor the backend
 
-<!--
-**pravee42/pravee42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Social Media:
+Twitter: Visit Profile
+Github: Visit Profile
+Linked In: Visit Profile
 
-Here are some ideas to get you started:
+Languages Known:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Tamil (Full)
+ English (Full)
+ Malayalam (Able to understand what the other person speaking)
+Projects Build
+News Application
+
+It is an open-source web application where the users can able to get personalized news.
+
+It uses an opensource API which was also created by me
+
+It uses an authentication system where the users can able to log in with google and can able to use it in the private mode without logging in
