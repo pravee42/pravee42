@@ -67,11 +67,11 @@ Languages and Tools🛠:
 ### Github Activity ✔:
 
 <a href="https://github.com/pravee42">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pravee42&theme=tokyonight" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pravee42&theme=vue" />
   </a>
 
 <a href="https://github.com/pravee42">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=pravee42&show_icons=true&theme=tokyonight&line_height=27" alt="praveen's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=pravee42&show_icons=true&theme=vue&line_height=27" alt="praveen's github stats"/>
 </a>
 
 <br/>
