@@ -3,7 +3,8 @@
 I am Praveen Kumar and a Certified Python Developer.<br/>
 I am interested in learning DS,ML,AI and would 💖 to grow my knowledge in these Technologies.
 
-<img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="280" />
+<!-- <img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="280" /> -->
+<a href="https://app.daily.dev/pravee"><img src="https://api.daily.dev/devcards/6b6b6959125b46298de29e623947fdec.png?r=i66" width="400" height="280" align="right" alt="Praveen Kumar's Dev Card"/></a>
 
 - 🔭 I’m currently working on Frontend Web Development & Android Development.
 - 🌱 I’m currently learning UI/UX Development.
