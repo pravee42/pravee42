@@ -4,11 +4,12 @@ I am Praveen Kumar and a Certified Python Developer.<br/>
 I am interested in learning DS,ML,AI and would 💖 to grow my knowledge in these Technologies.
 
 <!-- <img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="280" /> -->
-<a href="https://app.daily.dev/pravee"><img src="https://api.daily.dev/devcards/6b6b6959125b46298de29e623947fdec.png?r=i66" width="400"  align="right" alt="Praveen Kumar's Dev Card"/></a>
+<!-- <a href="https://app.daily.dev/pravee"><img src="https://api.daily.dev/devcards/6b6b6959125b46298de29e623947fdec.png?r=i66" width="400" align="right" alt="Praveen Kumar's Dev Card"/></a> -->
+
 
 - 🔭 I’m currently working on Frontend Web Development & Android Development.
 - 🌱 I’m currently learning UI/UX Development.
-- 👯 I’m looking to collaborate with Fullstack Web and Android Developers.![68747470733a2f2f6170692e6461696c792e6465762f64657663617264732f36623662363935393132356234363239386465323965363233393437666465632e706e673f723d693636](https://user-images.githubusercontent.com/65100038/147024272-734eabe2-4597-45ee-b559-ed3a1b234d3c.png)
+- 👯 I’m looking to collaborate with Fullstack Web and Android Developers.!
 
 - 🤔 I’m looking for help with Open source Contribution.
 - 😄 Pronouns: He/Him
