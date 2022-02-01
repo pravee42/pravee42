@@ -8,7 +8,7 @@ I am interested in learning DS,ML,AI and would 💖 to grow my knowledge in thes
 
 
 - 🔭 I’m currently working on Frontend Web Development & Android Development.
-- 🌱 I’m currently learning UI/UX Development.
+- 🌱 I’m currently learning AI/ML.
 - 👯 I’m looking to collaborate with Fullstack Web and Android Developers.!
 
 - 🤔 I’m looking for help with Open source Contribution.
