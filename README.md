@@ -34,6 +34,7 @@ Connect with me🤝:
     
 # My Writings:
    - [React js Google Auth](https://dev.to/abipravi/react-js-google-auth-50de)
+   - [Api Handling In React JS](https://dev.to/abipravi/handling-api-requests-in-react-js-4dhn)
    - [Ultimate Neo Vim setup](https://dev.to/abipravi/neovim-ultimate-web-dev-setup-with-vim-plug-on-windows-ef6)
    - [How to create twitter bot with python](https://dev.to/abipravi/how-to-create-a-twitter-bot-in-python-1024)
    - [News API for developers](https://dev.to/abipravi/open-source-news-api-for-developers-4pdp)
