@@ -4,7 +4,8 @@
  - I am interested in learning DS,ML,AI and would 💖 to grow my knowledge in these Technologies.
 -  I am always willing to contribute for [Open Source](https://en.wikipedia.org/wiki/Open_source) Projects
 -  <a href="https://twitter.com/abipravi1">Twitter@abipravi<a>
-- 🎢 Profile Visitors Count:  ![](https://visitor-badge.glitch.me/badge?page_id=pravee42)
+- 🎢 Profile Visitors Count: 
+ ![](https://visitor-badge.glitch.me/badge?page_id=pravee42)
 
 
 ### I'm open to:
