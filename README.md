@@ -49,4 +49,4 @@ Connect with me🤝:
  - Collaboration
     If you have a cool idea, I would love to work together in it.
 
-   <p align='center'><a href="mailto:abipravi11@outlook.com">Mail Me<a></p>
+   <p align='center'><a href="mailto:support@abipravi.live">Mail Me<a></p>
