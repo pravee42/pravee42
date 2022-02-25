@@ -39,6 +39,9 @@ Connect with me🤝:
    - [Ultimate Neo Vim setup](https://dev.to/abipravi/neovim-ultimate-web-dev-setup-with-vim-plug-on-windows-ef6)
    - [How to create twitter bot with python](https://dev.to/abipravi/how-to-create-a-twitter-bot-in-python-1024)
    - [News API for developers](https://dev.to/abipravi/open-source-news-api-for-developers-4pdp)
+ 
+    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pravee42&theme=vue-dark&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
+ 
 
 # Work with me
  - Frontend Web Development
@@ -47,4 +50,3 @@ Connect with me🤝:
     If you have a cool idea, I would love to work together in it.
 
    <p align='center'><a href="mailto:abipravi11@outlook.com">Mail Me<a></p>
-    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pravee42&theme=vue-dark&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
