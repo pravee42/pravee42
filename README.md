@@ -40,7 +40,7 @@ Connect with me🤝:
    - [How to create twitter bot with python](https://dev.to/abipravi/how-to-create-a-twitter-bot-in-python-1024)
    - [News API for developers](https://dev.to/abipravi/open-source-news-api-for-developers-4pdp)
  
-    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pravee42&theme=vue-dark&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pravee42&theme=vue-dark&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
  
 
 # Work with me
