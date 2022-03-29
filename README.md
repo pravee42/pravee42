@@ -43,6 +43,11 @@ Connect with me🤝:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pravee42&theme=dark&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
  
 
+ ## Most of my works:
+ -----
+  - I will do mostly backend works with python Django (Finance backend, Invoice App backend, Todo App backend, Web Automation API, Web scraping API)
+  **Learning hours in Django / week** [  _50 hours / week_ ]
+ 
 # Work with me
  - Frontend Web Development
     I'll be building stunning user interfaces that users enjoy with Next JS / React. And i'll do my work well thought and well planned.
