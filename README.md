@@ -48,9 +48,10 @@ Connect with me🤝:
  
 
  ## Most of my works:
- -----
-  - I will do mostly backend works with python Django (Finance backend, Invoice App backend, Todo App backend, Web Automation API, Web scraping API)
-  **Learning hours in Django / week** [  _50 hours / week_ ]
+   - I will do mostly backend works with python Django (Finance backend, Invoice App backend, Todo App backend, Web Automation API, Web scraping API)
+ <br />
+ 
+Learning hours in Django / week _50 hours / week_
  
 # Work with me
  - Frontend Web Development
