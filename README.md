@@ -33,7 +33,7 @@ Connect with me🤝:
   - [simple twitter](https://github.com/pravee42/simpletwitter)
     This python package can be used to make your own twitter bot with less code. This bot uses selinium web driver so that you can able to create you bot without twitter credientials, now this module currently using by 4k+ users.
  
- -[Twitter Card](https://github.com/pravee42/twittercard)
+ - [Twitter Card](https://github.com/pravee42/twittercard)
  This is an web application that shows users twitter information such as (following, followers, no of tweets). It is created using html, css and javascript
     
 # My Writings:
