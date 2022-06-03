@@ -24,7 +24,7 @@ Connect with me🤝:
 - You can connect with me on [Twitter](https://twitter.com/abipravi1)
 - You can also view my projects and provide job oppurtunites on [linked In](https://twitter.com/abipravi1)
 
- # My Popular Works
+ # Some of my works
    - [News App](https://github.com/pravee42/news-app)
       News app is react app which gets the news from the [newsapi]() and displays it for the user. It is an opensource application particepated in Hacktoberfest 2021. The user can also all their own articles and read the articles of others here.
       
@@ -37,7 +37,7 @@ Connect with me🤝:
  - [Twitter Card](https://github.com/pravee42/twittercard)
  This is an web application that shows users twitter information such as (following, followers, no of tweets). It is created using html, css and javascript
     
-# My Writings:
+# My posts:
    - [React js Google Auth](https://dev.to/abipravi/react-js-google-auth-50de)
    - [Api Handling In React JS](https://dev.to/abipravi/handling-api-requests-in-react-js-4dhn)
    - [Ultimate Neo Vim setup](https://dev.to/abipravi/neovim-ultimate-web-dev-setup-with-vim-plug-on-windows-ef6)
