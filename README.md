@@ -17,6 +17,7 @@
 ### My Most popular used languages and frameworks
  - [x] Python for creating backend and AI along with automation and NLP
  - [x] JavaScript -> I would always like to use most popular library [React](https://github.com/facebook/react) for creating my front end works
+ - [x] selenium -> creating bots for twitter and linkedin and scrape from from websites where 'bs4' does not work
 
 
 Connect with me🤝:
