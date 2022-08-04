@@ -54,9 +54,9 @@ Connect with me🤝:
    - I will do mostly backend works with python Django (Finance backend, Invoice App backend, Todo App backend, Web Automation API, Web scraping API, Fullstack invoice Application)
  <br />
  
-Learning hours in React Native / week _50 hours / week_
-Learning hours in Django / week _40 hours / week_
-Learning hours in Java Script / week _10 hours / week_
+Learning hours in React Native / week _50 hours / week_  <br />
+Learning hours in Django / week _40 hours / week_  <br />
+Learning hours in Java Script / week _10 hours / week_  <br />
  
 # Work with me
  - Frontend Web Development
