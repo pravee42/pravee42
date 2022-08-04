@@ -32,10 +32,13 @@ Connect with me🤝:
     It is an webscraping api which gets news from different websites and display as a api.
     
   - [simple twitter](https://github.com/pravee42/simpletwitter)
-    This python package can be used to make your own twitter bot with less code. This bot uses selinium web driver so that you can able to create you bot without twitter credientials, now this module currently using by 4k+ users.
- 
- - [Twitter Card](https://github.com/pravee42/twittercard)
+    This python package can be used to make your own twitter bot with less code. This bot uses selinium web driver so that you can able to create you bot without twitter credientials, now this module currently using by 9k+ users.
+
+  - [Twitter Card](https://github.com/pravee42/twittercard)
  This is an web application that shows users twitter information such as (following, followers, no of tweets). It is created using html, css and javascript
+ 
+  - [Invoice Application](#)
+    This application is used to create and manage invocies of small business and shops (manage dues, expenses etc..).
     
 # My posts:
    - [React js Google Auth](https://dev.to/abipravi/react-js-google-auth-50de)
@@ -48,10 +51,12 @@ Connect with me🤝:
  
 
  ## Most of my works:
-   - I will do mostly backend works with python Django (Finance backend, Invoice App backend, Todo App backend, Web Automation API, Web scraping API)
+   - I will do mostly backend works with python Django (Finance backend, Invoice App backend, Todo App backend, Web Automation API, Web scraping API, Fullstack invoice Application)
  <br />
  
-Learning hours in Django / week _50 hours / week_
+Learning hours in React Native / week _50 hours / week_
+Learning hours in Django / week _40 hours / week_
+Learning hours in Java Script / week _10 hours / week_
  
 # Work with me
  - Frontend Web Development
