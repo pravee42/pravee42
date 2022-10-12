@@ -55,6 +55,7 @@ Connect with me🤝:
  <br />
  
 Learning hours in React Native / week _50 hours / week_  <br />
+ Learning hours in React Js / week _10 hours / week_  <br />
 Learning hours in Django / week _40 hours / week_  <br />
 Learning hours in Java Script / week _10 hours / week_  <br />
  
