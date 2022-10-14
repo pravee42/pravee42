@@ -49,6 +49,8 @@ Connect with me🤝:
  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pravee42&theme=dark&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
  
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=pravee42&bg_color=2b2b2b&color=82da16&line=00a841&point=d66224&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ 
 
  ## Most of my works:
    - I will do mostly backend works with python Django (Finance backend, Invoice App backend, Todo App backend, Web Automation API, Web scraping API, Fullstack invoice Application)
