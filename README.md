@@ -1,6 +1,6 @@
 
 ### Praveen Kumar 🧑
- - I am Praveen Kumar and a Certified Python Django Developer.<br/>
+ - I am Praveen Kumar and a fullstack Python Django Developer with React Native(Android).<br/>
  - I am interested in learning DS,ML,AI and would 💖 to grow my knowledge in these Technologies.
 -  I am always willing to contribute for [Open Source](https://en.wikipedia.org/wiki/Open_source) Projects
 -  <a href="https://twitter.com/abipravi1">Twitter@abipravi<a>
