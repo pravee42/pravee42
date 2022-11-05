@@ -2,7 +2,7 @@
 ### Praveen Kumar 🧑
  - I am Praveen Kumar and a fullstack Python Django Developer with React Native(Android).<br/>
  - I am interested in learning DS,ML,AI and would 💖 to grow my knowledge in these Technologies.
--  I am always willing to contribute for [Open Source](https://en.wikipedia.org/wiki/Open_source) Projects
+-  I am always willing to contribute for Open Source [Projects](https://www.linkedin.com/in/praveen-kumar-9b09441b7/details/projects/)
 -  <a href="https://twitter.com/abipravi1">Twitter@abipravi<a>
 - 🎢 Profile Visitors Count: 
  ![](https://visitor-badge.glitch.me/badge?page_id=pravee42)
@@ -22,7 +22,7 @@
 
 Connect with me🤝:
 - You can connect with me on [Twitter](https://twitter.com/abipravi1)
-- You can also view my projects and provide job oppurtunites on [linked In](https://twitter.com/abipravi1)
+- You can also view my projects and provide job oppurtunites on [linked In](https://www.linkedin.com/in/praveen-kumar-9b09441b7/)
 
  # Some of my works
    - [News App](https://github.com/pravee42/news-app)
@@ -60,7 +60,8 @@ Connect with me🤝:
 Learning hours in React Native / week _50 hours / week_  <br />
  Learning hours in React Js / week _10 hours / week_  <br />
 Learning hours in Django / week _40 hours / week_  <br />
-Learning hours in Java Script / week _10 hours / week_  <br />
+Learning hours in Javascript / week _10 hours / week_  <br />
+ Learning hours in Typescript / week _6 hours / week_  <br />
  
 # Work with me
  - Frontend Web Development
