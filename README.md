@@ -1,6 +1,7 @@
 
 ### Praveen Kumar 🧑
  - I am Praveen Kumar and a fullstack Python Django Developer with React Native(Android).<br/>
+ - College a href="https://mvit.edu.in/">MVIT</a>
  - I am interested in learning DS,ML,AI and would 💖 to grow my knowledge in these Technologies.
 -  I am always willing to contribute for Open Source [Projects](https://www.linkedin.com/in/praveen-kumar-9b09441b7/details/projects/)
 -  <a href="https://twitter.com/abipravi1">Twitter@abipravi<a>
@@ -39,6 +40,9 @@ Connect with me🤝:
  
   - [Invoice Application](#)
     This application is used to create and manage invocies of small business and shops (manage dues, expenses etc..).
+ 
+  - [College Portal](https://mvit.netlify.app/notes.html)
+    [This webapp is an college portal used to share notes and lecture videos]
     
 # My posts:
    - [React js Google Auth](https://dev.to/abipravi/react-js-google-auth-50de)
