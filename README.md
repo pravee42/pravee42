@@ -1,5 +1,7 @@
 
 ### Praveen Kumar 🧑
+![image](https://github.com/user-attachments/assets/75a77c4c-a597-4fdb-830c-b8d79d79e94d)
+
  - I am Praveen Kumar and a fullstack Python Django Developer with React Native(Android).<br/>
  - College a href="https://mvit.edu.in/">MVIT</a>
  - I am interested in learning DS,ML,AI and would 💖 to grow my knowledge in these Technologies.
