@@ -39,7 +39,7 @@ Connect with me🤝:
   - [Twitter Card](https://github.com/pravee42/twittercard)
  This is an web application that shows users twitter information such as (following, followers, no of tweets). It is created using html, css and javascript
  
-  - [Invoice Application](#)
+  - [POS Application](#)
     This application is used to create and manage invocies of small business and shops (manage dues, expenses etc..).
  
   - [College Portal](https://mvit.netlify.app/notes.html)
