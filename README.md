@@ -58,7 +58,7 @@ Connect with me🤝:
 [![GitHub Streak](https://streak-stats.demolab.com?user=pravee42&theme=gruvbox&locale=ta)](https://git.io/streak-stats)
  
 
-[![Pravee32](https://activity-graph.herokuapp.com/graph?username=pravee42&bg_color=2b2b2b&color=82da16&line=00a841&point=d66224&area=true&hide_border=true)](https://github.com/pravee42)
+[![Pravee42](https://activity-graph.herokuapp.com/graph?username=pravee42&bg_color=2b2b2b&color=82da16&line=00a841&point=d66224&area=true&hide_border=true)](https://github.com/pravee42)
  
 
  ## Most of my works:
