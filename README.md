@@ -2,12 +2,11 @@
 ### Praveen Kumar 🧑
 
  - I am Praveen Kumar and a fullstack Python Django Developer with React Native(Android).<br/>
- - College a href="https://mvit.edu.in/">MVIT</a>
+ - College <a href="https://mvit.edu.in/">MVIT</a>
  - I am interested in learning DS,ML,AI and would 💖 to grow my knowledge in these Technologies.
--  I am always willing to contribute for Open Source [Projects](https://www.linkedin.com/in/praveen-kumar-9b09441b7/details/projects/)
+-  <a href="https://abipravi.in">Abipravi.in<a>
 -  <a href="https://twitter.com/abipravi1">Twitter@abipravi<a>
-- 🎢 Profile Visitors Count: 
- ![](https://visitor-badge.glitch.me/badge?page_id=pravee42)
+-  I am always willing to contribute for Open Source [Projects](https://www.linkedin.com/in/praveenkumar-abipravi/details/projects/)
 
 
 ### I'm open to:
@@ -17,14 +16,14 @@
  - Collaborations to build something great
 
 ### My Most popular used languages and frameworks
- - [x] Python for creating backend and AI along with automation and NLP
+ - [x] Python, And Javascript for creating backend and AI along with automation and NLP
  - [x] JavaScript -> I would always like to use most popular library [React](https://github.com/facebook/react) for creating my front end works
  - [x] selenium -> creating bots for twitter and linkedin and scrape from from websites where 'bs4' does not work
 
 
 Connect with me🤝:
 - You can connect with me on [Twitter](https://twitter.com/abipravi1)
-- You can also view my projects and provide job oppurtunites on [linked In](https://www.linkedin.com/in/praveen-kumar-9b09441b7/)
+- You can also view my projects and provide job oppurtunites on [linked In](https://www.linkedin.com/in/praveenkumar-abipravi/)
 
  # Some of my works
    - [News App](https://github.com/pravee42/news-app)
