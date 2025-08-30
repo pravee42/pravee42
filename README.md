@@ -66,10 +66,6 @@ Connect with me🤝:
    - [News API for developers](https://dev.to/abipravi/open-source-news-api-for-developers-4pdp)
  
 [![GitHub Streak](https://streak-stats.demolab.com?user=pravee42&theme=gruvbox&locale=ta)](https://git.io/streak-stats)
- 
-
-[![Pravee42](https://activity-graph.herokuapp.com/graph?username=pravee42&bg_color=2b2b2b&color=82da16&line=00a841&point=d66224&area=true&hide_border=true)](https://github.com/pravee42)
- 
 
  ## Most of my works:
    - I will do mostly backend works with python Django (Finance backend, Invoice App backend, Todo App backend, Web Automation API, Web scraping API, Fullstack invoice Application)
