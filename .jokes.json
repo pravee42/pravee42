@@ -1,1 +1,12 @@
-
+{
+  "history": [
+    {
+      "joke": "Why did the Python script break up with the Java program? Incompatible imports; it said they lacked *class*.",
+      "category": "python",
+      "timestamp": "2025-08-30T08:40:35.661639+00:00",
+      "hash": "2b7a9f9c46503402c8ea561b3caa2e8c",
+      "sentiment": "negative",
+      "word_count": 18
+    }
+  ]
+}
