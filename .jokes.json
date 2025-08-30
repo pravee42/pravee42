@@ -42,11 +42,19 @@
     },
     {
       "joke": "My database normalization joke? It's in 3NF. I'd tell you more, but it's too relational.",
-      "category": "databases",
       "timestamp": "2025-08-30T08:44:25.476135+00:00",
+      "category": "databases",
       "hash": "a095a97ff397ae39702734bdbb07b268",
       "sentiment": "neutral",
       "word_count": 15
+    },
+    {
+      "joke": "Python: where indentation errors are less about syntax and more about your commitment to clean code.",
+      "category": "python",
+      "timestamp": "2025-08-30T12:58:46.342825+00:00",
+      "hash": "04d1c5fd448fa128d85f4edda0ecada7",
+      "sentiment": "negative",
+      "word_count": 16
     }
   ]
 }
