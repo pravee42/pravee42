@@ -3,101 +3,241 @@ import re
 import json
 import requests
 from pathlib import Path
+from datetime import datetime, timezone
+import hashlib
+from typing import List, Dict, Optional
 
 API_KEY = os.getenv("GEMINI_API_KEY")
 JOKE_FILE = Path(".jokes.json")
+ANALYTICS_FILE = Path(".joke_analytics.json")
 
-def load_joke_history():
-    """Load last jokes from local JSON file"""
-    if JOKE_FILE.exists():
-        with open(JOKE_FILE, "r", encoding="utf-8") as f:
-            try:
-                data = json.load(f)
-                # Ensure correct structure
-                if isinstance(data, dict) and "history" in data:
-                    return data["history"]
-                elif isinstance(data, list):
-                    return data
-            except json.JSONDecodeError:
-                return []
-    return []
-
-def get_dev_joke():
-    """Fetch a new programming joke from Gemini"""
-    jokes = load_joke_history()
-    not_allowed = "\n".join([f"- {j}" for j in jokes]) if jokes else "None yet"
-
-    url = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent"
-    payload = {
-        "contents": [
-            {
-                "parts": [
-                    {
-                        "text": (
-                            "Tell me a short, funny programming joke under 25 words.\n\n"
-                            "⚠️ IMPORTANT RULES:\n"
-                            f"- Do NOT repeat any of these jokes:\n{not_allowed}\n\n"
-                            "- Return only the new joke, no explanation, no quotes."
-                        )
-                    }
-                ]
-            }
+class JokeManager:
+    def __init__(self):
+        self.categories = [
+            "python", "javascript", "debugging", "css", "git", 
+            "databases", "algorithms", "frontend", "backend", "devops"
         ]
-    }
-
-    try:
-        response = requests.post(
-            url,
-            headers={
-                "Content-Type": "application/json",
-                "x-goog-api-key": API_KEY,
-            },
-            json=payload,
-            timeout=20,
-        )
-        data = response.json()
-
-        if "candidates" in data:
-            cand = data["candidates"][0]
-            if "content" in cand and "parts" in cand["content"]:
-                return cand["content"]["parts"][0].get("text", "").strip()
-
-        return f"⚠️ Gemini error: {json.dumps(data, indent=2)}"
-
-    except Exception as e:
-        return f"Error fetching joke: {e}"
-
-def save_joke_history(jokes):
-    """Save only the last 10 jokes"""
-    with open(JOKE_FILE, "w", encoding="utf-8") as f:
-        json.dump({"history": jokes[-10:]}, f, indent=2, ensure_ascii=False)
-
-def update_readme(joke):
-    """Update README.md with latest joke"""
-    if not Path("README.md").exists():
-        # Create README if missing
+    
+    def load_joke_history(self) -> List[Dict]:
+        """Load joke history with metadata"""
+        if JOKE_FILE.exists():
+            with open(JOKE_FILE, "r", encoding="utf-8") as f:
+                try:
+                    data = json.load(f)
+                    if isinstance(data, dict) and "history" in data:
+                        return data["history"]
+                    elif isinstance(data, list):
+                        # Convert old format to new format
+                        return [{"joke": joke, "timestamp": "", "category": "general"} for joke in data]
+                except json.JSONDecodeError:
+                    return []
+        return []
+    
+    def get_joke_hash(self, joke: str) -> str:
+        """Generate hash for joke deduplication"""
+        return hashlib.md5(joke.lower().encode()).hexdigest()
+    
+    def analyze_joke_sentiment(self, joke: str) -> str:
+        """Simple sentiment analysis based on keywords"""
+        positive_words = ["fun", "love", "great", "awesome", "happy", "enjoy"]
+        negative_words = ["bug", "crash", "error", "fail", "break", "hate"]
+        
+        joke_lower = joke.lower()
+        pos_score = sum(1 for word in positive_words if word in joke_lower)
+        neg_score = sum(1 for word in negative_words if word in joke_lower)
+        
+        if pos_score > neg_score:
+            return "positive"
+        elif neg_score > pos_score:
+            return "negative"
+        return "neutral"
+    
+    def get_dev_joke(self, category: str = None) -> Dict:
+        """Fetch a new programming joke with enhanced prompting"""
+        jokes = self.load_joke_history()
+        not_allowed = "\n".join([f"- {j.get('joke', j)}" for j in jokes]) if jokes else "None yet"
+        
+        # Smart category rotation
+        if not category:
+            used_categories = [j.get('category', 'general') for j in jokes[-5:]]
+            available_categories = [c for c in self.categories if c not in used_categories]
+            category = available_categories[0] if available_categories else "general"
+        
+        url = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent"
+        payload = {
+            "contents": [
+                {
+                    "parts": [
+                        {
+                            "text": (
+                                f"Create a witty programming joke about '{category}' development.\n\n"
+                                "🎯 REQUIREMENTS:\n"
+                                "- 15-30 words maximum\n"
+                                "- Technical but accessible to developers\n"
+                                "- Creative wordplay or unexpected punchline\n"
+                                "- Avoid clichés like 'works on my machine'\n\n"
+                                f"❌ DO NOT repeat these jokes:\n{not_allowed}\n\n"
+                                "Return ONLY the joke text, no quotes or explanations."
+                            )
+                        }
+                    ]
+                }
+            ],
+            "generationConfig": {
+                "temperature": 0.9,  # Higher creativity
+                "maxOutputTokens": 50
+            }
+        }
+        
+        try:
+            response = requests.post(
+                url,
+                headers={
+                    "Content-Type": "application/json",
+                    "x-goog-api-key": API_KEY,
+                },
+                json=payload,
+                timeout=20,
+            )
+            data = response.json()
+            
+            if "candidates" in data:
+                cand = data["candidates"][0]
+                if "content" in cand and "parts" in cand["content"]:
+                    joke_text = cand["content"]["parts"][0].get("text", "").strip()
+                    
+                    return {
+                        "joke": joke_text,
+                        "category": category,
+                        "timestamp": datetime.now(timezone.utc).isoformat(),
+                        "hash": self.get_joke_hash(joke_text),
+                        "sentiment": self.analyze_joke_sentiment(joke_text),
+                        "word_count": len(joke_text.split())
+                    }
+            
+            return {
+                "joke": f"⚠️ API Error: {data.get('error', {}).get('message', 'Unknown error')}",
+                "category": "error",
+                "timestamp": datetime.now(timezone.utc).isoformat(),
+                "hash": "",
+                "sentiment": "neutral",
+                "word_count": 0
+            }
+            
+        except Exception as e:
+            return {
+                "joke": f"🔧 Connection failed: {str(e)}",
+                "category": "error", 
+                "timestamp": datetime.now(timezone.utc).isoformat(),
+                "hash": "",
+                "sentiment": "neutral",
+                "word_count": 0
+            }
+    
+    def save_joke_history(self, jokes: List[Dict]):
+        """Save enhanced joke history with metadata"""
+        # Keep last 50 jokes for better analytics
+        with open(JOKE_FILE, "w", encoding="utf-8") as f:
+            json.dump({"history": jokes[-50:]}, f, indent=2, ensure_ascii=False)
+    
+    def update_analytics(self, joke_data: Dict):
+        """Track joke analytics"""
+        analytics = {"total_jokes": 0, "categories": {}, "sentiment_stats": {}}
+        
+        if ANALYTICS_FILE.exists():
+            with open(ANALYTICS_FILE, "r", encoding="utf-8") as f:
+                try:
+                    analytics = json.load(f)
+                except json.JSONDecodeError:
+                    pass
+        
+        # Update stats
+        analytics["total_jokes"] = analytics.get("total_jokes", 0) + 1
+        analytics["last_updated"] = joke_data["timestamp"]
+        
+        # Category stats
+        category = joke_data["category"]
+        if "categories" not in analytics:
+            analytics["categories"] = {}
+        analytics["categories"][category] = analytics["categories"].get(category, 0) + 1
+        
+        # Sentiment stats  
+        sentiment = joke_data["sentiment"]
+        if "sentiment_stats" not in analytics:
+            analytics["sentiment_stats"] = {}
+        analytics["sentiment_stats"][sentiment] = analytics["sentiment_stats"].get(sentiment, 0) + 1
+        
+        with open(ANALYTICS_FILE, "w", encoding="utf-8") as f:
+            json.dump(analytics, f, indent=2, ensure_ascii=False)
+    
+    def generate_readme_stats(self) -> str:
+        """Generate stats section for README"""
+        if not ANALYTICS_FILE.exists():
+            return ""
+        
+        with open(ANALYTICS_FILE, "r", encoding="utf-8") as f:
+            try:
+                analytics = json.load(f)
+                total = analytics.get("total_jokes", 0)
+                top_category = max(analytics.get("categories", {}).items(), key=lambda x: x[1], default=("general", 0))
+                
+                return f"\n*📊 Joke Stats: {total} jokes generated | Top category: {top_category[0]} ({top_category[1]})*"
+            except:
+                return ""
+    
+    def update_readme(self, joke_data: Dict):
+        """Update README with enhanced formatting"""
+        if not Path("README.md").exists():
+            with open("README.md", "w", encoding="utf-8") as f:
+                f.write("## 😂 Dev Joke of the Day\n\n<!-- JOKE-START -->\n<!-- JOKE-END -->\n")
+        
+        with open("README.md", "r", encoding="utf-8") as f:
+            readme = f.read()
+        
+        # Enhanced joke formatting with category and timestamp
+        joke_section = f"""
+```javascript
+{joke_data['joke']}
+```
+*🏷️ Category: {joke_data['category']} | 📅 {datetime.fromisoformat(joke_data['timestamp'].replace('Z', '+00:00')).strftime('%Y-%m-%d %H:%M UTC')}*{self.generate_readme_stats()}
+"""
+        
+        pattern = r"(<!-- JOKE-START -->)(.*?)(<!-- JOKE-END -->)"
+        replacement = f"\\1{joke_section}\\3"
+        
+        if re.search(pattern, readme, flags=re.DOTALL):
+            new_readme = re.sub(pattern, replacement, readme, flags=re.DOTALL)
+        else:
+            new_readme = readme + f"\n<!-- JOKE-START -->{joke_section}<!-- JOKE-END -->\n"
+        
         with open("README.md", "w", encoding="utf-8") as f:
-            f.write("## Developer Joke of the Day\n\n<!-- JOKE-START -->\n<!-- JOKE-END -->\n")
+            f.write(new_readme)
 
-    with open("README.md", "r", encoding="utf-8") as f:
-        readme = f.read()
-
-    pattern = r"(<!-- JOKE-START -->)(.*?)(<!-- JOKE-END -->)"
-    replacement = f"\\1\n```js\n{joke}\n```\n\\3"
-
-    if re.search(pattern, readme, flags=re.DOTALL):
-        new_readme = re.sub(pattern, replacement, readme, flags=re.DOTALL)
-    else:
-        # If markers are missing, append at the end
-        new_readme = readme + f"\n<!-- JOKE-START -->\n```js\n{joke}\n```\n<!-- JOKE-END -->\n"
-
-    with open("README.md", "w", encoding="utf-8") as f:
-        f.write(new_readme)
+def main():
+    """Main execution function"""
+    manager = JokeManager()
+    
+    # Get new joke
+    joke_data = manager.get_dev_joke()
+    
+    # Load history and add new joke
+    jokes = manager.load_joke_history()
+    
+    # Check for duplicates
+    new_hash = joke_data["hash"]
+    if any(j.get("hash") == new_hash for j in jokes[-10:]):
+        print("🔄 Duplicate detected, fetching new joke...")
+        joke_data = manager.get_dev_joke()
+    
+    jokes.append(joke_data)
+    
+    # Save everything
+    manager.save_joke_history(jokes)
+    manager.update_analytics(joke_data)
+    manager.update_readme(joke_data)
+    
+    print(f"✅ Updated joke: {joke_data['joke']}")
+    print(f"📊 Category: {joke_data['category']} | Sentiment: {joke_data['sentiment']}")
 
 if __name__ == "__main__":
-    joke = get_dev_joke()
-    jokes = load_joke_history()
-    jokes.append(joke)
-    save_joke_history(jokes)
-    update_readme(joke)
-    print("✅ Joke updated:", joke)
+    main()
