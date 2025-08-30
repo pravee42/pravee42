@@ -13,10 +13,10 @@
 ### 😂 Dev Joke of the Day
 <!-- JOKE-START -->
 ```javascript
-Git add . -- I'm committing to this joke, even if it's a merge conflict.
+My database normalization joke? It's in 3NF. I'd tell you more, but it's too relational.
 ```
-*🏷️ Category: git | 📅 2025-08-30 08:43 UTC*
-*📊 Joke Stats: 1 jokes generated | Top category: git (1)*
+*🏷️ Category: databases | 📅 2025-08-30 08:44 UTC*
+*📊 Joke Stats: 1 jokes generated | Top category: databases (1)*
 <!-- JOKE-END -->
 
 
