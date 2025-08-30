@@ -13,7 +13,9 @@
 ### 😂 Dev Joke of the Day
 <!-- JOKE-START -->
 ```py
-Why do programmers prefer dark mode? Because light attracts bugs!
+Why do programmers prefer dark mode?
+
+Because light attracts bugs!
 ```
 <!-- JOKE-END -->
 
