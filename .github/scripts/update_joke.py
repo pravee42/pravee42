@@ -7,17 +7,40 @@ from pathlib import Path
 API_KEY = os.getenv("GEMINI_API_KEY")
 JOKE_FILE = Path(".jokes.json")
 
+def load_joke_history():
+    """Load last jokes from local JSON file"""
+    if os.path.exists(JOKES_FILE):
+        with open(JOKES_FILE, "r") as f:
+            try:
+                data = json.load(f)
+                return data.get("history", [])
+            except json.JSONDecodeError:
+                return []
+    return []
+
 def get_dev_joke():
+    jokes = load_joke_history()
+    not_allowed = "\n".join([f"- {j}" for j in jokes])
+
     url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key={API_KEY}"
     payload = {
         "contents": [
             {
                 "parts": [
-                    {"text": "Tell me a short, funny programming joke under 25 words. Return only the joke, no explanation."}
+                    {
+                        "text": (
+                            "Tell me a short, funny programming joke under 25 words.\n\n"
+                            "⚠️ IMPORTANT RULES:\n"
+                            "- Do NOT repeat any of these jokes:\n"
+                            f"{not_allowed}\n\n"
+                            "- Return only the new joke, no explanation, no quotes."
+                        )
+                    }
                 ]
             }
         ]
     }
+
     try:
         response = requests.post(url, headers={"Content-Type": "application/json"}, json=payload, timeout=20)
         data = response.json()
@@ -30,12 +53,6 @@ def get_dev_joke():
 
     except Exception as e:
         return f"Error fetching joke: {e}"
-
-def load_joke_history():
-    if JOKE_FILE.exists():
-        with open(JOKE_FILE, "r", encoding="utf-8") as f:
-            return json.load(f)
-    return []
 
 def save_joke_history(jokes):
     with open(JOKE_FILE, "w", encoding="utf-8") as f:
