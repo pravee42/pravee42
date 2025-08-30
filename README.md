@@ -13,10 +13,10 @@
 ### 😂 Dev Joke of the Day
 <!-- JOKE-START -->
 ```javascript
-My code has zero bugs. Instead, it develops unexpected *features* during debugging.
+I told CSS to round those corners, but it just gave me the *border*line of what I wanted.
 ```
-*🏷️ Category: debugging | 📅 2025-08-30 08:42 UTC*
-*📊 Joke Stats: 1 jokes generated | Top category: debugging (1)*
+*🏷️ Category: css | 📅 2025-08-30 08:42 UTC*
+*📊 Joke Stats: 1 jokes generated | Top category: css (1)*
 <!-- JOKE-END -->
 
 
