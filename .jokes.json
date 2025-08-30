@@ -10,11 +10,19 @@
     },
     {
       "joke": "JavaScript: Where 'undefined' isn't a value, but a feeling of existential dread after debugging for 3 hours.",
-      "category": "javascript",
       "timestamp": "2025-08-30T08:41:27.857035+00:00",
+      "category": "javascript",
       "hash": "3f4fbd147b06a8f8c6058a90f0730f51",
       "sentiment": "negative",
       "word_count": 17
+    },
+    {
+      "joke": "My code has zero bugs. Instead, it develops unexpected *features* during debugging.",
+      "category": "debugging",
+      "timestamp": "2025-08-30T08:42:06.660580+00:00",
+      "hash": "a757f7e08b2b58aae5be17a71b3209ce",
+      "sentiment": "negative",
+      "word_count": 12
     }
   ]
 }
