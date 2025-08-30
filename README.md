@@ -9,6 +9,17 @@
 -  I am always willing to contribute for Open Source [Projects](https://www.linkedin.com/in/praveenkumar-abipravi/details/projects/)
 
 
+
+### 😂 Dev Joke of the Day
+<!-- JOKE-START -->
+```js
+Why did the router file for divorce?
+Irreconcilable differences in network traffic,
+It said, "I just can't connect anymore!"
+```
+<!-- JOKE-END -->
+
+
 ### I'm open to:
  - Work oppurtunities
  - Sponsorships & paid video chat
