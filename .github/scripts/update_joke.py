@@ -9,8 +9,8 @@ JOKE_FILE = Path(".jokes.json")
 
 def load_joke_history():
     """Load last jokes from local JSON file"""
-    if os.path.exists(JOKES_FILE):
-        with open(JOKES_FILE, "r") as f:
+    if os.path.exists(JOKE_FILE):
+        with open(JOKE_FILE, "r") as f:
             try:
                 data = json.load(f)
                 return data.get("history", [])
