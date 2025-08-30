@@ -8,13 +8,12 @@ API_KEY = os.getenv("GEMINI_API_KEY")
 JOKE_FILE = Path(".jokes.json")
 
 def get_dev_joke():
-    """Fetch a dev joke from Gemini API (using gemini-2.0-flash)."""
     url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key={API_KEY}"
     payload = {
         "contents": [
             {
                 "parts": [
-                    {"text": "Tell me a short, funny programming joke under 25 words."}
+                    {"text": "Tell me a short, funny programming joke under 25 words. Return only the joke, no explanation."}
                 ]
             }
         ]
@@ -23,7 +22,6 @@ def get_dev_joke():
         response = requests.post(url, headers={"Content-Type": "application/json"}, json=payload, timeout=20)
         data = response.json()
 
-        # Return whatever text Gemini provides
         if "candidates" in data:
             cand = data["candidates"][0]
             if "content" in cand and "parts" in cand["content"]:
@@ -48,7 +46,7 @@ def update_readme(joke):
         readme = f.read()
 
     pattern = r"(<!-- JOKE-START -->)(.*?)(<!-- JOKE-END -->)"
-    replacement = f"\\1\n> {joke}\n\\3"
+    replacement = f"\\1\n```py\n{joke}\n```\n\\3"
 
     new_readme = re.sub(pattern, replacement, readme, flags=re.DOTALL)
 
