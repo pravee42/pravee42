@@ -19,16 +19,47 @@ class JokeManager:
         ]
     
     def load_joke_history(self) -> List[Dict]:
-        """Load joke history with metadata"""
+        """Load joke history with metadata and handle legacy format"""
         if JOKE_FILE.exists():
             with open(JOKE_FILE, "r", encoding="utf-8") as f:
                 try:
                     data = json.load(f)
                     if isinstance(data, dict) and "history" in data:
-                        return data["history"]
+                        # Handle mixed format in history
+                        normalized_history = []
+                        for item in data["history"]:
+                            if isinstance(item, str):
+                                # Convert old string format to new dict format
+                                normalized_history.append({
+                                    "joke": item,
+                                    "timestamp": "",
+                                    "category": "general",
+                                    "hash": self.get_joke_hash(item),
+                                    "sentiment": "neutral",
+                                    "word_count": len(item.split())
+                                })
+                            elif isinstance(item, dict):
+                                # Ensure all required fields exist
+                                normalized_item = {
+                                    "joke": item.get("joke", ""),
+                                    "timestamp": item.get("timestamp", ""),
+                                    "category": item.get("category", "general"),
+                                    "hash": item.get("hash", self.get_joke_hash(item.get("joke", ""))),
+                                    "sentiment": item.get("sentiment", "neutral"),
+                                    "word_count": item.get("word_count", len(item.get("joke", "").split()))
+                                }
+                                normalized_history.append(normalized_item)
+                        return normalized_history
                     elif isinstance(data, list):
-                        # Convert old format to new format
-                        return [{"joke": joke, "timestamp": "", "category": "general"} for joke in data]
+                        # Convert old list format to new format
+                        return [{
+                            "joke": joke if isinstance(joke, str) else str(joke),
+                            "timestamp": "",
+                            "category": "general",
+                            "hash": self.get_joke_hash(joke if isinstance(joke, str) else str(joke)),
+                            "sentiment": "neutral",
+                            "word_count": len((joke if isinstance(joke, str) else str(joke)).split())
+                        } for joke in data]
                 except json.JSONDecodeError:
                     return []
         return []
@@ -55,11 +86,12 @@ class JokeManager:
     def get_dev_joke(self, category: str = None) -> Dict:
         """Fetch a new programming joke with enhanced prompting"""
         jokes = self.load_joke_history()
-        not_allowed = "\n".join([f"- {j.get('joke', j)}" for j in jokes]) if jokes else "None yet"
+        # Safe extraction of joke text from both old and new formats
+        not_allowed = "\n".join([f"- {joke['joke']}" for joke in jokes if joke.get('joke')]) if jokes else "None yet"
         
         # Smart category rotation
         if not category:
-            used_categories = [j.get('category', 'general') for j in jokes[-5:]]
+            used_categories = [joke.get('category', 'general') for joke in jokes[-5:]]
             available_categories = [c for c in self.categories if c not in used_categories]
             category = available_categories[0] if available_categories else "general"
         
