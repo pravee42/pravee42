@@ -12,10 +12,8 @@
 
 ### 😂 Dev Joke of the Day
 <!-- JOKE-START -->
-```js
-Why did the router file for divorce?
-Irreconcilable differences in network traffic,
-It said, "I just can't connect anymore!"
+```py
+Why do programmers prefer dark mode? Because light attracts bugs!
 ```
 <!-- JOKE-END -->
 
