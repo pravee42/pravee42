@@ -13,10 +13,10 @@
 ### 😂 Dev Joke of the Day
 <!-- JOKE-START -->
 ```javascript
-I told CSS to round those corners, but it just gave me the *border*line of what I wanted.
+Git add . -- I'm committing to this joke, even if it's a merge conflict.
 ```
-*🏷️ Category: css | 📅 2025-08-30 08:42 UTC*
-*📊 Joke Stats: 1 jokes generated | Top category: css (1)*
+*🏷️ Category: git | 📅 2025-08-30 08:43 UTC*
+*📊 Joke Stats: 1 jokes generated | Top category: git (1)*
 <!-- JOKE-END -->
 
 

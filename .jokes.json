@@ -26,11 +26,19 @@
     },
     {
       "joke": "I told CSS to round those corners, but it just gave me the *border*line of what I wanted.",
-      "category": "css",
       "timestamp": "2025-08-30T08:42:59.868061+00:00",
+      "category": "css",
       "hash": "7b2594bbc662ea6749c7724ae35ca436",
       "sentiment": "neutral",
       "word_count": 18
+    },
+    {
+      "joke": "Git add . -- I'm committing to this joke, even if it's a merge conflict.",
+      "category": "git",
+      "timestamp": "2025-08-30T08:43:36.985429+00:00",
+      "hash": "051a5fedc5247ce7b964a64ee7fd7ac7",
+      "sentiment": "neutral",
+      "word_count": 15
     }
   ]
 }
