@@ -2,11 +2,19 @@
   "history": [
     {
       "joke": "Why did the Python script break up with the Java program? Incompatible imports; it said they lacked *class*.",
-      "category": "python",
       "timestamp": "2025-08-30T08:40:35.661639+00:00",
+      "category": "python",
       "hash": "2b7a9f9c46503402c8ea561b3caa2e8c",
       "sentiment": "negative",
       "word_count": 18
+    },
+    {
+      "joke": "JavaScript: Where 'undefined' isn't a value, but a feeling of existential dread after debugging for 3 hours.",
+      "category": "javascript",
+      "timestamp": "2025-08-30T08:41:27.857035+00:00",
+      "hash": "3f4fbd147b06a8f8c6058a90f0730f51",
+      "sentiment": "negative",
+      "word_count": 17
     }
   ]
 }

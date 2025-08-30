@@ -13,10 +13,10 @@
 ### 😂 Dev Joke of the Day
 <!-- JOKE-START -->
 ```javascript
-Why did the Python script break up with the Java program? Incompatible imports; it said they lacked *class*.
+JavaScript: Where 'undefined' isn't a value, but a feeling of existential dread after debugging for 3 hours.
 ```
-*🏷️ Category: python | 📅 2025-08-30 08:40 UTC*
-*📊 Joke Stats: 1 jokes generated | Top category: python (1)*
+*🏷️ Category: javascript | 📅 2025-08-30 08:41 UTC*
+*📊 Joke Stats: 1 jokes generated | Top category: javascript (1)*
 <!-- JOKE-END -->
 
 
