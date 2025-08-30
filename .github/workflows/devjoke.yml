@@ -2,7 +2,10 @@ name: "Update Dev Joke of the Day"
 
 on:
   schedule:
-    - cron: "0 6 * * *"  # Runs every day at 06:00 UTC
+    # Runs at 06:00 IST (00:30 UTC)
+    - cron: "30 0 * * *"
+    # Runs at 18:00 IST (12:30 UTC)
+    - cron: "30 12 * * *"
   workflow_dispatch:
 
 jobs:
