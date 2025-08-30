@@ -8,26 +8,26 @@ API_KEY = os.getenv("GEMINI_API_KEY")
 JOKE_FILE = Path(".jokes.json")
 
 def get_dev_joke():
-    """Fetch a dev joke from Gemini API (return whatever text it gives)."""
-    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?key={API_KEY}"
+    """Fetch a dev joke from Gemini API (using gemini-2.0-flash)."""
+    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key={API_KEY}"
     payload = {
         "contents": [
-            {"parts": [{"text": "Tell me a short and funny programming joke."}]}
+            {
+                "parts": [
+                    {"text": "Tell me a short, funny programming joke under 25 words."}
+                ]
+            }
         ]
     }
     try:
-        response = requests.post(url, json=payload, timeout=20)
+        response = requests.post(url, headers={"Content-Type": "application/json"}, json=payload, timeout=20)
         data = response.json()
 
-        # Just return whatever text exists, no filtering
+        # Return whatever text Gemini provides
         if "candidates" in data:
             cand = data["candidates"][0]
             if "content" in cand and "parts" in cand["content"]:
                 return cand["content"]["parts"][0].get("text", "").strip()
-            elif "output_text" in cand:
-                return cand["output_text"].strip()
-
-        # fallback raw text dump
         return json.dumps(data, indent=2)
 
     except Exception as e:
