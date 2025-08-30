@@ -13,8 +13,7 @@
 ### 😂 Dev Joke of the Day
 <!-- JOKE-START -->
 ```js
-!false - true
-I get it!
+Debugging: Removing the needles from the haystack.
 ```
 <!-- JOKE-END -->
 
