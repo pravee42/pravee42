@@ -58,11 +58,19 @@
     },
     {
       "joke": "JavaScript: Promises are like toddlers. They're always pending, and rarely deliver as expected.",
-      "category": "javascript",
       "timestamp": "2025-08-31T02:19:02.801997+00:00",
+      "category": "javascript",
       "hash": "c51bf123fb17044e401002d95912cf28",
       "sentiment": "neutral",
       "word_count": 13
+    },
+    {
+      "joke": "Debugging: The art of turning a code-based assumption into a system requirement.",
+      "category": "debugging",
+      "timestamp": "2025-08-31T12:42:33.255716+00:00",
+      "hash": "051b50c2dc879146e879e8f29fed77e6",
+      "sentiment": "negative",
+      "word_count": 12
     }
   ]
 }
