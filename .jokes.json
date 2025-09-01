@@ -82,11 +82,19 @@
     },
     {
       "joke": "Git blame pointed to me? Nah, it was a cosmic ray bit flip in the repo, I swear!",
-      "category": "git",
       "timestamp": "2025-09-01T02:31:09.142437+00:00",
+      "category": "git",
       "hash": "b478275ce84124c458f4dc9b64f45bfe",
       "sentiment": "neutral",
       "word_count": 18
+    },
+    {
+      "joke": "My SQL query took 5 hours. Turns out, I joined the wrong tables and accidentally built a data warehouse.",
+      "category": "databases",
+      "timestamp": "2025-09-01T13:06:08.113903+00:00",
+      "hash": "bc5f7c3acb21628ed865412eecadbade",
+      "sentiment": "neutral",
+      "word_count": 19
     }
   ]
 }
