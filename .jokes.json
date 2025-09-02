@@ -98,11 +98,19 @@
     },
     {
       "joke": "Why did the Python class go to therapy? It had too many inherited issues.",
-      "category": "python",
       "timestamp": "2025-09-02T02:15:42.843867+00:00",
+      "category": "python",
       "hash": "63650973848452d53732f3d98afaa4b6",
       "sentiment": "neutral",
       "word_count": 14
+    },
+    {
+      "joke": "JavaScript: Adding \"async\" doesn't magically make your coffee appear faster. Just the bugs.",
+      "category": "javascript",
+      "timestamp": "2025-09-02T13:06:07.461877+00:00",
+      "hash": "e8593e1865c1cefac7b75ac841f6f4fa",
+      "sentiment": "negative",
+      "word_count": 13
     }
   ]
 }
