@@ -90,11 +90,19 @@
     },
     {
       "joke": "My SQL query took 5 hours. Turns out, I joined the wrong tables and accidentally built a data warehouse.",
-      "category": "databases",
       "timestamp": "2025-09-01T13:06:08.113903+00:00",
+      "category": "databases",
       "hash": "bc5f7c3acb21628ed865412eecadbade",
       "sentiment": "neutral",
       "word_count": 19
+    },
+    {
+      "joke": "Why did the Python class go to therapy? It had too many inherited issues.",
+      "category": "python",
+      "timestamp": "2025-09-02T02:15:42.843867+00:00",
+      "hash": "63650973848452d53732f3d98afaa4b6",
+      "sentiment": "neutral",
+      "word_count": 14
     }
   ]
 }
