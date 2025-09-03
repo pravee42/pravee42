@@ -114,9 +114,17 @@
     },
     {
       "joke": "Debugging: Turning \"it's probably DNS\" into a frantic search for a missing semicolon.",
-      "category": "debugging",
       "timestamp": "2025-09-03T02:06:55.790307+00:00",
+      "category": "debugging",
       "hash": "8c7a020d13c99131c6c875868263634b",
+      "sentiment": "negative",
+      "word_count": 13
+    },
+    {
+      "joke": "CSS: Making \"cascading\" a feature, not a bug, since 1996. (Mostly a bug.)",
+      "category": "css",
+      "timestamp": "2025-09-03T13:03:37.602464+00:00",
+      "hash": "8ec1354cb006defef5c6d72c22b9937f",
       "sentiment": "negative",
       "word_count": 13
     }
