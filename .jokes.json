@@ -106,9 +106,17 @@
     },
     {
       "joke": "JavaScript: Adding \"async\" doesn't magically make your coffee appear faster. Just the bugs.",
-      "category": "javascript",
       "timestamp": "2025-09-02T13:06:07.461877+00:00",
+      "category": "javascript",
       "hash": "e8593e1865c1cefac7b75ac841f6f4fa",
+      "sentiment": "negative",
+      "word_count": 13
+    },
+    {
+      "joke": "Debugging: Turning \"it's probably DNS\" into a frantic search for a missing semicolon.",
+      "category": "debugging",
+      "timestamp": "2025-09-03T02:06:55.790307+00:00",
+      "hash": "8c7a020d13c99131c6c875868263634b",
       "sentiment": "negative",
       "word_count": 13
     }
