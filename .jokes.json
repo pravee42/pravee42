@@ -130,9 +130,17 @@
     },
     {
       "joke": "My Git history is like my life: a series of amends I keep pushing to \"origin.\"",
-      "category": "git",
       "timestamp": "2025-09-04T02:07:10.308254+00:00",
+      "category": "git",
       "hash": "1a694d01730fa413f4fbb43a5db8b872",
+      "sentiment": "neutral",
+      "word_count": 16
+    },
+    {
+      "joke": "Database schema changes: The only field where \"cascade delete\" sounds like a good idea...until it isn't.",
+      "category": "databases",
+      "timestamp": "2025-09-04T13:01:31.459254+00:00",
+      "hash": "e3442bfb3685dd7853cd0afdea6e9c26",
       "sentiment": "neutral",
       "word_count": 16
     }
