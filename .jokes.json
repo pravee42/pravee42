@@ -122,11 +122,19 @@
     },
     {
       "joke": "CSS: Making \"cascading\" a feature, not a bug, since 1996. (Mostly a bug.)",
-      "category": "css",
       "timestamp": "2025-09-03T13:03:37.602464+00:00",
+      "category": "css",
       "hash": "8ec1354cb006defef5c6d72c22b9937f",
       "sentiment": "negative",
       "word_count": 13
+    },
+    {
+      "joke": "My Git history is like my life: a series of amends I keep pushing to \"origin.\"",
+      "category": "git",
+      "timestamp": "2025-09-04T02:07:10.308254+00:00",
+      "hash": "1a694d01730fa413f4fbb43a5db8b872",
+      "sentiment": "neutral",
+      "word_count": 16
     }
   ]
 }
