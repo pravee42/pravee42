@@ -146,11 +146,19 @@
     },
     {
       "joke": "Python's philosophy: Batteries included. Debugging? Sold separately.",
-      "category": "python",
       "timestamp": "2025-09-05T02:10:25.318136+00:00",
+      "category": "python",
       "hash": "f83b4ec122904209cd97599a07eb1519",
       "sentiment": "negative",
       "word_count": 7
+    },
+    {
+      "joke": "JavaScript: You can parseInt(\"I'm 10 years old\") but can't parseInt(\"10 things I hate\"), go figure.",
+      "category": "javascript",
+      "timestamp": "2025-09-05T13:02:45.184787+00:00",
+      "hash": "6ea54353ae232e2329534a9d0f87807e",
+      "sentiment": "negative",
+      "word_count": 15
     }
   ]
 }
