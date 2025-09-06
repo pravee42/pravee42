@@ -162,10 +162,18 @@
     },
     {
       "joke": "\"Fixed the bug,\" he lied, incrementing the retry counter one last time before deployment.",
-      "category": "debugging",
       "timestamp": "2025-09-06T02:06:54.087655+00:00",
+      "category": "debugging",
       "hash": "0d4ca948fad801958789c8f11f807c20",
       "sentiment": "negative",
+      "word_count": 14
+    },
+    {
+      "joke": "CSS is like interior design, except your browser's default style is a prison cell.",
+      "category": "css",
+      "timestamp": "2025-09-06T12:56:37.180093+00:00",
+      "hash": "b79455a6cfd54c45507681d310af513c",
+      "sentiment": "neutral",
       "word_count": 14
     }
   ]
