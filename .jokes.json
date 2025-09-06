@@ -154,11 +154,19 @@
     },
     {
       "joke": "JavaScript: You can parseInt(\"I'm 10 years old\") but can't parseInt(\"10 things I hate\"), go figure.",
-      "category": "javascript",
       "timestamp": "2025-09-05T13:02:45.184787+00:00",
+      "category": "javascript",
       "hash": "6ea54353ae232e2329534a9d0f87807e",
       "sentiment": "negative",
       "word_count": 15
+    },
+    {
+      "joke": "\"Fixed the bug,\" he lied, incrementing the retry counter one last time before deployment.",
+      "category": "debugging",
+      "timestamp": "2025-09-06T02:06:54.087655+00:00",
+      "hash": "0d4ca948fad801958789c8f11f807c20",
+      "sentiment": "negative",
+      "word_count": 14
     }
   ]
 }
