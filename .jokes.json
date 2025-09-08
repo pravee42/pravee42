@@ -194,11 +194,19 @@
     },
     {
       "joke": "Why did the Python developer refuse to refactor? They feared creating a snake pit of dependencies.",
-      "category": "python",
       "timestamp": "2025-09-08T02:16:31.311442+00:00",
+      "category": "python",
       "hash": "8f6149124023555943c202ea39a0b6ff",
       "sentiment": "neutral",
       "word_count": 16
+    },
+    {
+      "joke": "JavaScript: It's not a bug; it's an undocumented feature with dynamic typing and a high tolerance for caffeine.",
+      "category": "javascript",
+      "timestamp": "2025-09-08T13:06:35.414740+00:00",
+      "hash": "72796bb04344e2d461bdcd6a18d98723",
+      "sentiment": "negative",
+      "word_count": 18
     }
   ]
 }
