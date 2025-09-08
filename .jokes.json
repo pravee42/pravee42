@@ -186,11 +186,19 @@
     },
     {
       "joke": "My database design philosophy: if at first you don't succeed, add another JOIN.",
-      "category": "databases",
       "timestamp": "2025-09-07T12:57:32.115050+00:00",
+      "category": "databases",
       "hash": "8f3f60928fb7c866fe9373e6f8372c59",
       "sentiment": "neutral",
       "word_count": 13
+    },
+    {
+      "joke": "Why did the Python developer refuse to refactor? They feared creating a snake pit of dependencies.",
+      "category": "python",
+      "timestamp": "2025-09-08T02:16:31.311442+00:00",
+      "hash": "8f6149124023555943c202ea39a0b6ff",
+      "sentiment": "neutral",
+      "word_count": 16
     }
   ]
 }
