@@ -202,11 +202,19 @@
     },
     {
       "joke": "JavaScript: It's not a bug; it's an undocumented feature with dynamic typing and a high tolerance for caffeine.",
-      "category": "javascript",
       "timestamp": "2025-09-08T13:06:35.414740+00:00",
+      "category": "javascript",
       "hash": "72796bb04344e2d461bdcd6a18d98723",
       "sentiment": "negative",
       "word_count": 18
+    },
+    {
+      "joke": "Debugging: Confirming what you already *suspected* is broken, with bonus Stack Overflow visits.",
+      "category": "debugging",
+      "timestamp": "2025-09-09T02:12:18.816339+00:00",
+      "hash": "a9cb828064ee172e01cff5e2871d25d2",
+      "sentiment": "negative",
+      "word_count": 13
     }
   ]
 }
