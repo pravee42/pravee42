@@ -210,11 +210,19 @@
     },
     {
       "joke": "Debugging: Confirming what you already *suspected* is broken, with bonus Stack Overflow visits.",
-      "category": "debugging",
       "timestamp": "2025-09-09T02:12:18.816339+00:00",
+      "category": "debugging",
       "hash": "a9cb828064ee172e01cff5e2871d25d2",
       "sentiment": "negative",
       "word_count": 13
+    },
+    {
+      "joke": "CSS: Where specificity always wins, except when it doesn't. Because !important.",
+      "category": "css",
+      "timestamp": "2025-09-09T13:07:28.045420+00:00",
+      "hash": "2f39c4ee348cba84ea848cbbdb458762",
+      "sentiment": "neutral",
+      "word_count": 11
     }
   ]
 }
