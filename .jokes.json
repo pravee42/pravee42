@@ -218,9 +218,17 @@
     },
     {
       "joke": "CSS: Where specificity always wins, except when it doesn't. Because !important.",
-      "category": "css",
       "timestamp": "2025-09-09T13:07:28.045420+00:00",
+      "category": "css",
       "hash": "2f39c4ee348cba84ea848cbbdb458762",
+      "sentiment": "neutral",
+      "word_count": 11
+    },
+    {
+      "joke": "I 'git' rid of my stash. Now it's a 're-vert-ed' mess.",
+      "category": "git",
+      "timestamp": "2025-09-10T02:08:04.624451+00:00",
+      "hash": "62314a9626148e2e2dd2b3bf83262f1d",
       "sentiment": "neutral",
       "word_count": 11
     }
