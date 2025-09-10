@@ -226,9 +226,17 @@
     },
     {
       "joke": "I 'git' rid of my stash. Now it's a 're-vert-ed' mess.",
-      "category": "git",
       "timestamp": "2025-09-10T02:08:04.624451+00:00",
+      "category": "git",
       "hash": "62314a9626148e2e2dd2b3bf83262f1d",
+      "sentiment": "neutral",
+      "word_count": 11
+    },
+    {
+      "joke": "Optimistic locking: Because sometimes, assuming the best just means more rollbacks.",
+      "category": "databases",
+      "timestamp": "2025-09-10T13:03:13.552144+00:00",
+      "hash": "db4d42c41f7e9383363f40145465c80a",
       "sentiment": "neutral",
       "word_count": 11
     }
