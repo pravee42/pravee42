@@ -234,11 +234,19 @@
     },
     {
       "joke": "Optimistic locking: Because sometimes, assuming the best just means more rollbacks.",
-      "category": "databases",
       "timestamp": "2025-09-10T13:03:13.552144+00:00",
+      "category": "databases",
       "hash": "db4d42c41f7e9383363f40145465c80a",
       "sentiment": "neutral",
       "word_count": 11
+    },
+    {
+      "joke": "Python: Import antigravity. Debugging? Now *that's* a black hole.",
+      "category": "python",
+      "timestamp": "2025-09-11T02:11:20.944922+00:00",
+      "hash": "dc62d34d0c238feb4a1f9a23e17e60b0",
+      "sentiment": "negative",
+      "word_count": 9
     }
   ]
 }
