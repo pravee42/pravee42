@@ -242,11 +242,19 @@
     },
     {
       "joke": "Python: Import antigravity. Debugging? Now *that's* a black hole.",
-      "category": "python",
       "timestamp": "2025-09-11T02:11:20.944922+00:00",
+      "category": "python",
       "hash": "dc62d34d0c238feb4a1f9a23e17e60b0",
       "sentiment": "negative",
       "word_count": 9
+    },
+    {
+      "joke": "JavaScript: Where adding \"use strict\"; makes the code stricter, but the developer less so.",
+      "category": "javascript",
+      "timestamp": "2025-09-11T13:02:30.537702+00:00",
+      "hash": "937c310ee133e688716db3137cf961e8",
+      "sentiment": "neutral",
+      "word_count": 14
     }
   ]
 }
