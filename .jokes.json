@@ -258,11 +258,19 @@
     },
     {
       "joke": "`console.log(\"Debugging: Where you're a detective in a crime scene, and also the murderer.\");`",
-      "category": "debugging",
       "timestamp": "2025-09-12T02:06:33.246285+00:00",
+      "category": "debugging",
       "hash": "515f2548ee52fef65926b2e20c77394c",
       "sentiment": "negative",
       "word_count": 13
+    },
+    {
+      "joke": "I tried to make my CSS responsive, but it just kept asking, \"To what?\"",
+      "category": "css",
+      "timestamp": "2025-09-12T13:01:31.550319+00:00",
+      "hash": "7397dc94bd7f734e4699df2d465d8b16",
+      "sentiment": "neutral",
+      "word_count": 14
     }
   ]
 }
