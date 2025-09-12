@@ -250,11 +250,19 @@
     },
     {
       "joke": "JavaScript: Where adding \"use strict\"; makes the code stricter, but the developer less so.",
-      "category": "javascript",
       "timestamp": "2025-09-11T13:02:30.537702+00:00",
+      "category": "javascript",
       "hash": "937c310ee133e688716db3137cf961e8",
       "sentiment": "neutral",
       "word_count": 14
+    },
+    {
+      "joke": "`console.log(\"Debugging: Where you're a detective in a crime scene, and also the murderer.\");`",
+      "category": "debugging",
+      "timestamp": "2025-09-12T02:06:33.246285+00:00",
+      "hash": "515f2548ee52fef65926b2e20c77394c",
+      "sentiment": "negative",
+      "word_count": 13
     }
   ]
 }
