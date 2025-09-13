@@ -274,11 +274,19 @@
     },
     {
       "joke": "My feature branch exists, but after rebasing, does it REALLY exist?",
-      "category": "git",
       "timestamp": "2025-09-13T01:56:49.453620+00:00",
+      "category": "git",
       "hash": "a0deed92c7200a4e13a0a8819dabb7bd",
       "sentiment": "neutral",
       "word_count": 11
+    },
+    {
+      "joke": "NoSQL? More like NoSchema, NoProblem... until production.",
+      "category": "databases",
+      "timestamp": "2025-09-13T12:57:14.613237+00:00",
+      "hash": "8df8a1215bba5438fec0645410054208",
+      "sentiment": "neutral",
+      "word_count": 7
     }
   ]
 }
