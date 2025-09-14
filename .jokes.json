@@ -290,11 +290,19 @@
     },
     {
       "joke": "Python: duck typing means you're never sure if it's a class or just winging it.",
-      "category": "python",
       "timestamp": "2025-09-14T02:15:18.639449+00:00",
+      "category": "python",
       "hash": "218b9bb4e55d47597a6e2e9d78a47aa1",
       "sentiment": "neutral",
       "word_count": 15
+    },
+    {
+      "joke": "JavaScript: Where you can declare a variable with `let`, `const`, or a prayer.",
+      "category": "javascript",
+      "timestamp": "2025-09-14T12:56:34.195191+00:00",
+      "hash": "b9f8ac8153086ee1ca7fb7b11703ec65",
+      "sentiment": "neutral",
+      "word_count": 13
     }
   ]
 }
