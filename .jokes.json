@@ -282,11 +282,19 @@
     },
     {
       "joke": "NoSQL? More like NoSchema, NoProblem... until production.",
-      "category": "databases",
       "timestamp": "2025-09-13T12:57:14.613237+00:00",
+      "category": "databases",
       "hash": "8df8a1215bba5438fec0645410054208",
       "sentiment": "neutral",
       "word_count": 7
+    },
+    {
+      "joke": "Python: duck typing means you're never sure if it's a class or just winging it.",
+      "category": "python",
+      "timestamp": "2025-09-14T02:15:18.639449+00:00",
+      "hash": "218b9bb4e55d47597a6e2e9d78a47aa1",
+      "sentiment": "neutral",
+      "word_count": 15
     }
   ]
 }
