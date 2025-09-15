@@ -298,11 +298,19 @@
     },
     {
       "joke": "JavaScript: Where you can declare a variable with `let`, `const`, or a prayer.",
-      "category": "javascript",
       "timestamp": "2025-09-14T12:56:34.195191+00:00",
+      "category": "javascript",
       "hash": "b9f8ac8153086ee1ca7fb7b11703ec65",
       "sentiment": "neutral",
       "word_count": 13
+    },
+    {
+      "joke": "\"Debugging: Like being the hero in a logic puzzle where you are also the villain.\"",
+      "category": "debugging",
+      "timestamp": "2025-09-15T02:17:43.103660+00:00",
+      "hash": "d3d7e881dd10c2220fc6471092a0cbf2",
+      "sentiment": "negative",
+      "word_count": 15
     }
   ]
 }
