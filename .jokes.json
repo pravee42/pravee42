@@ -338,11 +338,19 @@
     },
     {
       "joke": "Python's great: code's readable... until you nest list comprehensions. Then it's line noise.",
-      "category": "python",
       "timestamp": "2025-09-17T02:07:59.184134+00:00",
+      "category": "python",
       "hash": "a697bcd56caffbc2fad530f7bf0a475c",
       "sentiment": "positive",
       "word_count": 13
+    },
+    {
+      "joke": "JavaScript: Elegantly turning well-defined problems into asynchronous mysteries.",
+      "category": "javascript",
+      "timestamp": "2025-09-17T13:04:48.507728+00:00",
+      "hash": "2cd1bf4796edfcc23d40dcfaf007b0d3",
+      "sentiment": "neutral",
+      "word_count": 8
     }
   ]
 }
