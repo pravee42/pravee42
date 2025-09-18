@@ -346,11 +346,19 @@
     },
     {
       "joke": "JavaScript: Elegantly turning well-defined problems into asynchronous mysteries.",
-      "category": "javascript",
       "timestamp": "2025-09-17T13:04:48.507728+00:00",
+      "category": "javascript",
       "hash": "2cd1bf4796edfcc23d40dcfaf007b0d3",
       "sentiment": "neutral",
       "word_count": 8
+    },
+    {
+      "joke": "Debugging: Successfully restoring the system to when you *thought* it was working.",
+      "category": "debugging",
+      "timestamp": "2025-09-18T02:08:20.221045+00:00",
+      "hash": "a464552fd5a29304260aad24d4205bce",
+      "sentiment": "negative",
+      "word_count": 12
     }
   ]
 }
