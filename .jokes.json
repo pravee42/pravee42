@@ -354,11 +354,19 @@
     },
     {
       "joke": "Debugging: Successfully restoring the system to when you *thought* it was working.",
-      "category": "debugging",
       "timestamp": "2025-09-18T02:08:20.221045+00:00",
+      "category": "debugging",
       "hash": "a464552fd5a29304260aad24d4205bce",
       "sentiment": "negative",
       "word_count": 12
+    },
+    {
+      "joke": "CSS: The cascade is a feature, right up until it's an avalanche of !important.",
+      "category": "css",
+      "timestamp": "2025-09-18T13:04:07.435060+00:00",
+      "hash": "fb46d4ca19977f4bdebeb06847c58b61",
+      "sentiment": "neutral",
+      "word_count": 14
     }
   ]
 }
