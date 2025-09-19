@@ -370,11 +370,19 @@
     },
     {
       "joke": "Git: Because remembering commands is easier than admitting you need a UI.",
-      "category": "git",
       "timestamp": "2025-09-19T02:12:18.417030+00:00",
+      "category": "git",
       "hash": "d136aa6bacba866f9cf4623115d9d294",
       "sentiment": "neutral",
       "word_count": 12
+    },
+    {
+      "joke": "Database design: It's all fun and games until someone needs to explain the entity-relationship diagram.",
+      "category": "databases",
+      "timestamp": "2025-09-19T13:03:33.369665+00:00",
+      "hash": "a55b8fde4045962dc663b94386016509",
+      "sentiment": "positive",
+      "word_count": 15
     }
   ]
 }
