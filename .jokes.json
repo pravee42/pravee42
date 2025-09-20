@@ -378,11 +378,19 @@
     },
     {
       "joke": "Database design: It's all fun and games until someone needs to explain the entity-relationship diagram.",
-      "category": "databases",
       "timestamp": "2025-09-19T13:03:33.369665+00:00",
+      "category": "databases",
       "hash": "a55b8fde4045962dc663b94386016509",
       "sentiment": "positive",
       "word_count": 15
+    },
+    {
+      "joke": "Python's scoping: where your variable's lifespan is a surprise party you didn't plan.",
+      "category": "python",
+      "timestamp": "2025-09-20T02:06:02.933207+00:00",
+      "hash": "53d80f39998d9ffa932acf28a4a508c9",
+      "sentiment": "neutral",
+      "word_count": 13
     }
   ]
 }
