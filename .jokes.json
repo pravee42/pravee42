@@ -386,10 +386,18 @@
     },
     {
       "joke": "Python's scoping: where your variable's lifespan is a surprise party you didn't plan.",
-      "category": "python",
       "timestamp": "2025-09-20T02:06:02.933207+00:00",
+      "category": "python",
       "hash": "53d80f39998d9ffa932acf28a4a508c9",
       "sentiment": "neutral",
+      "word_count": 13
+    },
+    {
+      "joke": "JavaScript: It’s not a bug; it's an unexpected feature request from the browser.",
+      "category": "javascript",
+      "timestamp": "2025-09-20T12:59:29.342559+00:00",
+      "hash": "9d31a5b5ffa7c3f609d4b9be4ca356ba",
+      "sentiment": "negative",
       "word_count": 13
     }
   ]
