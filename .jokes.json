@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "Why did the Python script break up with the Java program? Incompatible imports; it said they lacked *class*.",
-      "timestamp": "2025-08-30T08:40:35.661639+00:00",
-      "category": "python",
-      "hash": "2b7a9f9c46503402c8ea561b3caa2e8c",
-      "sentiment": "negative",
-      "word_count": 18
-    },
-    {
       "joke": "JavaScript: Where 'undefined' isn't a value, but a feeling of existential dread after debugging for 3 hours.",
       "timestamp": "2025-08-30T08:41:27.857035+00:00",
       "category": "javascript",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "JavaScript: It’s not a bug; it's an unexpected feature request from the browser.",
-      "category": "javascript",
       "timestamp": "2025-09-20T12:59:29.342559+00:00",
+      "category": "javascript",
       "hash": "9d31a5b5ffa7c3f609d4b9be4ca356ba",
       "sentiment": "negative",
       "word_count": 13
+    },
+    {
+      "joke": "Debugging: The process of going backwards from the future to understand why the past is broken.",
+      "category": "debugging",
+      "timestamp": "2025-09-21T02:19:20.889016+00:00",
+      "hash": "48a798f9ed38a2f4122107f6ea012988",
+      "sentiment": "negative",
+      "word_count": 16
     }
   ]
 }
