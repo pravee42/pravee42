@@ -13,10 +13,10 @@
 ### 😂 Dev Joke of the Day
 <!-- JOKE-START -->
 ```javascript
-My git workflow? Rebase early, rebase often... then resolve conflicts until dawn.
+My ORM promised abstraction. Now I have layers upon layers of abstraction... and a slow query.
 ```
-*🏷️ Category: git | 📅 2025-09-22 02:18 UTC*
-*📊 Joke Stats: 1 jokes generated | Top category: git (1)*
+*🏷️ Category: databases | 📅 2025-09-22 13:05 UTC*
+*📊 Joke Stats: 1 jokes generated | Top category: databases (1)*
 <!-- JOKE-END -->
 
 

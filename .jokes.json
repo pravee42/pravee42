@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "I told CSS to round those corners, but it just gave me the *border*line of what I wanted.",
-      "timestamp": "2025-08-30T08:42:59.868061+00:00",
-      "category": "css",
-      "hash": "7b2594bbc662ea6749c7724ae35ca436",
-      "sentiment": "neutral",
-      "word_count": 18
-    },
-    {
       "joke": "Git add . -- I'm committing to this joke, even if it's a merge conflict.",
       "timestamp": "2025-08-30T08:43:36.985429+00:00",
       "category": "git",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "My git workflow? Rebase early, rebase often... then resolve conflicts until dawn.",
-      "category": "git",
       "timestamp": "2025-09-22T02:18:59.097282+00:00",
+      "category": "git",
       "hash": "8770ce7937a1b719a755a540826ed295",
       "sentiment": "neutral",
       "word_count": 12
+    },
+    {
+      "joke": "My ORM promised abstraction. Now I have layers upon layers of abstraction... and a slow query.",
+      "category": "databases",
+      "timestamp": "2025-09-22T13:05:57.447970+00:00",
+      "hash": "f72222711b55dae5a634fd39147c7a83",
+      "sentiment": "neutral",
+      "word_count": 16
     }
   ]
 }
