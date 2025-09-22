@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "My code has zero bugs. Instead, it develops unexpected *features* during debugging.",
-      "timestamp": "2025-08-30T08:42:06.660580+00:00",
-      "category": "debugging",
-      "hash": "a757f7e08b2b58aae5be17a71b3209ce",
-      "sentiment": "negative",
-      "word_count": 12
-    },
-    {
       "joke": "I told CSS to round those corners, but it just gave me the *border*line of what I wanted.",
       "timestamp": "2025-08-30T08:42:59.868061+00:00",
       "category": "css",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "CSS: Adding `!important` is like yelling. It solves *some* problems.",
-      "category": "css",
       "timestamp": "2025-09-21T12:58:43.471165+00:00",
+      "category": "css",
       "hash": "73aaf9da29a19ea991d06ba64422bbd1",
       "sentiment": "neutral",
       "word_count": 10
+    },
+    {
+      "joke": "My git workflow? Rebase early, rebase often... then resolve conflicts until dawn.",
+      "category": "git",
+      "timestamp": "2025-09-22T02:18:59.097282+00:00",
+      "hash": "8770ce7937a1b719a755a540826ed295",
+      "sentiment": "neutral",
+      "word_count": 12
     }
   ]
 }
