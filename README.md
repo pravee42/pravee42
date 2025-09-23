@@ -13,10 +13,10 @@
 ### 😂 Dev Joke of the Day
 <!-- JOKE-START -->
 ```javascript
-My ORM promised abstraction. Now I have layers upon layers of abstraction... and a slow query.
+Python: Easy to pick up, hard to put down... especially when the interpreter's still running.
 ```
-*🏷️ Category: databases | 📅 2025-09-22 13:05 UTC*
-*📊 Joke Stats: 1 jokes generated | Top category: databases (1)*
+*🏷️ Category: python | 📅 2025-09-23 02:08 UTC*
+*📊 Joke Stats: 1 jokes generated | Top category: python (1)*
 <!-- JOKE-END -->
 
 

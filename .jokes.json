@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "Git add . -- I'm committing to this joke, even if it's a merge conflict.",
-      "timestamp": "2025-08-30T08:43:36.985429+00:00",
-      "category": "git",
-      "hash": "051a5fedc5247ce7b964a64ee7fd7ac7",
-      "sentiment": "neutral",
-      "word_count": 15
-    },
-    {
       "joke": "My database normalization joke? It's in 3NF. I'd tell you more, but it's too relational.",
       "timestamp": "2025-08-30T08:44:25.476135+00:00",
       "category": "databases",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "My ORM promised abstraction. Now I have layers upon layers of abstraction... and a slow query.",
-      "category": "databases",
       "timestamp": "2025-09-22T13:05:57.447970+00:00",
+      "category": "databases",
       "hash": "f72222711b55dae5a634fd39147c7a83",
       "sentiment": "neutral",
       "word_count": 16
+    },
+    {
+      "joke": "Python: Easy to pick up, hard to put down... especially when the interpreter's still running.",
+      "category": "python",
+      "timestamp": "2025-09-23T02:08:27.623847+00:00",
+      "hash": "f216f73a23fc54408dd5d5bac89a44ee",
+      "sentiment": "neutral",
+      "word_count": 15
     }
   ]
 }
