@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "My database normalization joke? It's in 3NF. I'd tell you more, but it's too relational.",
-      "timestamp": "2025-08-30T08:44:25.476135+00:00",
-      "category": "databases",
-      "hash": "a095a97ff397ae39702734bdbb07b268",
-      "sentiment": "neutral",
-      "word_count": 15
-    },
-    {
       "joke": "Python: where indentation errors are less about syntax and more about your commitment to clean code.",
       "timestamp": "2025-08-30T12:58:46.342825+00:00",
       "category": "python",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "Python: Easy to pick up, hard to put down... especially when the interpreter's still running.",
-      "category": "python",
       "timestamp": "2025-09-23T02:08:27.623847+00:00",
+      "category": "python",
       "hash": "f216f73a23fc54408dd5d5bac89a44ee",
       "sentiment": "neutral",
       "word_count": 15
+    },
+    {
+      "joke": "JavaScript: `typeof null` is an object. Because reasons. Happy coding!",
+      "category": "javascript",
+      "timestamp": "2025-09-23T13:04:25.262953+00:00",
+      "hash": "e30412c1f27ca2432fe89cd9652dcf40",
+      "sentiment": "positive",
+      "word_count": 10
     }
   ]
 }

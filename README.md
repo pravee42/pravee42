@@ -13,10 +13,10 @@
 ### 😂 Dev Joke of the Day
 <!-- JOKE-START -->
 ```javascript
-Python: Easy to pick up, hard to put down... especially when the interpreter's still running.
+JavaScript: `typeof null` is an object. Because reasons. Happy coding!
 ```
-*🏷️ Category: python | 📅 2025-09-23 02:08 UTC*
-*📊 Joke Stats: 1 jokes generated | Top category: python (1)*
+*🏷️ Category: javascript | 📅 2025-09-23 13:04 UTC*
+*📊 Joke Stats: 1 jokes generated | Top category: javascript (1)*
 <!-- JOKE-END -->
 
 
