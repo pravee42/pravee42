@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "JavaScript: Promises are like toddlers. They're always pending, and rarely deliver as expected.",
-      "timestamp": "2025-08-31T02:19:02.801997+00:00",
-      "category": "javascript",
-      "hash": "c51bf123fb17044e401002d95912cf28",
-      "sentiment": "neutral",
-      "word_count": 13
-    },
-    {
       "joke": "Debugging: The art of turning a code-based assumption into a system requirement.",
       "timestamp": "2025-08-31T12:42:33.255716+00:00",
       "category": "debugging",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "Debugging: Officially confirming the error you introduced 2 weeks ago, line 372.",
-      "category": "debugging",
       "timestamp": "2025-09-24T02:10:05.705516+00:00",
+      "category": "debugging",
       "hash": "1edac5e74267a85202bbed251a59039e",
       "sentiment": "negative",
       "word_count": 12
+    },
+    {
+      "joke": "CSS: Flexbox? Grid? Nah, I'm still calculating pixels with a spreadsheet.",
+      "category": "css",
+      "timestamp": "2025-09-24T13:04:58.331978+00:00",
+      "hash": "2f15c9dc9d021b85669ed0e8201021b3",
+      "sentiment": "neutral",
+      "word_count": 11
     }
   ]
 }
