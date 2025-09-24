@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "Python: where indentation errors are less about syntax and more about your commitment to clean code.",
-      "timestamp": "2025-08-30T12:58:46.342825+00:00",
-      "category": "python",
-      "hash": "04d1c5fd448fa128d85f4edda0ecada7",
-      "sentiment": "negative",
-      "word_count": 16
-    },
-    {
       "joke": "JavaScript: Promises are like toddlers. They're always pending, and rarely deliver as expected.",
       "timestamp": "2025-08-31T02:19:02.801997+00:00",
       "category": "javascript",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "JavaScript: `typeof null` is an object. Because reasons. Happy coding!",
-      "category": "javascript",
       "timestamp": "2025-09-23T13:04:25.262953+00:00",
+      "category": "javascript",
       "hash": "e30412c1f27ca2432fe89cd9652dcf40",
       "sentiment": "positive",
       "word_count": 10
+    },
+    {
+      "joke": "Debugging: Officially confirming the error you introduced 2 weeks ago, line 372.",
+      "category": "debugging",
+      "timestamp": "2025-09-24T02:10:05.705516+00:00",
+      "hash": "1edac5e74267a85202bbed251a59039e",
+      "sentiment": "negative",
+      "word_count": 12
     }
   ]
 }
