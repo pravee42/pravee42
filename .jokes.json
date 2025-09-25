@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "CSS: When \"align-items: center\" is your last resort, and still a suggestion.",
-      "timestamp": "2025-08-31T12:59:56.084110+00:00",
-      "category": "css",
-      "hash": "1852994a0c21faeff6cdf74409303329",
-      "sentiment": "neutral",
-      "word_count": 12
-    },
-    {
       "joke": "Git blame pointed to me? Nah, it was a cosmic ray bit flip in the repo, I swear!",
       "timestamp": "2025-09-01T02:31:09.142437+00:00",
       "category": "git",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "My 'git reset --hard' was my 'undo,' until I realized I hadn't pushed. Now it's 'un-did.'",
-      "category": "git",
       "timestamp": "2025-09-25T02:12:12.027795+00:00",
+      "category": "git",
       "hash": "bec24f80286e5bc68e94a5eab21da50b",
       "sentiment": "neutral",
       "word_count": 16
+    },
+    {
+      "joke": "Database normalization: it's all fun and games 'til you need a 12-way JOIN.",
+      "category": "databases",
+      "timestamp": "2025-09-25T13:05:52.098875+00:00",
+      "hash": "10f95b62d1c2c0551439830ff4d4bd49",
+      "sentiment": "positive",
+      "word_count": 13
     }
   ]
 }
