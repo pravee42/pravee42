@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "Debugging: The art of turning a code-based assumption into a system requirement.",
-      "timestamp": "2025-08-31T12:42:33.255716+00:00",
-      "category": "debugging",
-      "hash": "051b50c2dc879146e879e8f29fed77e6",
-      "sentiment": "negative",
-      "word_count": 12
-    },
-    {
       "joke": "CSS: When \"align-items: center\" is your last resort, and still a suggestion.",
       "timestamp": "2025-08-31T12:59:56.084110+00:00",
       "category": "css",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "CSS: Flexbox? Grid? Nah, I'm still calculating pixels with a spreadsheet.",
-      "category": "css",
       "timestamp": "2025-09-24T13:04:58.331978+00:00",
+      "category": "css",
       "hash": "2f15c9dc9d021b85669ed0e8201021b3",
       "sentiment": "neutral",
       "word_count": 11
+    },
+    {
+      "joke": "My 'git reset --hard' was my 'undo,' until I realized I hadn't pushed. Now it's 'un-did.'",
+      "category": "git",
+      "timestamp": "2025-09-25T02:12:12.027795+00:00",
+      "hash": "bec24f80286e5bc68e94a5eab21da50b",
+      "sentiment": "neutral",
+      "word_count": 16
     }
   ]
 }
