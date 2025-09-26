@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "My SQL query took 5 hours. Turns out, I joined the wrong tables and accidentally built a data warehouse.",
-      "timestamp": "2025-09-01T13:06:08.113903+00:00",
-      "category": "databases",
-      "hash": "bc5f7c3acb21628ed865412eecadbade",
-      "sentiment": "neutral",
-      "word_count": 19
-    },
-    {
       "joke": "Why did the Python class go to therapy? It had too many inherited issues.",
       "timestamp": "2025-09-02T02:15:42.843867+00:00",
       "category": "python",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "Python: IndentationError? Nah, your code's just shy. Give it some space.",
-      "category": "python",
       "timestamp": "2025-09-26T02:10:47.870292+00:00",
+      "category": "python",
       "hash": "951f56b9df7a775741446d0ac815c326",
       "sentiment": "negative",
       "word_count": 11
+    },
+    {
+      "joke": "JavaScript: Promises are like opinions; everyone has one, but few are properly handled.",
+      "category": "javascript",
+      "timestamp": "2025-09-26T13:04:14.355806+00:00",
+      "hash": "79efe6c9cc0f4cec178ae0fcff246ed2",
+      "sentiment": "neutral",
+      "word_count": 13
     }
   ]
 }
