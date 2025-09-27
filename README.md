@@ -13,10 +13,10 @@
 ### 😂 Dev Joke of the Day
 <!-- JOKE-START -->
 ```javascript
-JavaScript: Promises are like opinions; everyone has one, but few are properly handled.
+"Debugging": Where the bug is never where the error message says it is.
 ```
-*🏷️ Category: javascript | 📅 2025-09-26 13:04 UTC*
-*📊 Joke Stats: 1 jokes generated | Top category: javascript (1)*
+*🏷️ Category: debugging | 📅 2025-09-27 02:06 UTC*
+*📊 Joke Stats: 1 jokes generated | Top category: debugging (1)*
 <!-- JOKE-END -->
 
 

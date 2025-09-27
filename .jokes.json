@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "Why did the Python class go to therapy? It had too many inherited issues.",
-      "timestamp": "2025-09-02T02:15:42.843867+00:00",
-      "category": "python",
-      "hash": "63650973848452d53732f3d98afaa4b6",
-      "sentiment": "neutral",
-      "word_count": 14
-    },
-    {
       "joke": "JavaScript: Adding \"async\" doesn't magically make your coffee appear faster. Just the bugs.",
       "timestamp": "2025-09-02T13:06:07.461877+00:00",
       "category": "javascript",
@@ -394,10 +386,18 @@
     },
     {
       "joke": "JavaScript: Promises are like opinions; everyone has one, but few are properly handled.",
-      "category": "javascript",
       "timestamp": "2025-09-26T13:04:14.355806+00:00",
+      "category": "javascript",
       "hash": "79efe6c9cc0f4cec178ae0fcff246ed2",
       "sentiment": "neutral",
+      "word_count": 13
+    },
+    {
+      "joke": "\"Debugging\": Where the bug is never where the error message says it is.",
+      "category": "debugging",
+      "timestamp": "2025-09-27T02:06:06.484811+00:00",
+      "hash": "36e005da2947a05c09dedd1ebb9841b9",
+      "sentiment": "negative",
       "word_count": 13
     }
   ]
