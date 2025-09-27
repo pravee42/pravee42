@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "JavaScript: Adding \"async\" doesn't magically make your coffee appear faster. Just the bugs.",
-      "timestamp": "2025-09-02T13:06:07.461877+00:00",
-      "category": "javascript",
-      "hash": "e8593e1865c1cefac7b75ac841f6f4fa",
-      "sentiment": "negative",
-      "word_count": 13
-    },
-    {
       "joke": "Debugging: Turning \"it's probably DNS\" into a frantic search for a missing semicolon.",
       "timestamp": "2025-09-03T02:06:55.790307+00:00",
       "category": "debugging",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "\"Debugging\": Where the bug is never where the error message says it is.",
-      "category": "debugging",
       "timestamp": "2025-09-27T02:06:06.484811+00:00",
+      "category": "debugging",
       "hash": "36e005da2947a05c09dedd1ebb9841b9",
       "sentiment": "negative",
       "word_count": 13
+    },
+    {
+      "joke": "CSS: I call it a style *sheet*, but it's more of a style *negotiation* with the browser.",
+      "category": "css",
+      "timestamp": "2025-09-27T12:57:41.438412+00:00",
+      "hash": "edc8ba4f4e70c419dee863dc053b161d",
+      "sentiment": "neutral",
+      "word_count": 17
     }
   ]
 }
