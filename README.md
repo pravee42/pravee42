@@ -13,10 +13,10 @@
 ### 😂 Dev Joke of the Day
 <!-- JOKE-START -->
 ```javascript
-Git blame points to me, but I swear the bug *originated* elsewhere.
+SQL: I have all the answers, but you need to phrase the question *just* right.
 ```
-*🏷️ Category: git | 📅 2025-09-28 02:20 UTC*
-*📊 Joke Stats: 1 jokes generated | Top category: git (1)*
+*🏷️ Category: databases | 📅 2025-09-28 12:58 UTC*
+*📊 Joke Stats: 1 jokes generated | Top category: databases (1)*
 <!-- JOKE-END -->
 
 

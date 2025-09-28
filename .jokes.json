@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "CSS: Making \"cascading\" a feature, not a bug, since 1996. (Mostly a bug.)",
-      "timestamp": "2025-09-03T13:03:37.602464+00:00",
-      "category": "css",
-      "hash": "8ec1354cb006defef5c6d72c22b9937f",
-      "sentiment": "negative",
-      "word_count": 13
-    },
-    {
       "joke": "My Git history is like my life: a series of amends I keep pushing to \"origin.\"",
       "timestamp": "2025-09-04T02:07:10.308254+00:00",
       "category": "git",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "Git blame points to me, but I swear the bug *originated* elsewhere.",
-      "category": "git",
       "timestamp": "2025-09-28T02:20:14.827680+00:00",
+      "category": "git",
       "hash": "ced14a9ae8135f5b993e535f2dce6b2f",
       "sentiment": "negative",
       "word_count": 12
+    },
+    {
+      "joke": "SQL: I have all the answers, but you need to phrase the question *just* right.",
+      "category": "databases",
+      "timestamp": "2025-09-28T12:58:45.679961+00:00",
+      "hash": "7467058d5c3098cf6eb336a75e49c6a0",
+      "sentiment": "neutral",
+      "word_count": 15
     }
   ]
 }
