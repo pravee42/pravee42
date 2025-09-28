@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "Debugging: Turning \"it's probably DNS\" into a frantic search for a missing semicolon.",
-      "timestamp": "2025-09-03T02:06:55.790307+00:00",
-      "category": "debugging",
-      "hash": "8c7a020d13c99131c6c875868263634b",
-      "sentiment": "negative",
-      "word_count": 13
-    },
-    {
       "joke": "CSS: Making \"cascading\" a feature, not a bug, since 1996. (Mostly a bug.)",
       "timestamp": "2025-09-03T13:03:37.602464+00:00",
       "category": "css",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "CSS: I call it a style *sheet*, but it's more of a style *negotiation* with the browser.",
-      "category": "css",
       "timestamp": "2025-09-27T12:57:41.438412+00:00",
+      "category": "css",
       "hash": "edc8ba4f4e70c419dee863dc053b161d",
       "sentiment": "neutral",
       "word_count": 17
+    },
+    {
+      "joke": "Git blame points to me, but I swear the bug *originated* elsewhere.",
+      "category": "git",
+      "timestamp": "2025-09-28T02:20:14.827680+00:00",
+      "hash": "ced14a9ae8135f5b993e535f2dce6b2f",
+      "sentiment": "negative",
+      "word_count": 12
     }
   ]
 }
