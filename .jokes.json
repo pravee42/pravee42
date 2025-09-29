@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "My Git history is like my life: a series of amends I keep pushing to \"origin.\"",
-      "timestamp": "2025-09-04T02:07:10.308254+00:00",
-      "category": "git",
-      "hash": "1a694d01730fa413f4fbb43a5db8b872",
-      "sentiment": "neutral",
-      "word_count": 16
-    },
-    {
       "joke": "Database schema changes: The only field where \"cascade delete\" sounds like a good idea...until it isn't.",
       "timestamp": "2025-09-04T13:01:31.459254+00:00",
       "category": "databases",
@@ -394,10 +386,18 @@
     },
     {
       "joke": "SQL: I have all the answers, but you need to phrase the question *just* right.",
-      "category": "databases",
       "timestamp": "2025-09-28T12:58:45.679961+00:00",
+      "category": "databases",
       "hash": "7467058d5c3098cf6eb336a75e49c6a0",
       "sentiment": "neutral",
+      "word_count": 15
+    },
+    {
+      "joke": "Why did the Python script break? Too many global variables, it became a snake pit.",
+      "category": "python",
+      "timestamp": "2025-09-29T02:13:51.818764+00:00",
+      "hash": "e6dd2a2bbfc4d142cacba33d95d71454",
+      "sentiment": "negative",
       "word_count": 15
     }
   ]
