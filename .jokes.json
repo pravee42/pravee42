@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "JavaScript: You can parseInt(\"I'm 10 years old\") but can't parseInt(\"10 things I hate\"), go figure.",
-      "timestamp": "2025-09-05T13:02:45.184787+00:00",
-      "category": "javascript",
-      "hash": "6ea54353ae232e2329534a9d0f87807e",
-      "sentiment": "negative",
-      "word_count": 15
-    },
-    {
       "joke": "\"Fixed the bug,\" he lied, incrementing the retry counter one last time before deployment.",
       "timestamp": "2025-09-06T02:06:54.087655+00:00",
       "category": "debugging",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "\"Debugging: The art of finding a needle in a haystack... with a magnet that attracts only other needles.\"",
-      "category": "debugging",
       "timestamp": "2025-09-30T02:08:36.161599+00:00",
+      "category": "debugging",
       "hash": "93e7fd000c83a03749cb0bfb2ebff30b",
       "sentiment": "negative",
       "word_count": 18
+    },
+    {
+      "joke": "⚠️ API Error: The model is overloaded. Please try again later.",
+      "category": "error",
+      "timestamp": "2025-09-30T13:06:37.656016+00:00",
+      "hash": "",
+      "sentiment": "neutral",
+      "word_count": 0
     }
   ]
 }
