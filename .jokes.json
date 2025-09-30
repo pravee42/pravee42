@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "Python's philosophy: Batteries included. Debugging? Sold separately.",
-      "timestamp": "2025-09-05T02:10:25.318136+00:00",
-      "category": "python",
-      "hash": "f83b4ec122904209cd97599a07eb1519",
-      "sentiment": "negative",
-      "word_count": 7
-    },
-    {
       "joke": "JavaScript: You can parseInt(\"I'm 10 years old\") but can't parseInt(\"10 things I hate\"), go figure.",
       "timestamp": "2025-09-05T13:02:45.184787+00:00",
       "category": "javascript",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "JavaScript: Where adding a semicolon is optional, but sanity isn't.",
-      "category": "javascript",
       "timestamp": "2025-09-29T13:06:23.267947+00:00",
+      "category": "javascript",
       "hash": "730f36d8e179371d4bedbed95b8602c3",
       "sentiment": "neutral",
       "word_count": 10
+    },
+    {
+      "joke": "\"Debugging: The art of finding a needle in a haystack... with a magnet that attracts only other needles.\"",
+      "category": "debugging",
+      "timestamp": "2025-09-30T02:08:36.161599+00:00",
+      "hash": "93e7fd000c83a03749cb0bfb2ebff30b",
+      "sentiment": "negative",
+      "word_count": 18
     }
   ]
 }
