@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "\"Fixed the bug,\" he lied, incrementing the retry counter one last time before deployment.",
-      "timestamp": "2025-09-06T02:06:54.087655+00:00",
-      "category": "debugging",
-      "hash": "0d4ca948fad801958789c8f11f807c20",
-      "sentiment": "negative",
-      "word_count": 14
-    },
-    {
       "joke": "CSS is like interior design, except your browser's default style is a prison cell.",
       "timestamp": "2025-09-06T12:56:37.180093+00:00",
       "category": "css",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "⚠️ API Error: The model is overloaded. Please try again later.",
-      "category": "error",
       "timestamp": "2025-09-30T13:06:37.656016+00:00",
+      "category": "error",
       "hash": "",
       "sentiment": "neutral",
       "word_count": 0
+    },
+    {
+      "joke": "My CSS is so semantic, my HTML understands my feelings... briefly, before rendering.",
+      "category": "css",
+      "timestamp": "2025-10-01T02:21:44.470115+00:00",
+      "hash": "6ebf370d5833e17446fc86dccd291916",
+      "sentiment": "neutral",
+      "word_count": 13
     }
   ]
 }
