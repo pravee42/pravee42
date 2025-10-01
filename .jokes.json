@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "CSS is like interior design, except your browser's default style is a prison cell.",
-      "timestamp": "2025-09-06T12:56:37.180093+00:00",
-      "category": "css",
-      "hash": "b79455a6cfd54c45507681d310af513c",
-      "sentiment": "neutral",
-      "word_count": 14
-    },
-    {
       "joke": "My branching strategy? Chaotic good. The merge conflicts? Lawful evil.",
       "timestamp": "2025-09-07T02:16:05.291615+00:00",
       "category": "git",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "My CSS is so semantic, my HTML understands my feelings... briefly, before rendering.",
-      "category": "css",
       "timestamp": "2025-10-01T02:21:44.470115+00:00",
+      "category": "css",
       "hash": "6ebf370d5833e17446fc86dccd291916",
       "sentiment": "neutral",
       "word_count": 13
+    },
+    {
+      "joke": "Git add, git commit, git pray it merges on the first try.",
+      "category": "git",
+      "timestamp": "2025-10-01T13:06:47.572426+00:00",
+      "hash": "4106fa4174794367a7f92cd570a64500",
+      "sentiment": "neutral",
+      "word_count": 12
     }
   ]
 }
