@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "My database design philosophy: if at first you don't succeed, add another JOIN.",
-      "timestamp": "2025-09-07T12:57:32.115050+00:00",
-      "category": "databases",
-      "hash": "8f3f60928fb7c866fe9373e6f8372c59",
-      "sentiment": "neutral",
-      "word_count": 13
-    },
-    {
       "joke": "Why did the Python developer refuse to refactor? They feared creating a snake pit of dependencies.",
       "timestamp": "2025-09-08T02:16:31.311442+00:00",
       "category": "python",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "Python's great until you need concurrency. Then you're GIL-ty of overcomplicating things.",
-      "category": "python",
       "timestamp": "2025-10-02T02:08:19.927401+00:00",
+      "category": "python",
       "hash": "4be61a2c5dd1172e1548bb966c95da2c",
       "sentiment": "positive",
       "word_count": 12
+    },
+    {
+      "joke": "JavaScript: `undefined` isn't a value? Oh honey, it's *the* value of my development time.",
+      "category": "javascript",
+      "timestamp": "2025-10-02T13:02:39.333794+00:00",
+      "hash": "e7c13dc9ce07cf55d7120efee15a9f35",
+      "sentiment": "neutral",
+      "word_count": 14
     }
   ]
 }
