@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "Why did the Python developer refuse to refactor? They feared creating a snake pit of dependencies.",
-      "timestamp": "2025-09-08T02:16:31.311442+00:00",
-      "category": "python",
-      "hash": "8f6149124023555943c202ea39a0b6ff",
-      "sentiment": "neutral",
-      "word_count": 16
-    },
-    {
       "joke": "JavaScript: It's not a bug; it's an undocumented feature with dynamic typing and a high tolerance for caffeine.",
       "timestamp": "2025-09-08T13:06:35.414740+00:00",
       "category": "javascript",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "JavaScript: `undefined` isn't a value? Oh honey, it's *the* value of my development time.",
-      "category": "javascript",
       "timestamp": "2025-10-02T13:02:39.333794+00:00",
+      "category": "javascript",
       "hash": "e7c13dc9ce07cf55d7120efee15a9f35",
       "sentiment": "neutral",
       "word_count": 14
+    },
+    {
+      "joke": "Debugging: Successfully predicting which semicolon you forgot.",
+      "category": "debugging",
+      "timestamp": "2025-10-03T02:08:00.663351+00:00",
+      "hash": "2aedb20e1947dcab897f8544b7fa8e5f",
+      "sentiment": "negative",
+      "word_count": 7
     }
   ]
 }
