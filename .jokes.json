@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "CSS: Where specificity always wins, except when it doesn't. Because !important.",
-      "timestamp": "2025-09-09T13:07:28.045420+00:00",
-      "category": "css",
-      "hash": "2f39c4ee348cba84ea848cbbdb458762",
-      "sentiment": "neutral",
-      "word_count": 11
-    },
-    {
       "joke": "I 'git' rid of my stash. Now it's a 're-vert-ed' mess.",
       "timestamp": "2025-09-10T02:08:04.624451+00:00",
       "category": "git",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "CSS: I'm 99% sure this selector will work. The other 1% is why I get paid.",
-      "category": "css",
       "timestamp": "2025-10-04T02:03:42.610585+00:00",
+      "category": "css",
       "hash": "14ac883a7496dbe43c92a9e79e04ad55",
       "sentiment": "neutral",
       "word_count": 16
+    },
+    {
+      "joke": "Git: \"Oops, detached HEAD?\" Guess you're living in the past, better checkout reality.",
+      "category": "git",
+      "timestamp": "2025-10-04T12:57:58.721118+00:00",
+      "hash": "50049c4c1c54caf53999a6f26ba5af19",
+      "sentiment": "neutral",
+      "word_count": 13
     }
   ]
 }
