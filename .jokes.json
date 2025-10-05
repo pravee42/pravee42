@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "Optimistic locking: Because sometimes, assuming the best just means more rollbacks.",
-      "timestamp": "2025-09-10T13:03:13.552144+00:00",
-      "category": "databases",
-      "hash": "db4d42c41f7e9383363f40145465c80a",
-      "sentiment": "neutral",
-      "word_count": 11
-    },
-    {
       "joke": "Python: Import antigravity. Debugging? Now *that's* a black hole.",
       "timestamp": "2025-09-11T02:11:20.944922+00:00",
       "category": "python",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "Python: It's dynamically typed, so you're always one typo away from \"Surprise! Str is int!\"",
-      "category": "python",
       "timestamp": "2025-10-05T02:19:17.396910+00:00",
+      "category": "python",
       "hash": "578cc58dfcc7f7db57502be7665550eb",
       "sentiment": "neutral",
       "word_count": 15
+    },
+    {
+      "joke": "JavaScript: Async/await. Making promises simpler...one stack overflow search at a time.",
+      "category": "javascript",
+      "timestamp": "2025-10-05T12:58:29.693688+00:00",
+      "hash": "5ae12f9488b2d61b6b521e7a00779aea",
+      "sentiment": "neutral",
+      "word_count": 11
     }
   ]
 }
