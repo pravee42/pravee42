@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "JavaScript: Where adding \"use strict\"; makes the code stricter, but the developer less so.",
-      "timestamp": "2025-09-11T13:02:30.537702+00:00",
-      "category": "javascript",
-      "hash": "937c310ee133e688716db3137cf961e8",
-      "sentiment": "neutral",
-      "word_count": 14
-    },
-    {
       "joke": "`console.log(\"Debugging: Where you're a detective in a crime scene, and also the murderer.\");`",
       "timestamp": "2025-09-12T02:06:33.246285+00:00",
       "category": "debugging",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "Debugging: Like solving a puzzle where you are missing half the pieces and the box is on fire.",
-      "category": "debugging",
       "timestamp": "2025-10-06T02:11:44.682890+00:00",
+      "category": "debugging",
       "hash": "74cda4eb49f04b9dd540209c3996a0c6",
       "sentiment": "negative",
       "word_count": 18
+    },
+    {
+      "joke": "My database has two tables: \"things_I_know\" and \"things_I_don't_know.\" Good luck joining them.",
+      "category": "databases",
+      "timestamp": "2025-10-06T13:05:31.925245+00:00",
+      "hash": "c055593e5fcfc070487bb566d21a93dd",
+      "sentiment": "neutral",
+      "word_count": 12
     }
   ]
 }
