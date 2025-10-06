@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "Python: Import antigravity. Debugging? Now *that's* a black hole.",
-      "timestamp": "2025-09-11T02:11:20.944922+00:00",
-      "category": "python",
-      "hash": "dc62d34d0c238feb4a1f9a23e17e60b0",
-      "sentiment": "negative",
-      "word_count": 9
-    },
-    {
       "joke": "JavaScript: Where adding \"use strict\"; makes the code stricter, but the developer less so.",
       "timestamp": "2025-09-11T13:02:30.537702+00:00",
       "category": "javascript",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "JavaScript: Async/await. Making promises simpler...one stack overflow search at a time.",
-      "category": "javascript",
       "timestamp": "2025-10-05T12:58:29.693688+00:00",
+      "category": "javascript",
       "hash": "5ae12f9488b2d61b6b521e7a00779aea",
       "sentiment": "neutral",
       "word_count": 11
+    },
+    {
+      "joke": "Debugging: Like solving a puzzle where you are missing half the pieces and the box is on fire.",
+      "category": "debugging",
+      "timestamp": "2025-10-06T02:11:44.682890+00:00",
+      "hash": "74cda4eb49f04b9dd540209c3996a0c6",
+      "sentiment": "negative",
+      "word_count": 18
     }
   ]
 }
