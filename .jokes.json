@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "`console.log(\"Debugging: Where you're a detective in a crime scene, and also the murderer.\");`",
-      "timestamp": "2025-09-12T02:06:33.246285+00:00",
-      "category": "debugging",
-      "hash": "515f2548ee52fef65926b2e20c77394c",
-      "sentiment": "negative",
-      "word_count": 13
-    },
-    {
       "joke": "I tried to make my CSS responsive, but it just kept asking, \"To what?\"",
       "timestamp": "2025-09-12T13:01:31.550319+00:00",
       "category": "css",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "My database has two tables: \"things_I_know\" and \"things_I_don't_know.\" Good luck joining them.",
-      "category": "databases",
       "timestamp": "2025-10-06T13:05:31.925245+00:00",
+      "category": "databases",
       "hash": "c055593e5fcfc070487bb566d21a93dd",
       "sentiment": "neutral",
       "word_count": 12
+    },
+    {
+      "joke": "CSS: Solving problems by adding layers. Like an onion. Makes me want to cry.",
+      "category": "css",
+      "timestamp": "2025-10-07T02:09:07.763604+00:00",
+      "hash": "b335a321ac66cd22693406cc9769d0ef",
+      "sentiment": "neutral",
+      "word_count": 14
     }
   ]
 }
