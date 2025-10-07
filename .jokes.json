@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "I tried to make my CSS responsive, but it just kept asking, \"To what?\"",
-      "timestamp": "2025-09-12T13:01:31.550319+00:00",
-      "category": "css",
-      "hash": "7397dc94bd7f734e4699df2d465d8b16",
-      "sentiment": "neutral",
-      "word_count": 14
-    },
-    {
       "joke": "My feature branch exists, but after rebasing, does it REALLY exist?",
       "timestamp": "2025-09-13T01:56:49.453620+00:00",
       "category": "git",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "CSS: Solving problems by adding layers. Like an onion. Makes me want to cry.",
-      "category": "css",
       "timestamp": "2025-10-07T02:09:07.763604+00:00",
+      "category": "css",
       "hash": "b335a321ac66cd22693406cc9769d0ef",
       "sentiment": "neutral",
       "word_count": 14
+    },
+    {
+      "joke": "My git history: a series of \"fix typo,\" \"revert,\" and existential commit messages.",
+      "category": "git",
+      "timestamp": "2025-10-07T13:05:39.804788+00:00",
+      "hash": "7e3085401c2d7a0b5e227189944b2c49",
+      "sentiment": "neutral",
+      "word_count": 13
     }
   ]
 }
