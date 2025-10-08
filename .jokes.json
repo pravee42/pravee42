@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "My feature branch exists, but after rebasing, does it REALLY exist?",
-      "timestamp": "2025-09-13T01:56:49.453620+00:00",
-      "category": "git",
-      "hash": "a0deed92c7200a4e13a0a8819dabb7bd",
-      "sentiment": "neutral",
-      "word_count": 11
-    },
-    {
       "joke": "NoSQL? More like NoSchema, NoProblem... until production.",
       "timestamp": "2025-09-13T12:57:14.613237+00:00",
       "category": "databases",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "My git history: a series of \"fix typo,\" \"revert,\" and existential commit messages.",
-      "category": "git",
       "timestamp": "2025-10-07T13:05:39.804788+00:00",
+      "category": "git",
       "hash": "7e3085401c2d7a0b5e227189944b2c49",
       "sentiment": "neutral",
       "word_count": 13
+    },
+    {
+      "joke": "Python: import antigravity; now my code floats... but doesn't run.",
+      "category": "python",
+      "timestamp": "2025-10-08T02:08:49.969909+00:00",
+      "hash": "faf0984957fb1df2e11fad417c66a5c8",
+      "sentiment": "neutral",
+      "word_count": 10
     }
   ]
 }
