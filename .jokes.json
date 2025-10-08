@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "NoSQL? More like NoSchema, NoProblem... until production.",
-      "timestamp": "2025-09-13T12:57:14.613237+00:00",
-      "category": "databases",
-      "hash": "8df8a1215bba5438fec0645410054208",
-      "sentiment": "neutral",
-      "word_count": 7
-    },
-    {
       "joke": "Python: duck typing means you're never sure if it's a class or just winging it.",
       "timestamp": "2025-09-14T02:15:18.639449+00:00",
       "category": "python",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "Python: import antigravity; now my code floats... but doesn't run.",
-      "category": "python",
       "timestamp": "2025-10-08T02:08:49.969909+00:00",
+      "category": "python",
       "hash": "faf0984957fb1df2e11fad417c66a5c8",
       "sentiment": "neutral",
       "word_count": 10
+    },
+    {
+      "joke": "JavaScript: It's not a language; it's more of a browser compatibility agreement.",
+      "category": "javascript",
+      "timestamp": "2025-10-08T13:05:56.322742+00:00",
+      "hash": "83652f723ea60946be92a9c066d32b79",
+      "sentiment": "neutral",
+      "word_count": 12
     }
   ]
 }
