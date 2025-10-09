@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "Python: duck typing means you're never sure if it's a class or just winging it.",
-      "timestamp": "2025-09-14T02:15:18.639449+00:00",
-      "category": "python",
-      "hash": "218b9bb4e55d47597a6e2e9d78a47aa1",
-      "sentiment": "neutral",
-      "word_count": 15
-    },
-    {
       "joke": "JavaScript: Where you can declare a variable with `let`, `const`, or a prayer.",
       "timestamp": "2025-09-14T12:56:34.195191+00:00",
       "category": "javascript",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "JavaScript: It's not a language; it's more of a browser compatibility agreement.",
-      "category": "javascript",
       "timestamp": "2025-10-08T13:05:56.322742+00:00",
+      "category": "javascript",
       "hash": "83652f723ea60946be92a9c066d32b79",
       "sentiment": "neutral",
       "word_count": 12
+    },
+    {
+      "joke": "Debugging: Where \"it's not a bug, it's a feature\" is both a lie and a potential fix.",
+      "category": "debugging",
+      "timestamp": "2025-10-09T02:10:20.360804+00:00",
+      "hash": "63c3f58c6f972e1d9e4ce2ed9d82d27d",
+      "sentiment": "negative",
+      "word_count": 17
     }
   ]
 }
