@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "JavaScript: Where you can declare a variable with `let`, `const`, or a prayer.",
-      "timestamp": "2025-09-14T12:56:34.195191+00:00",
-      "category": "javascript",
-      "hash": "b9f8ac8153086ee1ca7fb7b11703ec65",
-      "sentiment": "neutral",
-      "word_count": 13
-    },
-    {
       "joke": "\"Debugging: Like being the hero in a logic puzzle where you are also the villain.\"",
       "timestamp": "2025-09-15T02:17:43.103660+00:00",
       "category": "debugging",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "Debugging: Where \"it's not a bug, it's a feature\" is both a lie and a potential fix.",
-      "category": "debugging",
       "timestamp": "2025-10-09T02:10:20.360804+00:00",
+      "category": "debugging",
       "hash": "63c3f58c6f972e1d9e4ce2ed9d82d27d",
       "sentiment": "negative",
       "word_count": 17
+    },
+    {
+      "joke": "My database is \"NoSQL\" - No Schema? No Problem! (Until you need relationships...)",
+      "category": "databases",
+      "timestamp": "2025-10-09T13:06:22.383858+00:00",
+      "hash": "93de34aa04ad8cc4d62ae4399fa79547",
+      "sentiment": "neutral",
+      "word_count": 13
     }
   ]
 }
