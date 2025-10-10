@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "\"Debugging: Like being the hero in a logic puzzle where you are also the villain.\"",
-      "timestamp": "2025-09-15T02:17:43.103660+00:00",
-      "category": "debugging",
-      "hash": "d3d7e881dd10c2220fc6471092a0cbf2",
-      "sentiment": "negative",
-      "word_count": 15
-    },
-    {
       "joke": "CSS: Giving you the power to make a button look *exactly* like plain text.",
       "timestamp": "2025-09-15T13:05:10.074016+00:00",
       "category": "css",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "My database is \"NoSQL\" - No Schema? No Problem! (Until you need relationships...)",
-      "category": "databases",
       "timestamp": "2025-10-09T13:06:22.383858+00:00",
+      "category": "databases",
       "hash": "93de34aa04ad8cc4d62ae4399fa79547",
       "sentiment": "neutral",
       "word_count": 13
+    },
+    {
+      "joke": "CSS: Where specificity wars make everyone a selector of destruction.",
+      "category": "css",
+      "timestamp": "2025-10-10T02:10:49.602134+00:00",
+      "hash": "7054ea76e6940b65b9524345534cf386",
+      "sentiment": "neutral",
+      "word_count": 10
     }
   ]
 }
