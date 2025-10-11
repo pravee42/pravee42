@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "My \"git push\" was rejected? Guess my code wasn't feeling committed enough.",
-      "timestamp": "2025-09-16T02:08:32.995781+00:00",
-      "category": "git",
-      "hash": "fe9ad7211eaa68161f55b5747f042234",
-      "sentiment": "neutral",
-      "word_count": 12
-    },
-    {
       "joke": "My database is read-only. Please send write requests via carrier pigeon. Schema changes, however, require summoning a DBA.",
       "timestamp": "2025-09-16T13:04:50.195853+00:00",
       "category": "databases",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "Git revert? More like a time machine with questionable reliability and frequent paradoxes.",
-      "category": "git",
       "timestamp": "2025-10-10T13:03:57.336327+00:00",
+      "category": "git",
       "hash": "00d9dc0a87e95d2802a685a1761e7b4d",
       "sentiment": "neutral",
       "word_count": 13
+    },
+    {
+      "joke": "Python: duck typing - if it quacks like a bug, it's probably a feature.",
+      "category": "python",
+      "timestamp": "2025-10-11T02:05:57.740490+00:00",
+      "hash": "456eb99a4c0020c94d1ed1db9f6f2a47",
+      "sentiment": "negative",
+      "word_count": 14
     }
   ]
 }
