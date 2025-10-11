@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "My database is read-only. Please send write requests via carrier pigeon. Schema changes, however, require summoning a DBA.",
-      "timestamp": "2025-09-16T13:04:50.195853+00:00",
-      "category": "databases",
-      "hash": "b8551c52dd066a96e127017b457a5c9b",
-      "sentiment": "neutral",
-      "word_count": 18
-    },
-    {
       "joke": "Python's great: code's readable... until you nest list comprehensions. Then it's line noise.",
       "timestamp": "2025-09-17T02:07:59.184134+00:00",
       "category": "python",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "Python: duck typing - if it quacks like a bug, it's probably a feature.",
-      "category": "python",
       "timestamp": "2025-10-11T02:05:57.740490+00:00",
+      "category": "python",
       "hash": "456eb99a4c0020c94d1ed1db9f6f2a47",
       "sentiment": "negative",
       "word_count": 14
+    },
+    {
+      "joke": "JavaScript: Adding `defer` to a script tag: because sometimes \"later\" means \"never\".",
+      "category": "javascript",
+      "timestamp": "2025-10-11T12:58:10.567001+00:00",
+      "hash": "8fcf7d6ac042126aa479a9f00050c0fd",
+      "sentiment": "neutral",
+      "word_count": 12
     }
   ]
 }

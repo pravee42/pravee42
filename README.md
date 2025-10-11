@@ -13,10 +13,10 @@
 ### 😂 Dev Joke of the Day
 <!-- JOKE-START -->
 ```javascript
-Python: duck typing - if it quacks like a bug, it's probably a feature.
+JavaScript: Adding `defer` to a script tag: because sometimes "later" means "never".
 ```
-*🏷️ Category: python | 📅 2025-10-11 02:05 UTC*
-*📊 Joke Stats: 1 jokes generated | Top category: python (1)*
+*🏷️ Category: javascript | 📅 2025-10-11 12:58 UTC*
+*📊 Joke Stats: 1 jokes generated | Top category: javascript (1)*
 <!-- JOKE-END -->
 
 
