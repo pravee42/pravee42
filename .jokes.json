@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "Python's great: code's readable... until you nest list comprehensions. Then it's line noise.",
-      "timestamp": "2025-09-17T02:07:59.184134+00:00",
-      "category": "python",
-      "hash": "a697bcd56caffbc2fad530f7bf0a475c",
-      "sentiment": "positive",
-      "word_count": 13
-    },
-    {
       "joke": "JavaScript: Elegantly turning well-defined problems into asynchronous mysteries.",
       "timestamp": "2025-09-17T13:04:48.507728+00:00",
       "category": "javascript",
@@ -394,10 +386,18 @@
     },
     {
       "joke": "JavaScript: Adding `defer` to a script tag: because sometimes \"later\" means \"never\".",
-      "category": "javascript",
       "timestamp": "2025-10-11T12:58:10.567001+00:00",
+      "category": "javascript",
       "hash": "8fcf7d6ac042126aa479a9f00050c0fd",
       "sentiment": "neutral",
+      "word_count": 12
+    },
+    {
+      "joke": "My code has zero bugs... just undocumented features awaiting discovery during debugging.",
+      "category": "debugging",
+      "timestamp": "2025-10-12T02:14:23.128948+00:00",
+      "hash": "cc0aa7432651c6c921b60542c14eadd0",
+      "sentiment": "negative",
       "word_count": 12
     }
   ]
