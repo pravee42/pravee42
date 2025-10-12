@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "JavaScript: Elegantly turning well-defined problems into asynchronous mysteries.",
-      "timestamp": "2025-09-17T13:04:48.507728+00:00",
-      "category": "javascript",
-      "hash": "2cd1bf4796edfcc23d40dcfaf007b0d3",
-      "sentiment": "neutral",
-      "word_count": 8
-    },
-    {
       "joke": "Debugging: Successfully restoring the system to when you *thought* it was working.",
       "timestamp": "2025-09-18T02:08:20.221045+00:00",
       "category": "debugging",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "My code has zero bugs... just undocumented features awaiting discovery during debugging.",
-      "category": "debugging",
       "timestamp": "2025-10-12T02:14:23.128948+00:00",
+      "category": "debugging",
       "hash": "cc0aa7432651c6c921b60542c14eadd0",
       "sentiment": "negative",
       "word_count": 12
+    },
+    {
+      "joke": "Databases: where 'normalization' is just a fancy word for pre-emptive apologies to future developers.",
+      "category": "databases",
+      "timestamp": "2025-10-12T12:58:31.441381+00:00",
+      "hash": "10729926c656db78637ae8c2854f50f1",
+      "sentiment": "neutral",
+      "word_count": 14
     }
   ]
 }
