@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "CSS: The cascade is a feature, right up until it's an avalanche of !important.",
-      "timestamp": "2025-09-18T13:04:07.435060+00:00",
-      "category": "css",
-      "hash": "fb46d4ca19977f4bdebeb06847c58b61",
-      "sentiment": "neutral",
-      "word_count": 14
-    },
-    {
       "joke": "Git: Because remembering commands is easier than admitting you need a UI.",
       "timestamp": "2025-09-19T02:12:18.417030+00:00",
       "category": "git",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "CSS: Centering a div is easy... said no one, ever.",
-      "category": "css",
       "timestamp": "2025-10-13T02:18:35.653658+00:00",
+      "category": "css",
       "hash": "7d9ee575959cf406a91cb82dd38fa79d",
       "sentiment": "neutral",
       "word_count": 10
+    },
+    {
+      "joke": "Git: Where your branch is always greener on the other side... until you merge.",
+      "category": "git",
+      "timestamp": "2025-10-13T13:06:39.888369+00:00",
+      "hash": "d91b85a89a3d01bc00ecba8fae573432",
+      "sentiment": "neutral",
+      "word_count": 14
     }
   ]
 }
