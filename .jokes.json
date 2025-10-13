@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "Debugging: Successfully restoring the system to when you *thought* it was working.",
-      "timestamp": "2025-09-18T02:08:20.221045+00:00",
-      "category": "debugging",
-      "hash": "a464552fd5a29304260aad24d4205bce",
-      "sentiment": "negative",
-      "word_count": 12
-    },
-    {
       "joke": "CSS: The cascade is a feature, right up until it's an avalanche of !important.",
       "timestamp": "2025-09-18T13:04:07.435060+00:00",
       "category": "css",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "Databases: where 'normalization' is just a fancy word for pre-emptive apologies to future developers.",
-      "category": "databases",
       "timestamp": "2025-10-12T12:58:31.441381+00:00",
+      "category": "databases",
       "hash": "10729926c656db78637ae8c2854f50f1",
       "sentiment": "neutral",
       "word_count": 14
+    },
+    {
+      "joke": "CSS: Centering a div is easy... said no one, ever.",
+      "category": "css",
+      "timestamp": "2025-10-13T02:18:35.653658+00:00",
+      "hash": "7d9ee575959cf406a91cb82dd38fa79d",
+      "sentiment": "neutral",
+      "word_count": 10
     }
   ]
 }
