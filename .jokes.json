@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "Git: Because remembering commands is easier than admitting you need a UI.",
-      "timestamp": "2025-09-19T02:12:18.417030+00:00",
-      "category": "git",
-      "hash": "d136aa6bacba866f9cf4623115d9d294",
-      "sentiment": "neutral",
-      "word_count": 12
-    },
-    {
       "joke": "Database design: It's all fun and games until someone needs to explain the entity-relationship diagram.",
       "timestamp": "2025-09-19T13:03:33.369665+00:00",
       "category": "databases",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "Git: Where your branch is always greener on the other side... until you merge.",
-      "category": "git",
       "timestamp": "2025-10-13T13:06:39.888369+00:00",
+      "category": "git",
       "hash": "d91b85a89a3d01bc00ecba8fae573432",
       "sentiment": "neutral",
       "word_count": 14
+    },
+    {
+      "joke": "Python: Elegant until you inherit a class with 7 parent classes. Now it's just family drama.",
+      "category": "python",
+      "timestamp": "2025-10-14T02:11:14.865881+00:00",
+      "hash": "3beee90e4e979826d44da6db9c1e29a6",
+      "sentiment": "neutral",
+      "word_count": 16
     }
   ]
 }
