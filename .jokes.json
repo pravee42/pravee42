@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "Database design: It's all fun and games until someone needs to explain the entity-relationship diagram.",
-      "timestamp": "2025-09-19T13:03:33.369665+00:00",
-      "category": "databases",
-      "hash": "a55b8fde4045962dc663b94386016509",
-      "sentiment": "positive",
-      "word_count": 15
-    },
-    {
       "joke": "Python's scoping: where your variable's lifespan is a surprise party you didn't plan.",
       "timestamp": "2025-09-20T02:06:02.933207+00:00",
       "category": "python",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "Python: Elegant until you inherit a class with 7 parent classes. Now it's just family drama.",
-      "category": "python",
       "timestamp": "2025-10-14T02:11:14.865881+00:00",
+      "category": "python",
       "hash": "3beee90e4e979826d44da6db9c1e29a6",
       "sentiment": "neutral",
       "word_count": 16
+    },
+    {
+      "joke": "JavaScript: Callback hell? Nah, it's just deeply nested opportunities for career growth.",
+      "category": "javascript",
+      "timestamp": "2025-10-14T13:07:36.367057+00:00",
+      "hash": "e6e8b41107c835f586aee1597b994c90",
+      "sentiment": "neutral",
+      "word_count": 12
     }
   ]
 }
