@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "Python's scoping: where your variable's lifespan is a surprise party you didn't plan.",
-      "timestamp": "2025-09-20T02:06:02.933207+00:00",
-      "category": "python",
-      "hash": "53d80f39998d9ffa932acf28a4a508c9",
-      "sentiment": "neutral",
-      "word_count": 13
-    },
-    {
       "joke": "JavaScript: It’s not a bug; it's an unexpected feature request from the browser.",
       "timestamp": "2025-09-20T12:59:29.342559+00:00",
       "category": "javascript",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "JavaScript: Callback hell? Nah, it's just deeply nested opportunities for career growth.",
-      "category": "javascript",
       "timestamp": "2025-10-14T13:07:36.367057+00:00",
+      "category": "javascript",
       "hash": "e6e8b41107c835f586aee1597b994c90",
       "sentiment": "neutral",
       "word_count": 12
+    },
+    {
+      "joke": "Debugging: Turning coffee into code, then code into coffee while wondering where the bug hid.",
+      "category": "debugging",
+      "timestamp": "2025-10-15T02:14:31.463124+00:00",
+      "hash": "40925b132266faa9ad15b8644bfd0e24",
+      "sentiment": "negative",
+      "word_count": 15
     }
   ]
 }
