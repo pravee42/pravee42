@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "JavaScript: It’s not a bug; it's an unexpected feature request from the browser.",
-      "timestamp": "2025-09-20T12:59:29.342559+00:00",
-      "category": "javascript",
-      "hash": "9d31a5b5ffa7c3f609d4b9be4ca356ba",
-      "sentiment": "negative",
-      "word_count": 13
-    },
-    {
       "joke": "Debugging: The process of going backwards from the future to understand why the past is broken.",
       "timestamp": "2025-09-21T02:19:20.889016+00:00",
       "category": "debugging",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "Debugging: Turning coffee into code, then code into coffee while wondering where the bug hid.",
-      "category": "debugging",
       "timestamp": "2025-10-15T02:14:31.463124+00:00",
+      "category": "debugging",
       "hash": "40925b132266faa9ad15b8644bfd0e24",
       "sentiment": "negative",
       "word_count": 15
+    },
+    {
+      "joke": "My database design's so relational, it needs therapy for its dependency issues.",
+      "category": "databases",
+      "timestamp": "2025-10-15T13:07:36.567726+00:00",
+      "hash": "e170634c6a7735628448900f69d9d567",
+      "sentiment": "neutral",
+      "word_count": 12
     }
   ]
 }
