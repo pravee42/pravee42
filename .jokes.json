@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "Debugging: The process of going backwards from the future to understand why the past is broken.",
-      "timestamp": "2025-09-21T02:19:20.889016+00:00",
-      "category": "debugging",
-      "hash": "48a798f9ed38a2f4122107f6ea012988",
-      "sentiment": "negative",
-      "word_count": 16
-    },
-    {
       "joke": "CSS: Adding `!important` is like yelling. It solves *some* problems.",
       "timestamp": "2025-09-21T12:58:43.471165+00:00",
       "category": "css",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "My database design's so relational, it needs therapy for its dependency issues.",
-      "category": "databases",
       "timestamp": "2025-10-15T13:07:36.567726+00:00",
+      "category": "databases",
       "hash": "e170634c6a7735628448900f69d9d567",
       "sentiment": "neutral",
       "word_count": 12
+    },
+    {
+      "joke": "CSS: It's cascading alright, cascading down my mental health.",
+      "category": "css",
+      "timestamp": "2025-10-16T02:13:05.757979+00:00",
+      "hash": "d1ee62495c5608d45a08759e71acc0d1",
+      "sentiment": "neutral",
+      "word_count": 9
     }
   ]
 }
