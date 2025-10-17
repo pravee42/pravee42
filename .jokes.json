@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "My git workflow? Rebase early, rebase often... then resolve conflicts until dawn.",
-      "timestamp": "2025-09-22T02:18:59.097282+00:00",
-      "category": "git",
-      "hash": "8770ce7937a1b719a755a540826ed295",
-      "sentiment": "neutral",
-      "word_count": 12
-    },
-    {
       "joke": "My ORM promised abstraction. Now I have layers upon layers of abstraction... and a slow query.",
       "timestamp": "2025-09-22T13:05:57.447970+00:00",
       "category": "databases",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "Git: You had one job, merge conflict resolver. Now I have *two*!",
-      "category": "git",
       "timestamp": "2025-10-16T13:07:09.040931+00:00",
+      "category": "git",
       "hash": "63e1135a752c7cd2a5260829cc8c3b85",
       "sentiment": "neutral",
       "word_count": 12
+    },
+    {
+      "joke": "Why did the Python dev bring a ladder to work? They heard the project needed more *levels* of abstraction.",
+      "category": "python",
+      "timestamp": "2025-10-17T02:11:46.448138+00:00",
+      "hash": "1bb8596ce63211aee486ec7f131c02f5",
+      "sentiment": "neutral",
+      "word_count": 19
     }
   ]
 }
