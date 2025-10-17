@@ -13,10 +13,10 @@
 ### 😂 Dev Joke of the Day
 <!-- JOKE-START -->
 ```javascript
-Why did the Python dev bring a ladder to work? They heard the project needed more *levels* of abstraction.
+JavaScript: Where "that's a feature" is code for "I'm too tired to debug this".
 ```
-*🏷️ Category: python | 📅 2025-10-17 02:11 UTC*
-*📊 Joke Stats: 1 jokes generated | Top category: python (1)*
+*🏷️ Category: javascript | 📅 2025-10-17 13:05 UTC*
+*📊 Joke Stats: 1 jokes generated | Top category: javascript (1)*
 <!-- JOKE-END -->
 
 

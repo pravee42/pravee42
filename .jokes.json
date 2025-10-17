@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "My ORM promised abstraction. Now I have layers upon layers of abstraction... and a slow query.",
-      "timestamp": "2025-09-22T13:05:57.447970+00:00",
-      "category": "databases",
-      "hash": "f72222711b55dae5a634fd39147c7a83",
-      "sentiment": "neutral",
-      "word_count": 16
-    },
-    {
       "joke": "Python: Easy to pick up, hard to put down... especially when the interpreter's still running.",
       "timestamp": "2025-09-23T02:08:27.623847+00:00",
       "category": "python",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "Why did the Python dev bring a ladder to work? They heard the project needed more *levels* of abstraction.",
-      "category": "python",
       "timestamp": "2025-10-17T02:11:46.448138+00:00",
+      "category": "python",
       "hash": "1bb8596ce63211aee486ec7f131c02f5",
       "sentiment": "neutral",
       "word_count": 19
+    },
+    {
+      "joke": "JavaScript: Where \"that's a feature\" is code for \"I'm too tired to debug this\".",
+      "category": "javascript",
+      "timestamp": "2025-10-17T13:05:12.815747+00:00",
+      "hash": "cd5010a0a80752c95dcb8fea5a88f14b",
+      "sentiment": "negative",
+      "word_count": 14
     }
   ]
 }
