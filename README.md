@@ -13,10 +13,10 @@
 ### 😂 Dev Joke of the Day
 <!-- JOKE-START -->
 ```javascript
-"Fixed that bug!" *pushes to prod* "Oh, that's where *that* bug went."
+My SQL skills? Table stakes. I can JOIN tables, but can't join social situations.
 ```
-*🏷️ Category: debugging | 📅 2025-10-18 02:06 UTC*
-*📊 Joke Stats: 1 jokes generated | Top category: debugging (1)*
+*🏷️ Category: databases | 📅 2025-10-18 12:59 UTC*
+*📊 Joke Stats: 1 jokes generated | Top category: databases (1)*
 <!-- JOKE-END -->
 
 

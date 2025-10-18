@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "JavaScript: `typeof null` is an object. Because reasons. Happy coding!",
-      "timestamp": "2025-09-23T13:04:25.262953+00:00",
-      "category": "javascript",
-      "hash": "e30412c1f27ca2432fe89cd9652dcf40",
-      "sentiment": "positive",
-      "word_count": 10
-    },
-    {
       "joke": "Debugging: Officially confirming the error you introduced 2 weeks ago, line 372.",
       "timestamp": "2025-09-24T02:10:05.705516+00:00",
       "category": "debugging",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "\"Fixed that bug!\" *pushes to prod* \"Oh, that's where *that* bug went.\"",
-      "category": "debugging",
       "timestamp": "2025-10-18T02:06:51.646280+00:00",
+      "category": "debugging",
       "hash": "4ac4c97c3103073af508542294b918b6",
       "sentiment": "negative",
       "word_count": 12
+    },
+    {
+      "joke": "My SQL skills? Table stakes. I can JOIN tables, but can't join social situations.",
+      "category": "databases",
+      "timestamp": "2025-10-18T12:59:38.801574+00:00",
+      "hash": "a2e61719ffba2765f466d9f62577223e",
+      "sentiment": "neutral",
+      "word_count": 14
     }
   ]
 }
