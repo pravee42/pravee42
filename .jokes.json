@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "Python: Easy to pick up, hard to put down... especially when the interpreter's still running.",
-      "timestamp": "2025-09-23T02:08:27.623847+00:00",
-      "category": "python",
-      "hash": "f216f73a23fc54408dd5d5bac89a44ee",
-      "sentiment": "neutral",
-      "word_count": 15
-    },
-    {
       "joke": "JavaScript: `typeof null` is an object. Because reasons. Happy coding!",
       "timestamp": "2025-09-23T13:04:25.262953+00:00",
       "category": "javascript",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "JavaScript: Where \"that's a feature\" is code for \"I'm too tired to debug this\".",
-      "category": "javascript",
       "timestamp": "2025-10-17T13:05:12.815747+00:00",
+      "category": "javascript",
       "hash": "cd5010a0a80752c95dcb8fea5a88f14b",
       "sentiment": "negative",
       "word_count": 14
+    },
+    {
+      "joke": "\"Fixed that bug!\" *pushes to prod* \"Oh, that's where *that* bug went.\"",
+      "category": "debugging",
+      "timestamp": "2025-10-18T02:06:51.646280+00:00",
+      "hash": "4ac4c97c3103073af508542294b918b6",
+      "sentiment": "negative",
+      "word_count": 12
     }
   ]
 }
