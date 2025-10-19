@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "Debugging: Officially confirming the error you introduced 2 weeks ago, line 372.",
-      "timestamp": "2025-09-24T02:10:05.705516+00:00",
-      "category": "debugging",
-      "hash": "1edac5e74267a85202bbed251a59039e",
-      "sentiment": "negative",
-      "word_count": 12
-    },
-    {
       "joke": "CSS: Flexbox? Grid? Nah, I'm still calculating pixels with a spreadsheet.",
       "timestamp": "2025-09-24T13:04:58.331978+00:00",
       "category": "css",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "My SQL skills? Table stakes. I can JOIN tables, but can't join social situations.",
-      "category": "databases",
       "timestamp": "2025-10-18T12:59:38.801574+00:00",
+      "category": "databases",
       "hash": "a2e61719ffba2765f466d9f62577223e",
       "sentiment": "neutral",
       "word_count": 14
+    },
+    {
+      "joke": "CSS: My !important is stronger than yours. Prepare for specificity warfare.",
+      "category": "css",
+      "timestamp": "2025-10-19T02:25:28.277978+00:00",
+      "hash": "90e704ccf974c4e1b1491ca55db4ded5",
+      "sentiment": "neutral",
+      "word_count": 11
     }
   ]
 }
