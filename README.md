@@ -13,10 +13,10 @@
 ### 😂 Dev Joke of the Day
 <!-- JOKE-START -->
 ```javascript
-Why did the Python script get lost? Too much whitespace, couldn't find its way.
+Javascript: `typeof NaN === 'number'`. Makes perfect sense if you're not thinking.
 ```
-*🏷️ Category: python | 📅 2025-10-20 02:22 UTC*
-*📊 Joke Stats: 1 jokes generated | Top category: python (1)*
+*🏷️ Category: javascript | 📅 2025-10-20 13:06 UTC*
+*📊 Joke Stats: 1 jokes generated | Top category: javascript (1)*
 <!-- JOKE-END -->
 
 

@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "Database normalization: it's all fun and games 'til you need a 12-way JOIN.",
-      "timestamp": "2025-09-25T13:05:52.098875+00:00",
-      "category": "databases",
-      "hash": "10f95b62d1c2c0551439830ff4d4bd49",
-      "sentiment": "positive",
-      "word_count": 13
-    },
-    {
       "joke": "Python: IndentationError? Nah, your code's just shy. Give it some space.",
       "timestamp": "2025-09-26T02:10:47.870292+00:00",
       "category": "python",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "Why did the Python script get lost? Too much whitespace, couldn't find its way.",
-      "category": "python",
       "timestamp": "2025-10-20T02:22:32.099290+00:00",
+      "category": "python",
       "hash": "0626ffe1ef2c8efc4a45d4eb6580e826",
       "sentiment": "neutral",
       "word_count": 14
+    },
+    {
+      "joke": "Javascript: `typeof NaN === 'number'`. Makes perfect sense if you're not thinking.",
+      "category": "javascript",
+      "timestamp": "2025-10-20T13:06:27.606922+00:00",
+      "hash": "efd08089f623f46a516fcdbad9f3b488",
+      "sentiment": "neutral",
+      "word_count": 12
     }
   ]
 }
