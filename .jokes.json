@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "My 'git reset --hard' was my 'undo,' until I realized I hadn't pushed. Now it's 'un-did.'",
-      "timestamp": "2025-09-25T02:12:12.027795+00:00",
-      "category": "git",
-      "hash": "bec24f80286e5bc68e94a5eab21da50b",
-      "sentiment": "neutral",
-      "word_count": 16
-    },
-    {
       "joke": "Database normalization: it's all fun and games 'til you need a 12-way JOIN.",
       "timestamp": "2025-09-25T13:05:52.098875+00:00",
       "category": "databases",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "My git branching strategy: master for show, feature branches for existential dread.",
-      "category": "git",
       "timestamp": "2025-10-19T12:59:49.985740+00:00",
+      "category": "git",
       "hash": "9560843e7cfb62241e68aad99fb0fd90",
       "sentiment": "neutral",
       "word_count": 12
+    },
+    {
+      "joke": "Why did the Python script get lost? Too much whitespace, couldn't find its way.",
+      "category": "python",
+      "timestamp": "2025-10-20T02:22:32.099290+00:00",
+      "hash": "0626ffe1ef2c8efc4a45d4eb6580e826",
+      "sentiment": "neutral",
+      "word_count": 14
     }
   ]
 }
