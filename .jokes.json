@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "Python: IndentationError? Nah, your code's just shy. Give it some space.",
-      "timestamp": "2025-09-26T02:10:47.870292+00:00",
-      "category": "python",
-      "hash": "951f56b9df7a775741446d0ac815c326",
-      "sentiment": "negative",
-      "word_count": 11
-    },
-    {
       "joke": "JavaScript: Promises are like opinions; everyone has one, but few are properly handled.",
       "timestamp": "2025-09-26T13:04:14.355806+00:00",
       "category": "javascript",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "Javascript: `typeof NaN === 'number'`. Makes perfect sense if you're not thinking.",
-      "category": "javascript",
       "timestamp": "2025-10-20T13:06:27.606922+00:00",
+      "category": "javascript",
       "hash": "efd08089f623f46a516fcdbad9f3b488",
       "sentiment": "neutral",
       "word_count": 12
+    },
+    {
+      "joke": "My code compiled! Now the *real* debugging begins.",
+      "category": "debugging",
+      "timestamp": "2025-10-21T02:15:44.454774+00:00",
+      "hash": "4699c3a449162c80f1fb0df0570bf126",
+      "sentiment": "negative",
+      "word_count": 8
     }
   ]
 }

@@ -13,10 +13,10 @@
 ### 😂 Dev Joke of the Day
 <!-- JOKE-START -->
 ```javascript
-Javascript: `typeof NaN === 'number'`. Makes perfect sense if you're not thinking.
+My code compiled! Now the *real* debugging begins.
 ```
-*🏷️ Category: javascript | 📅 2025-10-20 13:06 UTC*
-*📊 Joke Stats: 1 jokes generated | Top category: javascript (1)*
+*🏷️ Category: debugging | 📅 2025-10-21 02:15 UTC*
+*📊 Joke Stats: 1 jokes generated | Top category: debugging (1)*
 <!-- JOKE-END -->
 
 
