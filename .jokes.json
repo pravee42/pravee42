@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "JavaScript: Promises are like opinions; everyone has one, but few are properly handled.",
-      "timestamp": "2025-09-26T13:04:14.355806+00:00",
-      "category": "javascript",
-      "hash": "79efe6c9cc0f4cec178ae0fcff246ed2",
-      "sentiment": "neutral",
-      "word_count": 13
-    },
-    {
       "joke": "\"Debugging\": Where the bug is never where the error message says it is.",
       "timestamp": "2025-09-27T02:06:06.484811+00:00",
       "category": "debugging",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "My code compiled! Now the *real* debugging begins.",
-      "category": "debugging",
       "timestamp": "2025-10-21T02:15:44.454774+00:00",
+      "category": "debugging",
       "hash": "4699c3a449162c80f1fb0df0570bf126",
       "sentiment": "negative",
       "word_count": 8
+    },
+    {
+      "joke": "Database normalization: It's like organizing your sock drawer, only to discover you only own left socks.",
+      "category": "databases",
+      "timestamp": "2025-10-21T13:08:46.405604+00:00",
+      "hash": "8338135b707bda9b00cf54c41c4506ee",
+      "sentiment": "neutral",
+      "word_count": 16
     }
   ]
 }
