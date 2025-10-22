@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "\"Debugging\": Where the bug is never where the error message says it is.",
-      "timestamp": "2025-09-27T02:06:06.484811+00:00",
-      "category": "debugging",
-      "hash": "36e005da2947a05c09dedd1ebb9841b9",
-      "sentiment": "negative",
-      "word_count": 13
-    },
-    {
       "joke": "CSS: I call it a style *sheet*, but it's more of a style *negotiation* with the browser.",
       "timestamp": "2025-09-27T12:57:41.438412+00:00",
       "category": "css",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "Database normalization: It's like organizing your sock drawer, only to discover you only own left socks.",
-      "category": "databases",
       "timestamp": "2025-10-21T13:08:46.405604+00:00",
+      "category": "databases",
       "hash": "8338135b707bda9b00cf54c41c4506ee",
       "sentiment": "neutral",
       "word_count": 16
+    },
+    {
+      "joke": "CSS: Adding `!important` is like giving your code a participation trophy, but louder.",
+      "category": "css",
+      "timestamp": "2025-10-22T02:18:44.290219+00:00",
+      "hash": "f6baa8940333e3acc132afb3d90c05a5",
+      "sentiment": "neutral",
+      "word_count": 13
     }
   ]
 }
