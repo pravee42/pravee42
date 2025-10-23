@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "Git blame points to me, but I swear the bug *originated* elsewhere.",
-      "timestamp": "2025-09-28T02:20:14.827680+00:00",
-      "category": "git",
-      "hash": "ced14a9ae8135f5b993e535f2dce6b2f",
-      "sentiment": "negative",
-      "word_count": 12
-    },
-    {
       "joke": "SQL: I have all the answers, but you need to phrase the question *just* right.",
       "timestamp": "2025-09-28T12:58:45.679961+00:00",
       "category": "databases",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "\"Git push --force\" I call it job security.",
-      "category": "git",
       "timestamp": "2025-10-22T13:09:35.062443+00:00",
+      "category": "git",
       "hash": "9877e5d9b747d55b2f67dea76fee87e8",
       "sentiment": "neutral",
       "word_count": 8
+    },
+    {
+      "joke": "Python: My classes inherit from 'object'. Am I special?",
+      "category": "python",
+      "timestamp": "2025-10-23T02:14:09.366082+00:00",
+      "hash": "c7cc5561cc010d5f16ac979fb387b54c",
+      "sentiment": "neutral",
+      "word_count": 9
     }
   ]
 }
