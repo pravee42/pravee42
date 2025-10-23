@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "SQL: I have all the answers, but you need to phrase the question *just* right.",
-      "timestamp": "2025-09-28T12:58:45.679961+00:00",
-      "category": "databases",
-      "hash": "7467058d5c3098cf6eb336a75e49c6a0",
-      "sentiment": "neutral",
-      "word_count": 15
-    },
-    {
       "joke": "Why did the Python script break? Too many global variables, it became a snake pit.",
       "timestamp": "2025-09-29T02:13:51.818764+00:00",
       "category": "python",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "Python: My classes inherit from 'object'. Am I special?",
-      "category": "python",
       "timestamp": "2025-10-23T02:14:09.366082+00:00",
+      "category": "python",
       "hash": "c7cc5561cc010d5f16ac979fb387b54c",
       "sentiment": "neutral",
       "word_count": 9
+    },
+    {
+      "joke": "JavaScript: I asked for a promise. It gave me a `Promise<Promise<Promise<string>>>`. Thanks?",
+      "category": "javascript",
+      "timestamp": "2025-10-23T13:08:19.404074+00:00",
+      "hash": "27b034e6913d4a392566230f7d80b762",
+      "sentiment": "neutral",
+      "word_count": 12
     }
   ]
 }
