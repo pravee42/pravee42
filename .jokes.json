@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "Why did the Python script break? Too many global variables, it became a snake pit.",
-      "timestamp": "2025-09-29T02:13:51.818764+00:00",
-      "category": "python",
-      "hash": "e6dd2a2bbfc4d142cacba33d95d71454",
-      "sentiment": "negative",
-      "word_count": 15
-    },
-    {
       "joke": "JavaScript: Where adding a semicolon is optional, but sanity isn't.",
       "timestamp": "2025-09-29T13:06:23.267947+00:00",
       "category": "javascript",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "JavaScript: I asked for a promise. It gave me a `Promise<Promise<Promise<string>>>`. Thanks?",
-      "category": "javascript",
       "timestamp": "2025-10-23T13:08:19.404074+00:00",
+      "category": "javascript",
       "hash": "27b034e6913d4a392566230f7d80b762",
       "sentiment": "neutral",
       "word_count": 12
+    },
+    {
+      "joke": "Debugging: Like an escape room, but all the clues are written in hieroglyphics.",
+      "category": "debugging",
+      "timestamp": "2025-10-24T02:09:46.081839+00:00",
+      "hash": "e60331fa9722efa023c8498daeb48808",
+      "sentiment": "negative",
+      "word_count": 13
     }
   ]
 }
