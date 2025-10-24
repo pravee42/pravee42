@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "JavaScript: Where adding a semicolon is optional, but sanity isn't.",
-      "timestamp": "2025-09-29T13:06:23.267947+00:00",
-      "category": "javascript",
-      "hash": "730f36d8e179371d4bedbed95b8602c3",
-      "sentiment": "neutral",
-      "word_count": 10
-    },
-    {
       "joke": "\"Debugging: The art of finding a needle in a haystack... with a magnet that attracts only other needles.\"",
       "timestamp": "2025-09-30T02:08:36.161599+00:00",
       "category": "debugging",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "Debugging: Like an escape room, but all the clues are written in hieroglyphics.",
-      "category": "debugging",
       "timestamp": "2025-10-24T02:09:46.081839+00:00",
+      "category": "debugging",
       "hash": "e60331fa9722efa023c8498daeb48808",
       "sentiment": "negative",
       "word_count": 13
+    },
+    {
+      "joke": "My database relationships are complex; even the ORM needs therapy.",
+      "category": "databases",
+      "timestamp": "2025-10-24T13:07:27.405949+00:00",
+      "hash": "f55acd6965853e6c4d5237236ad030cb",
+      "sentiment": "neutral",
+      "word_count": 10
     }
   ]
 }
