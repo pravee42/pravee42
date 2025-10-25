@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "\"Debugging: The art of finding a needle in a haystack... with a magnet that attracts only other needles.\"",
-      "timestamp": "2025-09-30T02:08:36.161599+00:00",
-      "category": "debugging",
-      "hash": "93e7fd000c83a03749cb0bfb2ebff30b",
-      "sentiment": "negative",
-      "word_count": 18
-    },
-    {
       "joke": "⚠️ API Error: The model is overloaded. Please try again later.",
       "timestamp": "2025-09-30T13:06:37.656016+00:00",
       "category": "error",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "My database relationships are complex; even the ORM needs therapy.",
-      "category": "databases",
       "timestamp": "2025-10-24T13:07:27.405949+00:00",
+      "category": "databases",
       "hash": "f55acd6965853e6c4d5237236ad030cb",
       "sentiment": "neutral",
       "word_count": 10
+    },
+    {
+      "joke": "CSS: Making elements dance on the screen with the grace of a drunken giraffe.",
+      "category": "css",
+      "timestamp": "2025-10-25T02:12:03.569457+00:00",
+      "hash": "4d295c3e613d177e0d74fb5e49052007",
+      "sentiment": "neutral",
+      "word_count": 14
     }
   ]
 }
