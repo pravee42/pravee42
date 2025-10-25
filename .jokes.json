@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "⚠️ API Error: The model is overloaded. Please try again later.",
-      "timestamp": "2025-09-30T13:06:37.656016+00:00",
-      "category": "error",
-      "hash": "",
-      "sentiment": "neutral",
-      "word_count": 0
-    },
-    {
       "joke": "My CSS is so semantic, my HTML understands my feelings... briefly, before rendering.",
       "timestamp": "2025-10-01T02:21:44.470115+00:00",
       "category": "css",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "CSS: Making elements dance on the screen with the grace of a drunken giraffe.",
-      "category": "css",
       "timestamp": "2025-10-25T02:12:03.569457+00:00",
+      "category": "css",
       "hash": "4d295c3e613d177e0d74fb5e49052007",
       "sentiment": "neutral",
       "word_count": 14
+    },
+    {
+      "joke": "Git blame's great until it points back to you... from six months ago.",
+      "category": "git",
+      "timestamp": "2025-10-25T12:59:32.457163+00:00",
+      "hash": "ad2d02cc5ecc0e25eae7b4cf4cd29f22",
+      "sentiment": "positive",
+      "word_count": 13
     }
   ]
 }
