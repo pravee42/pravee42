@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "Git add, git commit, git pray it merges on the first try.",
-      "timestamp": "2025-10-01T13:06:47.572426+00:00",
-      "category": "git",
-      "hash": "4106fa4174794367a7f92cd570a64500",
-      "sentiment": "neutral",
-      "word_count": 12
-    },
-    {
       "joke": "Python's great until you need concurrency. Then you're GIL-ty of overcomplicating things.",
       "timestamp": "2025-10-02T02:08:19.927401+00:00",
       "category": "python",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "Python: IndentationError? Just reformat the universe to match my code.",
-      "category": "python",
       "timestamp": "2025-10-26T02:20:52.172394+00:00",
+      "category": "python",
       "hash": "c8fdf7d2956ea86f015b3f42a553d0a1",
       "sentiment": "negative",
       "word_count": 10
+    },
+    {
+      "joke": "JavaScript: True equality (===) or false security? Depends on your data type... and your sanity.",
+      "category": "javascript",
+      "timestamp": "2025-10-26T13:00:59.193088+00:00",
+      "hash": "df15836277902c68ad1dba805df0c3ae",
+      "sentiment": "neutral",
+      "word_count": 15
     }
   ]
 }
