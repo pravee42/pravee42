@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "My CSS is so semantic, my HTML understands my feelings... briefly, before rendering.",
-      "timestamp": "2025-10-01T02:21:44.470115+00:00",
-      "category": "css",
-      "hash": "6ebf370d5833e17446fc86dccd291916",
-      "sentiment": "neutral",
-      "word_count": 13
-    },
-    {
       "joke": "Git add, git commit, git pray it merges on the first try.",
       "timestamp": "2025-10-01T13:06:47.572426+00:00",
       "category": "git",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "Git blame's great until it points back to you... from six months ago.",
-      "category": "git",
       "timestamp": "2025-10-25T12:59:32.457163+00:00",
+      "category": "git",
       "hash": "ad2d02cc5ecc0e25eae7b4cf4cd29f22",
       "sentiment": "positive",
       "word_count": 13
+    },
+    {
+      "joke": "Python: IndentationError? Just reformat the universe to match my code.",
+      "category": "python",
+      "timestamp": "2025-10-26T02:20:52.172394+00:00",
+      "hash": "c8fdf7d2956ea86f015b3f42a553d0a1",
+      "sentiment": "negative",
+      "word_count": 10
     }
   ]
 }
