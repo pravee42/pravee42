@@ -13,10 +13,10 @@
 ### 😂 Dev Joke of the Day
 <!-- JOKE-START -->
 ```javascript
-"Fixed bug," commit said. Now all variables are "undefined." Guess I'll revert.
+SQL joins: because sometimes, relating is harder than it looks.
 ```
-*🏷️ Category: debugging | 📅 2025-10-27 02:26 UTC*
-*📊 Joke Stats: 1 jokes generated | Top category: debugging (1)*
+*🏷️ Category: databases | 📅 2025-10-27 13:08 UTC*
+*📊 Joke Stats: 1 jokes generated | Top category: databases (1)*
 <!-- JOKE-END -->
 
 
