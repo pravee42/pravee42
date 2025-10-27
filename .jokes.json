@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "Python's great until you need concurrency. Then you're GIL-ty of overcomplicating things.",
-      "timestamp": "2025-10-02T02:08:19.927401+00:00",
-      "category": "python",
-      "hash": "4be61a2c5dd1172e1548bb966c95da2c",
-      "sentiment": "positive",
-      "word_count": 12
-    },
-    {
       "joke": "JavaScript: `undefined` isn't a value? Oh honey, it's *the* value of my development time.",
       "timestamp": "2025-10-02T13:02:39.333794+00:00",
       "category": "javascript",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "JavaScript: True equality (===) or false security? Depends on your data type... and your sanity.",
-      "category": "javascript",
       "timestamp": "2025-10-26T13:00:59.193088+00:00",
+      "category": "javascript",
       "hash": "df15836277902c68ad1dba805df0c3ae",
       "sentiment": "neutral",
       "word_count": 15
+    },
+    {
+      "joke": "\"Fixed bug,\" commit said. Now all variables are \"undefined.\" Guess I'll revert.",
+      "category": "debugging",
+      "timestamp": "2025-10-27T02:26:20.791953+00:00",
+      "hash": "b2cae2524205c2d53bd82426e39e9b5a",
+      "sentiment": "negative",
+      "word_count": 12
     }
   ]
 }

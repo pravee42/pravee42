@@ -13,10 +13,10 @@
 ### 😂 Dev Joke of the Day
 <!-- JOKE-START -->
 ```javascript
-JavaScript: True equality (===) or false security? Depends on your data type... and your sanity.
+"Fixed bug," commit said. Now all variables are "undefined." Guess I'll revert.
 ```
-*🏷️ Category: javascript | 📅 2025-10-26 13:00 UTC*
-*📊 Joke Stats: 1 jokes generated | Top category: javascript (1)*
+*🏷️ Category: debugging | 📅 2025-10-27 02:26 UTC*
+*📊 Joke Stats: 1 jokes generated | Top category: debugging (1)*
 <!-- JOKE-END -->
 
 
