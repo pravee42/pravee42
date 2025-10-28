@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "Database migrations: evolving schemas, because nothing's permanent except the need to refactor.",
-      "timestamp": "2025-10-03T13:01:57.029056+00:00",
-      "category": "databases",
-      "hash": "c92280194c391f31ab394de1ce3fba38",
-      "sentiment": "neutral",
-      "word_count": 12
-    },
-    {
       "joke": "CSS: I'm 99% sure this selector will work. The other 1% is why I get paid.",
       "timestamp": "2025-10-04T02:03:42.610585+00:00",
       "category": "css",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "CSS: The cascade. Giving web devs a sense of control, followed by inevitable despair.",
-      "category": "css",
       "timestamp": "2025-10-28T02:14:42.123312+00:00",
+      "category": "css",
       "hash": "532fcaa5764c7c9c2f0dac298da1e2d7",
       "sentiment": "neutral",
       "word_count": 14
+    },
+    {
+      "joke": "Git reverts: proof you can go back in time, but your future self will hate you.",
+      "category": "git",
+      "timestamp": "2025-10-28T13:06:50.272372+00:00",
+      "hash": "ac46add05f3a1169fba9cf007e351fb5",
+      "sentiment": "negative",
+      "word_count": 16
     }
   ]
 }
