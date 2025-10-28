@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "Debugging: Successfully predicting which semicolon you forgot.",
-      "timestamp": "2025-10-03T02:08:00.663351+00:00",
-      "category": "debugging",
-      "hash": "2aedb20e1947dcab897f8544b7fa8e5f",
-      "sentiment": "negative",
-      "word_count": 7
-    },
-    {
       "joke": "Database migrations: evolving schemas, because nothing's permanent except the need to refactor.",
       "timestamp": "2025-10-03T13:01:57.029056+00:00",
       "category": "databases",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "SQL joins: because sometimes, relating is harder than it looks.",
-      "category": "databases",
       "timestamp": "2025-10-27T13:08:10.528560+00:00",
+      "category": "databases",
       "hash": "f194b7603f7ef26c994472c7e16a9654",
       "sentiment": "neutral",
       "word_count": 10
+    },
+    {
+      "joke": "CSS: The cascade. Giving web devs a sense of control, followed by inevitable despair.",
+      "category": "css",
+      "timestamp": "2025-10-28T02:14:42.123312+00:00",
+      "hash": "532fcaa5764c7c9c2f0dac298da1e2d7",
+      "sentiment": "neutral",
+      "word_count": 14
     }
   ]
 }
