@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "Git: \"Oops, detached HEAD?\" Guess you're living in the past, better checkout reality.",
-      "timestamp": "2025-10-04T12:57:58.721118+00:00",
-      "category": "git",
-      "hash": "50049c4c1c54caf53999a6f26ba5af19",
-      "sentiment": "neutral",
-      "word_count": 13
-    },
-    {
       "joke": "Python: It's dynamically typed, so you're always one typo away from \"Surprise! Str is int!\"",
       "timestamp": "2025-10-05T02:19:17.396910+00:00",
       "category": "python",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "Python: Syntax so clean, you'll forget the runtime errors are lurking.",
-      "category": "python",
       "timestamp": "2025-10-29T02:22:40.472798+00:00",
+      "category": "python",
       "hash": "2c51f1ec7e2374ececa3ac40adbe21a0",
       "sentiment": "negative",
       "word_count": 11
+    },
+    {
+      "joke": "JavaScript: `null == undefined` is true, but they're not the *same*. It's complicated, like my love life.",
+      "category": "javascript",
+      "timestamp": "2025-10-29T13:08:55.999231+00:00",
+      "hash": "ccda2fc9325186154577ca7a9e4cca1b",
+      "sentiment": "positive",
+      "word_count": 17
     }
   ]
 }
