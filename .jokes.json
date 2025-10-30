@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "JavaScript: Async/await. Making promises simpler...one stack overflow search at a time.",
-      "timestamp": "2025-10-05T12:58:29.693688+00:00",
-      "category": "javascript",
-      "hash": "5ae12f9488b2d61b6b521e7a00779aea",
-      "sentiment": "neutral",
-      "word_count": 11
-    },
-    {
       "joke": "Debugging: Like solving a puzzle where you are missing half the pieces and the box is on fire.",
       "timestamp": "2025-10-06T02:11:44.682890+00:00",
       "category": "debugging",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "Debugging: Turning \"why?\" into \"oh, that's why!\" one semicolon at a time.",
-      "category": "debugging",
       "timestamp": "2025-10-30T02:20:44.477233+00:00",
+      "category": "debugging",
       "hash": "d626acca91a473a6d09fa678b055299e",
       "sentiment": "negative",
       "word_count": 12
+    },
+    {
+      "joke": "Database migrations: Changing your mind, one irreversible command at a time.",
+      "category": "databases",
+      "timestamp": "2025-10-30T13:07:52.024497+00:00",
+      "hash": "c1461b0ee17c27f63c334a427b0adefa",
+      "sentiment": "neutral",
+      "word_count": 11
     }
   ]
 }
