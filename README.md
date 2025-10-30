@@ -13,10 +13,10 @@
 ### 😂 Dev Joke of the Day
 <!-- JOKE-START -->
 ```javascript
-JavaScript: `null == undefined` is true, but they're not the *same*. It's complicated, like my love life.
+Debugging: Turning "why?" into "oh, that's why!" one semicolon at a time.
 ```
-*🏷️ Category: javascript | 📅 2025-10-29 13:08 UTC*
-*📊 Joke Stats: 1 jokes generated | Top category: javascript (1)*
+*🏷️ Category: debugging | 📅 2025-10-30 02:20 UTC*
+*📊 Joke Stats: 1 jokes generated | Top category: debugging (1)*
 <!-- JOKE-END -->
 
 

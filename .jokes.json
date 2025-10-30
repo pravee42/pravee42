@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "Python: It's dynamically typed, so you're always one typo away from \"Surprise! Str is int!\"",
-      "timestamp": "2025-10-05T02:19:17.396910+00:00",
-      "category": "python",
-      "hash": "578cc58dfcc7f7db57502be7665550eb",
-      "sentiment": "neutral",
-      "word_count": 15
-    },
-    {
       "joke": "JavaScript: Async/await. Making promises simpler...one stack overflow search at a time.",
       "timestamp": "2025-10-05T12:58:29.693688+00:00",
       "category": "javascript",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "JavaScript: `null == undefined` is true, but they're not the *same*. It's complicated, like my love life.",
-      "category": "javascript",
       "timestamp": "2025-10-29T13:08:55.999231+00:00",
+      "category": "javascript",
       "hash": "ccda2fc9325186154577ca7a9e4cca1b",
       "sentiment": "positive",
       "word_count": 17
+    },
+    {
+      "joke": "Debugging: Turning \"why?\" into \"oh, that's why!\" one semicolon at a time.",
+      "category": "debugging",
+      "timestamp": "2025-10-30T02:20:44.477233+00:00",
+      "hash": "d626acca91a473a6d09fa678b055299e",
+      "sentiment": "negative",
+      "word_count": 12
     }
   ]
 }
