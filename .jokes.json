@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "Debugging: Like solving a puzzle where you are missing half the pieces and the box is on fire.",
-      "timestamp": "2025-10-06T02:11:44.682890+00:00",
-      "category": "debugging",
-      "hash": "74cda4eb49f04b9dd540209c3996a0c6",
-      "sentiment": "negative",
-      "word_count": 18
-    },
-    {
       "joke": "My database has two tables: \"things_I_know\" and \"things_I_don't_know.\" Good luck joining them.",
       "timestamp": "2025-10-06T13:05:31.925245+00:00",
       "category": "databases",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "Database migrations: Changing your mind, one irreversible command at a time.",
-      "category": "databases",
       "timestamp": "2025-10-30T13:07:52.024497+00:00",
+      "category": "databases",
       "hash": "c1461b0ee17c27f63c334a427b0adefa",
       "sentiment": "neutral",
       "word_count": 11
+    },
+    {
+      "joke": "CSS: I came, I saw, I overrode.",
+      "category": "css",
+      "timestamp": "2025-10-31T02:18:23.664207+00:00",
+      "hash": "ae9c244d5762e14a3a8c52cb51e85173",
+      "sentiment": "neutral",
+      "word_count": 7
     }
   ]
 }
