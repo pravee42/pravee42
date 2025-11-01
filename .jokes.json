@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "CSS: Solving problems by adding layers. Like an onion. Makes me want to cry.",
-      "timestamp": "2025-10-07T02:09:07.763604+00:00",
-      "category": "css",
-      "hash": "b335a321ac66cd22693406cc9769d0ef",
-      "sentiment": "neutral",
-      "word_count": 14
-    },
-    {
       "joke": "My git history: a series of \"fix typo,\" \"revert,\" and existential commit messages.",
       "timestamp": "2025-10-07T13:05:39.804788+00:00",
       "category": "git",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "Git add? More like git *anxiety*, did I stage enough? Too much?",
-      "category": "git",
       "timestamp": "2025-10-31T13:06:17.348384+00:00",
+      "category": "git",
       "hash": "fdeb44610c57856d0fc204ed781e9f18",
       "sentiment": "neutral",
       "word_count": 12
+    },
+    {
+      "joke": "Why did the Python script break up with the Java app? Lack of class inheritance compatibility.",
+      "category": "python",
+      "timestamp": "2025-11-01T02:21:16.053274+00:00",
+      "hash": "1906c169c4c675244824ba48082206d1",
+      "sentiment": "negative",
+      "word_count": 16
     }
   ]
 }
