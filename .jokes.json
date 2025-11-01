@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "My git history: a series of \"fix typo,\" \"revert,\" and existential commit messages.",
-      "timestamp": "2025-10-07T13:05:39.804788+00:00",
-      "category": "git",
-      "hash": "7e3085401c2d7a0b5e227189944b2c49",
-      "sentiment": "neutral",
-      "word_count": 13
-    },
-    {
       "joke": "Python: import antigravity; now my code floats... but doesn't run.",
       "timestamp": "2025-10-08T02:08:49.969909+00:00",
       "category": "python",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "Why did the Python script break up with the Java app? Lack of class inheritance compatibility.",
-      "category": "python",
       "timestamp": "2025-11-01T02:21:16.053274+00:00",
+      "category": "python",
       "hash": "1906c169c4c675244824ba48082206d1",
       "sentiment": "negative",
       "word_count": 16
+    },
+    {
+      "joke": "Javascript: Async/await: because sometimes I want to wait, but not *too* much.",
+      "category": "javascript",
+      "timestamp": "2025-11-01T13:00:03.248211+00:00",
+      "hash": "ec4a6e6de9d6f68a01be7e9b8ff42aa3",
+      "sentiment": "neutral",
+      "word_count": 12
     }
   ]
 }
