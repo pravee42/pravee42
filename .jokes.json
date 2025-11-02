@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "JavaScript: It's not a language; it's more of a browser compatibility agreement.",
-      "timestamp": "2025-10-08T13:05:56.322742+00:00",
-      "category": "javascript",
-      "hash": "83652f723ea60946be92a9c066d32b79",
-      "sentiment": "neutral",
-      "word_count": 12
-    },
-    {
       "joke": "Debugging: Where \"it's not a bug, it's a feature\" is both a lie and a potential fix.",
       "timestamp": "2025-10-09T02:10:20.360804+00:00",
       "category": "debugging",
@@ -394,10 +386,18 @@
     },
     {
       "joke": "Debugging: Adding console logs until the problem stares back, judging your coding choices.",
-      "category": "debugging",
       "timestamp": "2025-11-02T02:24:16.866251+00:00",
+      "category": "debugging",
       "hash": "ce619839791b6356ab6e8d8cde1a39e9",
       "sentiment": "negative",
+      "word_count": 13
+    },
+    {
+      "joke": "Database schema changes: A perfectly planned puzzle... until production finds the missing piece.",
+      "category": "databases",
+      "timestamp": "2025-11-02T12:59:26.352445+00:00",
+      "hash": "8ef7947059818a88a069ec6479767806",
+      "sentiment": "neutral",
       "word_count": 13
     }
   ]
