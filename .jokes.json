@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "Python: import antigravity; now my code floats... but doesn't run.",
-      "timestamp": "2025-10-08T02:08:49.969909+00:00",
-      "category": "python",
-      "hash": "faf0984957fb1df2e11fad417c66a5c8",
-      "sentiment": "neutral",
-      "word_count": 10
-    },
-    {
       "joke": "JavaScript: It's not a language; it's more of a browser compatibility agreement.",
       "timestamp": "2025-10-08T13:05:56.322742+00:00",
       "category": "javascript",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "Javascript: Async/await: because sometimes I want to wait, but not *too* much.",
-      "category": "javascript",
       "timestamp": "2025-11-01T13:00:03.248211+00:00",
+      "category": "javascript",
       "hash": "ec4a6e6de9d6f68a01be7e9b8ff42aa3",
       "sentiment": "neutral",
       "word_count": 12
+    },
+    {
+      "joke": "Debugging: Adding console logs until the problem stares back, judging your coding choices.",
+      "category": "debugging",
+      "timestamp": "2025-11-02T02:24:16.866251+00:00",
+      "hash": "ce619839791b6356ab6e8d8cde1a39e9",
+      "sentiment": "negative",
+      "word_count": 13
     }
   ]
 }
