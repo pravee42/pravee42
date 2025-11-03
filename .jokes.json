@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "My database is \"NoSQL\" - No Schema? No Problem! (Until you need relationships...)",
-      "timestamp": "2025-10-09T13:06:22.383858+00:00",
-      "category": "databases",
-      "hash": "93de34aa04ad8cc4d62ae4399fa79547",
-      "sentiment": "neutral",
-      "word_count": 13
-    },
-    {
       "joke": "CSS: Where specificity wars make everyone a selector of destruction.",
       "timestamp": "2025-10-10T02:10:49.602134+00:00",
       "category": "css",
@@ -394,9 +386,17 @@
     },
     {
       "joke": "CSS: Position: absolute; perfectly describes my grip on reality after another project.",
-      "category": "css",
       "timestamp": "2025-11-03T02:23:46.833161+00:00",
+      "category": "css",
       "hash": "1b4b6dce22b207a18c676a7a010a86b5",
+      "sentiment": "neutral",
+      "word_count": 12
+    },
+    {
+      "joke": "My feature branch diverged so far, `git rebase` became a therapy session.",
+      "category": "git",
+      "timestamp": "2025-11-03T13:07:07.285678+00:00",
+      "hash": "4de0fc4970012cf4d0daf4102c5de65f",
       "sentiment": "neutral",
       "word_count": 12
     }
