@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "Debugging: Where \"it's not a bug, it's a feature\" is both a lie and a potential fix.",
-      "timestamp": "2025-10-09T02:10:20.360804+00:00",
-      "category": "debugging",
-      "hash": "63c3f58c6f972e1d9e4ce2ed9d82d27d",
-      "sentiment": "negative",
-      "word_count": 17
-    },
-    {
       "joke": "My database is \"NoSQL\" - No Schema? No Problem! (Until you need relationships...)",
       "timestamp": "2025-10-09T13:06:22.383858+00:00",
       "category": "databases",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "Database schema changes: A perfectly planned puzzle... until production finds the missing piece.",
-      "category": "databases",
       "timestamp": "2025-11-02T12:59:26.352445+00:00",
+      "category": "databases",
       "hash": "8ef7947059818a88a069ec6479767806",
       "sentiment": "neutral",
       "word_count": 13
+    },
+    {
+      "joke": "CSS: Position: absolute; perfectly describes my grip on reality after another project.",
+      "category": "css",
+      "timestamp": "2025-11-03T02:23:46.833161+00:00",
+      "hash": "1b4b6dce22b207a18c676a7a010a86b5",
+      "sentiment": "neutral",
+      "word_count": 12
     }
   ]
 }
