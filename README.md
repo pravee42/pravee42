@@ -13,10 +13,10 @@
 ### 😂 Dev Joke of the Day
 <!-- JOKE-START -->
 ```javascript
-Python: Easy to learn, hard to master...especially when decorators get involved.
+⚠️ API Error: Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.
 ```
-*🏷️ Category: python | 📅 2025-11-04 02:18 UTC*
-*📊 Joke Stats: 1 jokes generated | Top category: python (1)*
+*🏷️ Category: error | 📅 2025-11-04 13:10 UTC*
+*📊 Joke Stats: 1 jokes generated | Top category: error (1)*
 <!-- JOKE-END -->
 
 
