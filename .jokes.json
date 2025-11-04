@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "CSS: Where specificity wars make everyone a selector of destruction.",
-      "timestamp": "2025-10-10T02:10:49.602134+00:00",
-      "category": "css",
-      "hash": "7054ea76e6940b65b9524345534cf386",
-      "sentiment": "neutral",
-      "word_count": 10
-    },
-    {
       "joke": "Git revert? More like a time machine with questionable reliability and frequent paradoxes.",
       "timestamp": "2025-10-10T13:03:57.336327+00:00",
       "category": "git",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "My feature branch diverged so far, `git rebase` became a therapy session.",
-      "category": "git",
       "timestamp": "2025-11-03T13:07:07.285678+00:00",
+      "category": "git",
       "hash": "4de0fc4970012cf4d0daf4102c5de65f",
       "sentiment": "neutral",
       "word_count": 12
+    },
+    {
+      "joke": "Python: Easy to learn, hard to master...especially when decorators get involved.",
+      "category": "python",
+      "timestamp": "2025-11-04T02:18:26.804743+00:00",
+      "hash": "f9082d12996054fcbb2ecdb662ae3902",
+      "sentiment": "neutral",
+      "word_count": 11
     }
   ]
 }
