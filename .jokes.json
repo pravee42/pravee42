@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "Python: duck typing - if it quacks like a bug, it's probably a feature.",
-      "timestamp": "2025-10-11T02:05:57.740490+00:00",
-      "category": "python",
-      "hash": "456eb99a4c0020c94d1ed1db9f6f2a47",
-      "sentiment": "negative",
-      "word_count": 14
-    },
-    {
       "joke": "JavaScript: Adding `defer` to a script tag: because sometimes \"later\" means \"never\".",
       "timestamp": "2025-10-11T12:58:10.567001+00:00",
       "category": "javascript",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "⚠️ API Error: Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.",
-      "category": "error",
       "timestamp": "2025-11-04T13:10:54.481238+00:00",
+      "category": "error",
       "hash": "",
       "sentiment": "neutral",
       "word_count": 0
+    },
+    {
+      "joke": "JavaScript: Closures: when variables escape scope like my dreams of finishing this project.",
+      "category": "javascript",
+      "timestamp": "2025-11-05T02:20:22.397749+00:00",
+      "hash": "07f3995460eadde700988cf91910a6e7",
+      "sentiment": "neutral",
+      "word_count": 13
     }
   ]
 }
