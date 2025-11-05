@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "JavaScript: Adding `defer` to a script tag: because sometimes \"later\" means \"never\".",
-      "timestamp": "2025-10-11T12:58:10.567001+00:00",
-      "category": "javascript",
-      "hash": "8fcf7d6ac042126aa479a9f00050c0fd",
-      "sentiment": "neutral",
-      "word_count": 12
-    },
-    {
       "joke": "My code has zero bugs... just undocumented features awaiting discovery during debugging.",
       "timestamp": "2025-10-12T02:14:23.128948+00:00",
       "category": "debugging",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "JavaScript: Closures: when variables escape scope like my dreams of finishing this project.",
-      "category": "javascript",
       "timestamp": "2025-11-05T02:20:22.397749+00:00",
+      "category": "javascript",
       "hash": "07f3995460eadde700988cf91910a6e7",
       "sentiment": "neutral",
       "word_count": 13
+    },
+    {
+      "joke": "Debugging: The art of turning seemingly random code into predictably wrong code.",
+      "category": "debugging",
+      "timestamp": "2025-11-05T13:08:15.477182+00:00",
+      "hash": "4212cbc48c1954525e23ab0a8812a999",
+      "sentiment": "negative",
+      "word_count": 12
     }
   ]
 }
