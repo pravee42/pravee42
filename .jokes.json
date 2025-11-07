@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "CSS: Centering a div is easy... said no one, ever.",
-      "timestamp": "2025-10-13T02:18:35.653658+00:00",
-      "category": "css",
-      "hash": "7d9ee575959cf406a91cb82dd38fa79d",
-      "sentiment": "neutral",
-      "word_count": 10
-    },
-    {
       "joke": "Git: Where your branch is always greener on the other side... until you merge.",
       "timestamp": "2025-10-13T13:06:39.888369+00:00",
       "category": "git",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "Git: Committing to the repo is easier than committing to a relationship. Both end in merges, eventually.",
-      "category": "git",
       "timestamp": "2025-11-06T13:07:38.855222+00:00",
+      "category": "git",
       "hash": "91a980a0f3916be81f9cc9b5be304881",
       "sentiment": "neutral",
       "word_count": 17
+    },
+    {
+      "joke": "Python: Duck typing? More like \"runs until it doesn't.\"",
+      "category": "python",
+      "timestamp": "2025-11-07T02:18:23.447385+00:00",
+      "hash": "ef4dfcd11486818944a9224bf5baa4b1",
+      "sentiment": "neutral",
+      "word_count": 9
     }
   ]
 }
