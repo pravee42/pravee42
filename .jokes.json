@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "JavaScript: Callback hell? Nah, it's just deeply nested opportunities for career growth.",
-      "timestamp": "2025-10-14T13:07:36.367057+00:00",
-      "category": "javascript",
-      "hash": "e6e8b41107c835f586aee1597b994c90",
-      "sentiment": "neutral",
-      "word_count": 12
-    },
-    {
       "joke": "Debugging: Turning coffee into code, then code into coffee while wondering where the bug hid.",
       "timestamp": "2025-10-15T02:14:31.463124+00:00",
       "category": "debugging",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "JavaScript: It's not a bug, it's an implicit type coercion. (Please ignore the screaming.)",
-      "category": "javascript",
       "timestamp": "2025-11-08T02:11:52.545537+00:00",
+      "category": "javascript",
       "hash": "9d29af4d81478b46179da3784c5cb72e",
       "sentiment": "negative",
       "word_count": 14
+    },
+    {
+      "joke": "\"Bug-free\" code? Just untested features in disguise.",
+      "category": "debugging",
+      "timestamp": "2025-11-08T13:00:25.685591+00:00",
+      "hash": "3d6f7302649533536136f8f7ad8591b8",
+      "sentiment": "negative",
+      "word_count": 7
     }
   ]
 }
