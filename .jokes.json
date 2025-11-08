@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "Python: Elegant until you inherit a class with 7 parent classes. Now it's just family drama.",
-      "timestamp": "2025-10-14T02:11:14.865881+00:00",
-      "category": "python",
-      "hash": "3beee90e4e979826d44da6db9c1e29a6",
-      "sentiment": "neutral",
-      "word_count": 16
-    },
-    {
       "joke": "JavaScript: Callback hell? Nah, it's just deeply nested opportunities for career growth.",
       "timestamp": "2025-10-14T13:07:36.367057+00:00",
       "category": "javascript",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "NoSQL? No problem… until you need relationships. Then you have *two* problems.",
-      "category": "databases",
       "timestamp": "2025-11-07T13:05:50.325436+00:00",
+      "category": "databases",
       "hash": "7a998435d80b78e29779a141000135d1",
       "sentiment": "neutral",
       "word_count": 12
+    },
+    {
+      "joke": "JavaScript: It's not a bug, it's an implicit type coercion. (Please ignore the screaming.)",
+      "category": "javascript",
+      "timestamp": "2025-11-08T02:11:52.545537+00:00",
+      "hash": "9d29af4d81478b46179da3784c5cb72e",
+      "sentiment": "negative",
+      "word_count": 14
     }
   ]
 }
