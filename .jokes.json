@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "My database design's so relational, it needs therapy for its dependency issues.",
-      "timestamp": "2025-10-15T13:07:36.567726+00:00",
-      "category": "databases",
-      "hash": "e170634c6a7735628448900f69d9d567",
-      "sentiment": "neutral",
-      "word_count": 12
-    },
-    {
       "joke": "CSS: It's cascading alright, cascading down my mental health.",
       "timestamp": "2025-10-16T02:13:05.757979+00:00",
       "category": "css",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "CSS Grid: Finally, elements can line dance... into the wrong places.",
-      "category": "css",
       "timestamp": "2025-11-09T02:22:45.943383+00:00",
+      "category": "css",
       "hash": "6038579f5b4f3a8db286ff9fd822f4f7",
       "sentiment": "neutral",
       "word_count": 11
+    },
+    {
+      "joke": "Git branching: because reality's too linear, let's explore parallel universes of potential bugs.",
+      "category": "git",
+      "timestamp": "2025-11-09T13:00:31.973378+00:00",
+      "hash": "eba76c5d1276660172a506e7d82aebef",
+      "sentiment": "negative",
+      "word_count": 13
     }
   ]
 }
