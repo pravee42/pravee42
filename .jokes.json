@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "CSS: It's cascading alright, cascading down my mental health.",
-      "timestamp": "2025-10-16T02:13:05.757979+00:00",
-      "category": "css",
-      "hash": "d1ee62495c5608d45a08759e71acc0d1",
-      "sentiment": "neutral",
-      "word_count": 9
-    },
-    {
       "joke": "Git: You had one job, merge conflict resolver. Now I have *two*!",
       "timestamp": "2025-10-16T13:07:09.040931+00:00",
       "category": "git",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "Git branching: because reality's too linear, let's explore parallel universes of potential bugs.",
-      "category": "git",
       "timestamp": "2025-11-09T13:00:31.973378+00:00",
+      "category": "git",
       "hash": "eba76c5d1276660172a506e7d82aebef",
       "sentiment": "negative",
       "word_count": 13
+    },
+    {
+      "joke": "Python's strength? Readability. Its weakness? Misread-ability after 3 AM.",
+      "category": "python",
+      "timestamp": "2025-11-10T02:25:01.865284+00:00",
+      "hash": "56ea8b72cb80aa8564c9d80315ff3849",
+      "sentiment": "neutral",
+      "word_count": 9
     }
   ]
 }
