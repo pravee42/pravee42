@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "Git: You had one job, merge conflict resolver. Now I have *two*!",
-      "timestamp": "2025-10-16T13:07:09.040931+00:00",
-      "category": "git",
-      "hash": "63e1135a752c7cd2a5260829cc8c3b85",
-      "sentiment": "neutral",
-      "word_count": 12
-    },
-    {
       "joke": "Why did the Python dev bring a ladder to work? They heard the project needed more *levels* of abstraction.",
       "timestamp": "2025-10-17T02:11:46.448138+00:00",
       "category": "python",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "Python's strength? Readability. Its weakness? Misread-ability after 3 AM.",
-      "category": "python",
       "timestamp": "2025-11-10T02:25:01.865284+00:00",
+      "category": "python",
       "hash": "56ea8b72cb80aa8564c9d80315ff3849",
       "sentiment": "neutral",
       "word_count": 9
+    },
+    {
+      "joke": "My database design is like a good relationship: one-to-many, but only if *I* say so.",
+      "category": "databases",
+      "timestamp": "2025-11-10T13:08:12.077648+00:00",
+      "hash": "7da6fbf4fb1699819d6b5fd5e3e2bec2",
+      "sentiment": "neutral",
+      "word_count": 15
     }
   ]
 }
