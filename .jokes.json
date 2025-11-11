@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "Why did the Python dev bring a ladder to work? They heard the project needed more *levels* of abstraction.",
-      "timestamp": "2025-10-17T02:11:46.448138+00:00",
-      "category": "python",
-      "hash": "1bb8596ce63211aee486ec7f131c02f5",
-      "sentiment": "neutral",
-      "word_count": 19
-    },
-    {
       "joke": "JavaScript: Where \"that's a feature\" is code for \"I'm too tired to debug this\".",
       "timestamp": "2025-10-17T13:05:12.815747+00:00",
       "category": "javascript",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "My database design is like a good relationship: one-to-many, but only if *I* say so.",
-      "category": "databases",
       "timestamp": "2025-11-10T13:08:12.077648+00:00",
+      "category": "databases",
       "hash": "7da6fbf4fb1699819d6b5fd5e3e2bec2",
       "sentiment": "neutral",
       "word_count": 15
+    },
+    {
+      "joke": "JavaScript's spirit animal? The chameleon. It blends seamlessly... into every framework.",
+      "category": "javascript",
+      "timestamp": "2025-11-11T02:20:39.984818+00:00",
+      "hash": "01bff1d0e5ddbce779c313753f9436de",
+      "sentiment": "neutral",
+      "word_count": 11
     }
   ]
 }
