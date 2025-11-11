@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "JavaScript: Where \"that's a feature\" is code for \"I'm too tired to debug this\".",
-      "timestamp": "2025-10-17T13:05:12.815747+00:00",
-      "category": "javascript",
-      "hash": "cd5010a0a80752c95dcb8fea5a88f14b",
-      "sentiment": "negative",
-      "word_count": 14
-    },
-    {
       "joke": "\"Fixed that bug!\" *pushes to prod* \"Oh, that's where *that* bug went.\"",
       "timestamp": "2025-10-18T02:06:51.646280+00:00",
       "category": "debugging",
@@ -394,10 +386,18 @@
     },
     {
       "joke": "JavaScript's spirit animal? The chameleon. It blends seamlessly... into every framework.",
-      "category": "javascript",
       "timestamp": "2025-11-11T02:20:39.984818+00:00",
+      "category": "javascript",
       "hash": "01bff1d0e5ddbce779c313753f9436de",
       "sentiment": "neutral",
+      "word_count": 11
+    },
+    {
+      "joke": "Debugging: Like a detective show, except you're also the prime suspect.",
+      "category": "debugging",
+      "timestamp": "2025-11-11T13:08:00.887042+00:00",
+      "hash": "5272a51e656b4b1b0da82bdd12919867",
+      "sentiment": "negative",
       "word_count": 11
     }
   ]
