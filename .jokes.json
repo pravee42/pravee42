@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "\"Fixed that bug!\" *pushes to prod* \"Oh, that's where *that* bug went.\"",
-      "timestamp": "2025-10-18T02:06:51.646280+00:00",
-      "category": "debugging",
-      "hash": "4ac4c97c3103073af508542294b918b6",
-      "sentiment": "negative",
-      "word_count": 12
-    },
-    {
       "joke": "My SQL skills? Table stakes. I can JOIN tables, but can't join social situations.",
       "timestamp": "2025-10-18T12:59:38.801574+00:00",
       "category": "databases",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "Debugging: Like a detective show, except you're also the prime suspect.",
-      "category": "debugging",
       "timestamp": "2025-11-11T13:08:00.887042+00:00",
+      "category": "debugging",
       "hash": "5272a51e656b4b1b0da82bdd12919867",
       "sentiment": "negative",
       "word_count": 11
+    },
+    {
+      "joke": "CSS: Where \"center\" is a concept, not a command. Good luck with that div!",
+      "category": "css",
+      "timestamp": "2025-11-12T02:19:41.563376+00:00",
+      "hash": "9005e133ed81a4c9d5bc088310eca0aa",
+      "sentiment": "neutral",
+      "word_count": 14
     }
   ]
 }
