@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "My SQL skills? Table stakes. I can JOIN tables, but can't join social situations.",
-      "timestamp": "2025-10-18T12:59:38.801574+00:00",
-      "category": "databases",
-      "hash": "a2e61719ffba2765f466d9f62577223e",
-      "sentiment": "neutral",
-      "word_count": 14
-    },
-    {
       "joke": "CSS: My !important is stronger than yours. Prepare for specificity warfare.",
       "timestamp": "2025-10-19T02:25:28.277978+00:00",
       "category": "css",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "CSS: Where \"center\" is a concept, not a command. Good luck with that div!",
-      "category": "css",
       "timestamp": "2025-11-12T02:19:41.563376+00:00",
+      "category": "css",
       "hash": "9005e133ed81a4c9d5bc088310eca0aa",
       "sentiment": "neutral",
       "word_count": 14
+    },
+    {
+      "joke": "Git flow? More like `git, no!` Now I'm stuck resolving merge conflicts.",
+      "category": "git",
+      "timestamp": "2025-11-12T13:09:40.039271+00:00",
+      "hash": "51e68873ce0cafec311c5b737d6a763b",
+      "sentiment": "neutral",
+      "word_count": 12
     }
   ]
 }
