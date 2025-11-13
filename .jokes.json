@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "My git branching strategy: master for show, feature branches for existential dread.",
-      "timestamp": "2025-10-19T12:59:49.985740+00:00",
-      "category": "git",
-      "hash": "9560843e7cfb62241e68aad99fb0fd90",
-      "sentiment": "neutral",
-      "word_count": 12
-    },
-    {
       "joke": "Why did the Python script get lost? Too much whitespace, couldn't find its way.",
       "timestamp": "2025-10-20T02:22:32.099290+00:00",
       "category": "python",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "Why did the Python script get a therapist? It had too many dependencies.",
-      "category": "python",
       "timestamp": "2025-11-13T02:21:51.008777+00:00",
+      "category": "python",
       "hash": "d79c567c9e000a7370b5ca0f39f6071e",
       "sentiment": "neutral",
       "word_count": 13
+    },
+    {
+      "joke": "Database indexes: Speeding up queries, or just expensive parking lots for data?",
+      "category": "databases",
+      "timestamp": "2025-11-13T13:08:57.836678+00:00",
+      "hash": "0e8d4dea40a9f8539640fa91b9468bbe",
+      "sentiment": "neutral",
+      "word_count": 12
     }
   ]
 }
