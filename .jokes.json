@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "CSS: My !important is stronger than yours. Prepare for specificity warfare.",
-      "timestamp": "2025-10-19T02:25:28.277978+00:00",
-      "category": "css",
-      "hash": "90e704ccf974c4e1b1491ca55db4ded5",
-      "sentiment": "neutral",
-      "word_count": 11
-    },
-    {
       "joke": "My git branching strategy: master for show, feature branches for existential dread.",
       "timestamp": "2025-10-19T12:59:49.985740+00:00",
       "category": "git",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "Git flow? More like `git, no!` Now I'm stuck resolving merge conflicts.",
-      "category": "git",
       "timestamp": "2025-11-12T13:09:40.039271+00:00",
+      "category": "git",
       "hash": "51e68873ce0cafec311c5b737d6a763b",
       "sentiment": "neutral",
       "word_count": 12
+    },
+    {
+      "joke": "Why did the Python script get a therapist? It had too many dependencies.",
+      "category": "python",
+      "timestamp": "2025-11-13T02:21:51.008777+00:00",
+      "hash": "d79c567c9e000a7370b5ca0f39f6071e",
+      "sentiment": "neutral",
+      "word_count": 13
     }
   ]
 }
