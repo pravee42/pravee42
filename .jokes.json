@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "Why did the Python script get lost? Too much whitespace, couldn't find its way.",
-      "timestamp": "2025-10-20T02:22:32.099290+00:00",
-      "category": "python",
-      "hash": "0626ffe1ef2c8efc4a45d4eb6580e826",
-      "sentiment": "neutral",
-      "word_count": 14
-    },
-    {
       "joke": "Javascript: `typeof NaN === 'number'`. Makes perfect sense if you're not thinking.",
       "timestamp": "2025-10-20T13:06:27.606922+00:00",
       "category": "javascript",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "Database indexes: Speeding up queries, or just expensive parking lots for data?",
-      "category": "databases",
       "timestamp": "2025-11-13T13:08:57.836678+00:00",
+      "category": "databases",
       "hash": "0e8d4dea40a9f8539640fa91b9468bbe",
       "sentiment": "neutral",
       "word_count": 12
+    },
+    {
+      "joke": "JavaScript: Where `'4' - 2 == 2`, but `'4' + 2 == '42'`. It's math, but make it weird.",
+      "category": "javascript",
+      "timestamp": "2025-11-14T02:20:01.605454+00:00",
+      "hash": "1df7b57d8858ac9a88f56747ec654a29",
+      "sentiment": "neutral",
+      "word_count": 19
     }
   ]
 }

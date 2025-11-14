@@ -13,10 +13,10 @@
 ### 😂 Dev Joke of the Day
 <!-- JOKE-START -->
 ```javascript
-Database indexes: Speeding up queries, or just expensive parking lots for data?
+JavaScript: Where `'4' - 2 == 2`, but `'4' + 2 == '42'`. It's math, but make it weird.
 ```
-*🏷️ Category: databases | 📅 2025-11-13 13:08 UTC*
-*📊 Joke Stats: 1 jokes generated | Top category: databases (1)*
+*🏷️ Category: javascript | 📅 2025-11-14 02:20 UTC*
+*📊 Joke Stats: 1 jokes generated | Top category: javascript (1)*
 <!-- JOKE-END -->
 
 
