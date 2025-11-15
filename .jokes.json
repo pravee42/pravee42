@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "Database normalization: It's like organizing your sock drawer, only to discover you only own left socks.",
-      "timestamp": "2025-10-21T13:08:46.405604+00:00",
-      "category": "databases",
-      "hash": "8338135b707bda9b00cf54c41c4506ee",
-      "sentiment": "neutral",
-      "word_count": 16
-    },
-    {
       "joke": "CSS: Adding `!important` is like giving your code a participation trophy, but louder.",
       "timestamp": "2025-10-22T02:18:44.290219+00:00",
       "category": "css",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "CSS: Flexbox - finally, a layout tool that *almost* does what I want it to.",
-      "category": "css",
       "timestamp": "2025-11-15T02:16:08.787589+00:00",
+      "category": "css",
       "hash": "d439b24cd16aaaeb5493335b8a98221c",
       "sentiment": "neutral",
       "word_count": 15
+    },
+    {
+      "joke": "My 'git reset --hard' is my 'Ctrl+Z' for Mondays.",
+      "category": "git",
+      "timestamp": "2025-11-15T13:01:12.820918+00:00",
+      "hash": "fcc18d1624fb1b120e76bf7c88e5ecf6",
+      "sentiment": "neutral",
+      "word_count": 9
     }
   ]
 }
