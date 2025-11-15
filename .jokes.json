@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "My code compiled! Now the *real* debugging begins.",
-      "timestamp": "2025-10-21T02:15:44.454774+00:00",
-      "category": "debugging",
-      "hash": "4699c3a449162c80f1fb0df0570bf126",
-      "sentiment": "negative",
-      "word_count": 8
-    },
-    {
       "joke": "Database normalization: It's like organizing your sock drawer, only to discover you only own left socks.",
       "timestamp": "2025-10-21T13:08:46.405604+00:00",
       "category": "databases",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "Debugging: Like archaeology, but the dinosaur died yesterday in production.",
-      "category": "debugging",
       "timestamp": "2025-11-14T13:06:48.613817+00:00",
+      "category": "debugging",
       "hash": "0d8f3e0fc9cf2f19941f5bb7cdf4ce7d",
       "sentiment": "negative",
       "word_count": 10
+    },
+    {
+      "joke": "CSS: Flexbox - finally, a layout tool that *almost* does what I want it to.",
+      "category": "css",
+      "timestamp": "2025-11-15T02:16:08.787589+00:00",
+      "hash": "d439b24cd16aaaeb5493335b8a98221c",
+      "sentiment": "neutral",
+      "word_count": 15
     }
   ]
 }
