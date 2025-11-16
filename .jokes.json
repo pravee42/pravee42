@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "\"Git push --force\" I call it job security.",
-      "timestamp": "2025-10-22T13:09:35.062443+00:00",
-      "category": "git",
-      "hash": "9877e5d9b747d55b2f67dea76fee87e8",
-      "sentiment": "neutral",
-      "word_count": 8
-    },
-    {
       "joke": "Python: My classes inherit from 'object'. Am I special?",
       "timestamp": "2025-10-23T02:14:09.366082+00:00",
       "category": "python",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "Python: Writing concise code, then spending hours debugging a one-liner.",
-      "category": "python",
       "timestamp": "2025-11-16T02:26:23.506781+00:00",
+      "category": "python",
       "hash": "93cc1286b086292d49327ee773d81750",
       "sentiment": "negative",
       "word_count": 10
+    },
+    {
+      "joke": "Database normalization: Because splitting is easier than committing.",
+      "category": "databases",
+      "timestamp": "2025-11-16T13:00:53.747627+00:00",
+      "hash": "722c014e2e5db43345a60529daee1429",
+      "sentiment": "neutral",
+      "word_count": 8
     }
   ]
 }
