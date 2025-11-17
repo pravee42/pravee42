@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "Python: My classes inherit from 'object'. Am I special?",
-      "timestamp": "2025-10-23T02:14:09.366082+00:00",
-      "category": "python",
-      "hash": "c7cc5561cc010d5f16ac979fb387b54c",
-      "sentiment": "neutral",
-      "word_count": 9
-    },
-    {
       "joke": "JavaScript: I asked for a promise. It gave me a `Promise<Promise<Promise<string>>>`. Thanks?",
       "timestamp": "2025-10-23T13:08:19.404074+00:00",
       "category": "javascript",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "Database normalization: Because splitting is easier than committing.",
-      "category": "databases",
       "timestamp": "2025-11-16T13:00:53.747627+00:00",
+      "category": "databases",
       "hash": "722c014e2e5db43345a60529daee1429",
       "sentiment": "neutral",
       "word_count": 8
+    },
+    {
+      "joke": "JavaScript: Trying to avoid callback hell, but ending up in promise purgatory.",
+      "category": "javascript",
+      "timestamp": "2025-11-17T02:21:34.285119+00:00",
+      "hash": "4e12bfa1c6ca623ed0dfd25ec91c9bde",
+      "sentiment": "neutral",
+      "word_count": 12
     }
   ]
 }
