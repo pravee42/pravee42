@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "Debugging: Like an escape room, but all the clues are written in hieroglyphics.",
-      "timestamp": "2025-10-24T02:09:46.081839+00:00",
-      "category": "debugging",
-      "hash": "e60331fa9722efa023c8498daeb48808",
-      "sentiment": "negative",
-      "word_count": 13
-    },
-    {
       "joke": "My database relationships are complex; even the ORM needs therapy.",
       "timestamp": "2025-10-24T13:07:27.405949+00:00",
       "category": "databases",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "\"Debugging: Confirming my assumptions were as wrong as my Stack Overflow search terms.\"",
-      "category": "debugging",
       "timestamp": "2025-11-17T13:08:30.862229+00:00",
+      "category": "debugging",
       "hash": "e7d2ff0867af9705fe98fd5c412b8ac6",
       "sentiment": "negative",
       "word_count": 13
+    },
+    {
+      "joke": "CSS: I write elegant selectors, then remember about browser compatibility. Facepalm.",
+      "category": "css",
+      "timestamp": "2025-11-18T02:19:29.300339+00:00",
+      "hash": "241bbabe41f323a0bce912901581cdd6",
+      "sentiment": "neutral",
+      "word_count": 11
     }
   ]
 }
