@@ -13,10 +13,10 @@
 ### 😂 Dev Joke of the Day
 <!-- JOKE-START -->
 ```javascript
-CSS: I write elegant selectors, then remember about browser compatibility. Facepalm.
+⚠️ API Error: Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.
 ```
-*🏷️ Category: css | 📅 2025-11-18 02:19 UTC*
-*📊 Joke Stats: 1 jokes generated | Top category: css (1)*
+*🏷️ Category: error | 📅 2025-11-18 13:08 UTC*
+*📊 Joke Stats: 1 jokes generated | Top category: error (1)*
 <!-- JOKE-END -->
 
 

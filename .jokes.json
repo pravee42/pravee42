@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "My database relationships are complex; even the ORM needs therapy.",
-      "timestamp": "2025-10-24T13:07:27.405949+00:00",
-      "category": "databases",
-      "hash": "f55acd6965853e6c4d5237236ad030cb",
-      "sentiment": "neutral",
-      "word_count": 10
-    },
-    {
       "joke": "CSS: Making elements dance on the screen with the grace of a drunken giraffe.",
       "timestamp": "2025-10-25T02:12:03.569457+00:00",
       "category": "css",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "CSS: I write elegant selectors, then remember about browser compatibility. Facepalm.",
-      "category": "css",
       "timestamp": "2025-11-18T02:19:29.300339+00:00",
+      "category": "css",
       "hash": "241bbabe41f323a0bce912901581cdd6",
       "sentiment": "neutral",
       "word_count": 11
+    },
+    {
+      "joke": "⚠️ API Error: Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.",
+      "category": "error",
+      "timestamp": "2025-11-18T13:08:19.864890+00:00",
+      "hash": "",
+      "sentiment": "neutral",
+      "word_count": 0
     }
   ]
 }
