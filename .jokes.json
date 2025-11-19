@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "CSS: Making elements dance on the screen with the grace of a drunken giraffe.",
-      "timestamp": "2025-10-25T02:12:03.569457+00:00",
-      "category": "css",
-      "hash": "4d295c3e613d177e0d74fb5e49052007",
-      "sentiment": "neutral",
-      "word_count": 14
-    },
-    {
       "joke": "Git blame's great until it points back to you... from six months ago.",
       "timestamp": "2025-10-25T12:59:32.457163+00:00",
       "category": "git",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "⚠️ API Error: Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.",
-      "category": "error",
       "timestamp": "2025-11-18T13:08:19.864890+00:00",
+      "category": "error",
       "hash": "",
       "sentiment": "neutral",
       "word_count": 0
+    },
+    {
+      "joke": "Python: I OOP so hard, Sphinx thinks my docstrings are writing fantasy novels.",
+      "category": "python",
+      "timestamp": "2025-11-19T02:19:20.454407+00:00",
+      "hash": "f79887d8e079366031e980215c618e94",
+      "sentiment": "neutral",
+      "word_count": 13
     }
   ]
 }
