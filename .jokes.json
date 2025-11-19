@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "Git blame's great until it points back to you... from six months ago.",
-      "timestamp": "2025-10-25T12:59:32.457163+00:00",
-      "category": "git",
-      "hash": "ad2d02cc5ecc0e25eae7b4cf4cd29f22",
-      "sentiment": "positive",
-      "word_count": 13
-    },
-    {
       "joke": "Python: IndentationError? Just reformat the universe to match my code.",
       "timestamp": "2025-10-26T02:20:52.172394+00:00",
       "category": "python",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "Python: I OOP so hard, Sphinx thinks my docstrings are writing fantasy novels.",
-      "category": "python",
       "timestamp": "2025-11-19T02:19:20.454407+00:00",
+      "category": "python",
       "hash": "f79887d8e079366031e980215c618e94",
       "sentiment": "neutral",
       "word_count": 13
+    },
+    {
+      "joke": "Git: Where \"merge conflict\" is just a fancy term for \"my code hates yours.\"",
+      "category": "git",
+      "timestamp": "2025-11-19T13:08:32.823842+00:00",
+      "hash": "61b56beae79bed716201ddae63778959",
+      "sentiment": "negative",
+      "word_count": 14
     }
   ]
 }
