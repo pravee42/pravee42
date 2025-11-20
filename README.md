@@ -13,10 +13,10 @@
 ### 😂 Dev Joke of the Day
 <!-- JOKE-START -->
 ```javascript
-Git: Where "merge conflict" is just a fancy term for "my code hates yours."
+JavaScript: "It's dynamic!" they said. Now I'm dynamically debugging why `this` is `window`.
 ```
-*🏷️ Category: git | 📅 2025-11-19 13:08 UTC*
-*📊 Joke Stats: 1 jokes generated | Top category: git (1)*
+*🏷️ Category: javascript | 📅 2025-11-20 02:17 UTC*
+*📊 Joke Stats: 1 jokes generated | Top category: javascript (1)*
 <!-- JOKE-END -->
 
 

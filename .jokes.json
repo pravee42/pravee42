@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "Python: IndentationError? Just reformat the universe to match my code.",
-      "timestamp": "2025-10-26T02:20:52.172394+00:00",
-      "category": "python",
-      "hash": "c8fdf7d2956ea86f015b3f42a553d0a1",
-      "sentiment": "negative",
-      "word_count": 10
-    },
-    {
       "joke": "JavaScript: True equality (===) or false security? Depends on your data type... and your sanity.",
       "timestamp": "2025-10-26T13:00:59.193088+00:00",
       "category": "javascript",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "Git: Where \"merge conflict\" is just a fancy term for \"my code hates yours.\"",
-      "category": "git",
       "timestamp": "2025-11-19T13:08:32.823842+00:00",
+      "category": "git",
       "hash": "61b56beae79bed716201ddae63778959",
       "sentiment": "negative",
       "word_count": 14
+    },
+    {
+      "joke": "JavaScript: \"It's dynamic!\" they said. Now I'm dynamically debugging why `this` is `window`.",
+      "category": "javascript",
+      "timestamp": "2025-11-20T02:17:45.592083+00:00",
+      "hash": "5cecd763ddc0625b6cbcd682b4516abc",
+      "sentiment": "negative",
+      "word_count": 13
     }
   ]
 }
