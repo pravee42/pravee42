@@ -13,10 +13,10 @@
 ### 😂 Dev Joke of the Day
 <!-- JOKE-START -->
 ```javascript
-JavaScript: "It's dynamic!" they said. Now I'm dynamically debugging why `this` is `window`.
+Debugging: Like a code exorcism, but the demon is usually a misplaced comma.
 ```
-*🏷️ Category: javascript | 📅 2025-11-20 02:17 UTC*
-*📊 Joke Stats: 1 jokes generated | Top category: javascript (1)*
+*🏷️ Category: debugging | 📅 2025-11-20 13:07 UTC*
+*📊 Joke Stats: 1 jokes generated | Top category: debugging (1)*
 <!-- JOKE-END -->
 
 

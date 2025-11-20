@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "JavaScript: True equality (===) or false security? Depends on your data type... and your sanity.",
-      "timestamp": "2025-10-26T13:00:59.193088+00:00",
-      "category": "javascript",
-      "hash": "df15836277902c68ad1dba805df0c3ae",
-      "sentiment": "neutral",
-      "word_count": 15
-    },
-    {
       "joke": "\"Fixed bug,\" commit said. Now all variables are \"undefined.\" Guess I'll revert.",
       "timestamp": "2025-10-27T02:26:20.791953+00:00",
       "category": "debugging",
@@ -394,9 +386,17 @@
     },
     {
       "joke": "JavaScript: \"It's dynamic!\" they said. Now I'm dynamically debugging why `this` is `window`.",
-      "category": "javascript",
       "timestamp": "2025-11-20T02:17:45.592083+00:00",
+      "category": "javascript",
       "hash": "5cecd763ddc0625b6cbcd682b4516abc",
+      "sentiment": "negative",
+      "word_count": 13
+    },
+    {
+      "joke": "Debugging: Like a code exorcism, but the demon is usually a misplaced comma.",
+      "category": "debugging",
+      "timestamp": "2025-11-20T13:07:28.681981+00:00",
+      "hash": "25cca9f16c5967836c69cacf04d933f0",
       "sentiment": "negative",
       "word_count": 13
     }
