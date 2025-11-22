@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "CSS: The cascade. Giving web devs a sense of control, followed by inevitable despair.",
-      "timestamp": "2025-10-28T02:14:42.123312+00:00",
-      "category": "css",
-      "hash": "532fcaa5764c7c9c2f0dac298da1e2d7",
-      "sentiment": "neutral",
-      "word_count": 14
-    },
-    {
       "joke": "Git reverts: proof you can go back in time, but your future self will hate you.",
       "timestamp": "2025-10-28T13:06:50.272372+00:00",
       "category": "git",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "Database relationships: It's complicated, but at least foreign keys enforce commitment.",
-      "category": "databases",
       "timestamp": "2025-11-21T13:05:57.137305+00:00",
+      "category": "databases",
       "hash": "351181359c273e6800cee49e051ea787",
       "sentiment": "neutral",
       "word_count": 11
+    },
+    {
+      "joke": "Python: \"Batteries included,\" but sometimes they're the wrong voltage for your project.",
+      "category": "python",
+      "timestamp": "2025-11-22T02:13:44.246328+00:00",
+      "hash": "f43d1aaf81ba06f6e65b64fca4166cc8",
+      "sentiment": "neutral",
+      "word_count": 12
     }
   ]
 }
