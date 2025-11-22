@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "Git reverts: proof you can go back in time, but your future self will hate you.",
-      "timestamp": "2025-10-28T13:06:50.272372+00:00",
-      "category": "git",
-      "hash": "ac46add05f3a1169fba9cf007e351fb5",
-      "sentiment": "negative",
-      "word_count": 16
-    },
-    {
       "joke": "Python: Syntax so clean, you'll forget the runtime errors are lurking.",
       "timestamp": "2025-10-29T02:22:40.472798+00:00",
       "category": "python",
@@ -394,9 +386,17 @@
     },
     {
       "joke": "Python: \"Batteries included,\" but sometimes they're the wrong voltage for your project.",
-      "category": "python",
       "timestamp": "2025-11-22T02:13:44.246328+00:00",
+      "category": "python",
       "hash": "f43d1aaf81ba06f6e65b64fca4166cc8",
+      "sentiment": "neutral",
+      "word_count": 12
+    },
+    {
+      "joke": "My `git commit` messages are haikus. I'm branching out into performance art.",
+      "category": "git",
+      "timestamp": "2025-11-22T13:00:02.803090+00:00",
+      "hash": "2ca5a756df32fce26574d9e2f023e32e",
       "sentiment": "neutral",
       "word_count": 12
     }
