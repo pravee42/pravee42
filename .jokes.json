@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "JavaScript: `null == undefined` is true, but they're not the *same*. It's complicated, like my love life.",
-      "timestamp": "2025-10-29T13:08:55.999231+00:00",
-      "category": "javascript",
-      "hash": "ccda2fc9325186154577ca7a9e4cca1b",
-      "sentiment": "positive",
-      "word_count": 17
-    },
-    {
       "joke": "Debugging: Turning \"why?\" into \"oh, that's why!\" one semicolon at a time.",
       "timestamp": "2025-10-30T02:20:44.477233+00:00",
       "category": "debugging",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "JavaScript: Using `typeof null` to determine the type? It's an object! Oh, the irony.",
-      "category": "javascript",
       "timestamp": "2025-11-23T02:34:48.584265+00:00",
+      "category": "javascript",
       "hash": "ad835a3aae40b1ee05aea4ca12808d76",
       "sentiment": "neutral",
       "word_count": 14
+    },
+    {
+      "joke": "\"Fixed that bug!\"... said the developer, introducing three new, undocumented features.",
+      "category": "debugging",
+      "timestamp": "2025-11-23T12:59:42.265374+00:00",
+      "hash": "1a8e16efa60091439f01c2850f8cfb8f",
+      "sentiment": "negative",
+      "word_count": 11
     }
   ]
 }
