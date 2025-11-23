@@ -13,10 +13,10 @@
 ### 😂 Dev Joke of the Day
 <!-- JOKE-START -->
 ```javascript
-My `git commit` messages are haikus. I'm branching out into performance art.
+JavaScript: Using `typeof null` to determine the type? It's an object! Oh, the irony.
 ```
-*🏷️ Category: git | 📅 2025-11-22 13:00 UTC*
-*📊 Joke Stats: 1 jokes generated | Top category: git (1)*
+*🏷️ Category: javascript | 📅 2025-11-23 02:34 UTC*
+*📊 Joke Stats: 1 jokes generated | Top category: javascript (1)*
 <!-- JOKE-END -->
 
 

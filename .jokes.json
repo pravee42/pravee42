@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "Python: Syntax so clean, you'll forget the runtime errors are lurking.",
-      "timestamp": "2025-10-29T02:22:40.472798+00:00",
-      "category": "python",
-      "hash": "2c51f1ec7e2374ececa3ac40adbe21a0",
-      "sentiment": "negative",
-      "word_count": 11
-    },
-    {
       "joke": "JavaScript: `null == undefined` is true, but they're not the *same*. It's complicated, like my love life.",
       "timestamp": "2025-10-29T13:08:55.999231+00:00",
       "category": "javascript",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "My `git commit` messages are haikus. I'm branching out into performance art.",
-      "category": "git",
       "timestamp": "2025-11-22T13:00:02.803090+00:00",
+      "category": "git",
       "hash": "2ca5a756df32fce26574d9e2f023e32e",
       "sentiment": "neutral",
       "word_count": 12
+    },
+    {
+      "joke": "JavaScript: Using `typeof null` to determine the type? It's an object! Oh, the irony.",
+      "category": "javascript",
+      "timestamp": "2025-11-23T02:34:48.584265+00:00",
+      "hash": "ad835a3aae40b1ee05aea4ca12808d76",
+      "sentiment": "neutral",
+      "word_count": 14
     }
   ]
 }
