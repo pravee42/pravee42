@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "Database migrations: Changing your mind, one irreversible command at a time.",
-      "timestamp": "2025-10-30T13:07:52.024497+00:00",
-      "category": "databases",
-      "hash": "c1461b0ee17c27f63c334a427b0adefa",
-      "sentiment": "neutral",
-      "word_count": 11
-    },
-    {
       "joke": "CSS: I came, I saw, I overrode.",
       "timestamp": "2025-10-31T02:18:23.664207+00:00",
       "category": "css",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "CSS: Where every problem can be solved with another `div`, or thirty.",
-      "category": "css",
       "timestamp": "2025-11-24T02:28:35.408199+00:00",
+      "category": "css",
       "hash": "75eb8bc4a4dc8db5acd6c873ac461378",
       "sentiment": "neutral",
       "word_count": 12
+    },
+    {
+      "joke": "My SQL queries are so complex, they need their own ORM. It's ORM-ception!",
+      "category": "databases",
+      "timestamp": "2025-11-24T13:09:29.018896+00:00",
+      "hash": "904e33ab3c3f56c7bbf95f64f40a214e",
+      "sentiment": "neutral",
+      "word_count": 13
     }
   ]
 }
