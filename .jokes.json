@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "Debugging: Turning \"why?\" into \"oh, that's why!\" one semicolon at a time.",
-      "timestamp": "2025-10-30T02:20:44.477233+00:00",
-      "category": "debugging",
-      "hash": "d626acca91a473a6d09fa678b055299e",
-      "sentiment": "negative",
-      "word_count": 12
-    },
-    {
       "joke": "Database migrations: Changing your mind, one irreversible command at a time.",
       "timestamp": "2025-10-30T13:07:52.024497+00:00",
       "category": "databases",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "\"Fixed that bug!\"... said the developer, introducing three new, undocumented features.",
-      "category": "debugging",
       "timestamp": "2025-11-23T12:59:42.265374+00:00",
+      "category": "debugging",
       "hash": "1a8e16efa60091439f01c2850f8cfb8f",
       "sentiment": "negative",
       "word_count": 11
+    },
+    {
+      "joke": "CSS: Where every problem can be solved with another `div`, or thirty.",
+      "category": "css",
+      "timestamp": "2025-11-24T02:28:35.408199+00:00",
+      "hash": "75eb8bc4a4dc8db5acd6c873ac461378",
+      "sentiment": "neutral",
+      "word_count": 12
     }
   ]
 }
