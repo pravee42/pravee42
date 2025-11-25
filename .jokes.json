@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "CSS: I came, I saw, I overrode.",
-      "timestamp": "2025-10-31T02:18:23.664207+00:00",
-      "category": "css",
-      "hash": "ae9c244d5762e14a3a8c52cb51e85173",
-      "sentiment": "neutral",
-      "word_count": 7
-    },
-    {
       "joke": "Git add? More like git *anxiety*, did I stage enough? Too much?",
       "timestamp": "2025-10-31T13:06:17.348384+00:00",
       "category": "git",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "My SQL queries are so complex, they need their own ORM. It's ORM-ception!",
-      "category": "databases",
       "timestamp": "2025-11-24T13:09:29.018896+00:00",
+      "category": "databases",
       "hash": "904e33ab3c3f56c7bbf95f64f40a214e",
       "sentiment": "neutral",
       "word_count": 13
+    },
+    {
+      "joke": "Why did the Python snake cross the road? To prove it wasn't a strongly typed language!",
+      "category": "python",
+      "timestamp": "2025-11-25T02:20:56.247335+00:00",
+      "hash": "4ba8fa58e863ec16964dd07dd755b38b",
+      "sentiment": "neutral",
+      "word_count": 16
     }
   ]
 }
