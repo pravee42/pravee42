@@ -13,10 +13,10 @@
 ### 😂 Dev Joke of the Day
 <!-- JOKE-START -->
 ```javascript
-JavaScript devs don't age, they just get endlessly re-rendered by framework updates.
+Debugging: A process of reversing engineer's hubris, one typo at a time.
 ```
-*🏷️ Category: javascript | 📅 2025-11-26 02:21 UTC*
-*📊 Joke Stats: 1 jokes generated | Top category: javascript (1)*
+*🏷️ Category: debugging | 📅 2025-11-26 13:11 UTC*
+*📊 Joke Stats: 1 jokes generated | Top category: debugging (1)*
 <!-- JOKE-END -->
 
 
