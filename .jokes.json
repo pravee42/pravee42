@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "Why did the Python script break up with the Java app? Lack of class inheritance compatibility.",
-      "timestamp": "2025-11-01T02:21:16.053274+00:00",
-      "category": "python",
-      "hash": "1906c169c4c675244824ba48082206d1",
-      "sentiment": "negative",
-      "word_count": 16
-    },
-    {
       "joke": "Javascript: Async/await: because sometimes I want to wait, but not *too* much.",
       "timestamp": "2025-11-01T13:00:03.248211+00:00",
       "category": "javascript",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "Git blame? More like, git *frame* – finding who to admire for the elegant code.",
-      "category": "git",
       "timestamp": "2025-11-25T13:09:07.488364+00:00",
+      "category": "git",
       "hash": "20aeb3a43eb33bce81b351457edbd6f5",
       "sentiment": "neutral",
       "word_count": 15
+    },
+    {
+      "joke": "JavaScript devs don't age, they just get endlessly re-rendered by framework updates.",
+      "category": "javascript",
+      "timestamp": "2025-11-26T02:21:34.142925+00:00",
+      "hash": "ce1dc9c11374578680f1b21301477367",
+      "sentiment": "neutral",
+      "word_count": 12
     }
   ]
 }
