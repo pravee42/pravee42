@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "Debugging: Adding console logs until the problem stares back, judging your coding choices.",
-      "timestamp": "2025-11-02T02:24:16.866251+00:00",
-      "category": "debugging",
-      "hash": "ce619839791b6356ab6e8d8cde1a39e9",
-      "sentiment": "negative",
-      "word_count": 13
-    },
-    {
       "joke": "Database schema changes: A perfectly planned puzzle... until production finds the missing piece.",
       "timestamp": "2025-11-02T12:59:26.352445+00:00",
       "category": "databases",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "Debugging: A process of reversing engineer's hubris, one typo at a time.",
-      "category": "debugging",
       "timestamp": "2025-11-26T13:11:13.151375+00:00",
+      "category": "debugging",
       "hash": "71fa047ecea561480cc4e7f20e519771",
       "sentiment": "negative",
       "word_count": 12
+    },
+    {
+      "joke": "CSS: Cascade? More like a chaotic scramble for specificity dominance.",
+      "category": "css",
+      "timestamp": "2025-11-27T02:18:26.597471+00:00",
+      "hash": "67b669fee779995e797c0c4044bcae58",
+      "sentiment": "neutral",
+      "word_count": 10
     }
   ]
 }
