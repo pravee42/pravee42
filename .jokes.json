@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "Database schema changes: A perfectly planned puzzle... until production finds the missing piece.",
-      "timestamp": "2025-11-02T12:59:26.352445+00:00",
-      "category": "databases",
-      "hash": "8ef7947059818a88a069ec6479767806",
-      "sentiment": "neutral",
-      "word_count": 13
-    },
-    {
       "joke": "CSS: Position: absolute; perfectly describes my grip on reality after another project.",
       "timestamp": "2025-11-03T02:23:46.833161+00:00",
       "category": "css",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "CSS: Cascade? More like a chaotic scramble for specificity dominance.",
-      "category": "css",
       "timestamp": "2025-11-27T02:18:26.597471+00:00",
+      "category": "css",
       "hash": "67b669fee779995e797c0c4044bcae58",
       "sentiment": "neutral",
       "word_count": 10
+    },
+    {
+      "joke": "Database migrations: Applying changes is easy; rolling them back feels like quantum entanglement.",
+      "category": "databases",
+      "timestamp": "2025-11-27T13:08:41.907803+00:00",
+      "hash": "dff40a272e12f84273fd9943bcc99c50",
+      "sentiment": "neutral",
+      "word_count": 13
     }
   ]
 }
