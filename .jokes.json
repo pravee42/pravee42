@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "My feature branch diverged so far, `git rebase` became a therapy session.",
-      "timestamp": "2025-11-03T13:07:07.285678+00:00",
-      "category": "git",
-      "hash": "4de0fc4970012cf4d0daf4102c5de65f",
-      "sentiment": "neutral",
-      "word_count": 12
-    },
-    {
       "joke": "Python: Easy to learn, hard to master...especially when decorators get involved.",
       "timestamp": "2025-11-04T02:18:26.804743+00:00",
       "category": "python",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "Python: My code runs so elegantly, until someone imports a circular dependency. It's a snake eating its tail!",
-      "category": "python",
       "timestamp": "2025-11-28T02:18:01.363059+00:00",
+      "category": "python",
       "hash": "47824d924262c06e5f05251d7e34de54",
       "sentiment": "neutral",
       "word_count": 18
+    },
+    {
+      "joke": "I love `git`: it's like time travel, but you're just fixing yesterday's mistakes.",
+      "category": "git",
+      "timestamp": "2025-11-28T13:07:22.198441+00:00",
+      "hash": "1f581fd4dae1ab19039bb287f713bc51",
+      "sentiment": "positive",
+      "word_count": 13
     }
   ]
 }
