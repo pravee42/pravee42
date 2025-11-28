@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "CSS: Position: absolute; perfectly describes my grip on reality after another project.",
-      "timestamp": "2025-11-03T02:23:46.833161+00:00",
-      "category": "css",
-      "hash": "1b4b6dce22b207a18c676a7a010a86b5",
-      "sentiment": "neutral",
-      "word_count": 12
-    },
-    {
       "joke": "My feature branch diverged so far, `git rebase` became a therapy session.",
       "timestamp": "2025-11-03T13:07:07.285678+00:00",
       "category": "git",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "Database migrations: Applying changes is easy; rolling them back feels like quantum entanglement.",
-      "category": "databases",
       "timestamp": "2025-11-27T13:08:41.907803+00:00",
+      "category": "databases",
       "hash": "dff40a272e12f84273fd9943bcc99c50",
       "sentiment": "neutral",
       "word_count": 13
+    },
+    {
+      "joke": "Python: My code runs so elegantly, until someone imports a circular dependency. It's a snake eating its tail!",
+      "category": "python",
+      "timestamp": "2025-11-28T02:18:01.363059+00:00",
+      "hash": "47824d924262c06e5f05251d7e34de54",
+      "sentiment": "neutral",
+      "word_count": 18
     }
   ]
 }
