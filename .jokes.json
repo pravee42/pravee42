@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "Python: Easy to learn, hard to master...especially when decorators get involved.",
-      "timestamp": "2025-11-04T02:18:26.804743+00:00",
-      "category": "python",
-      "hash": "f9082d12996054fcbb2ecdb662ae3902",
-      "sentiment": "neutral",
-      "word_count": 11
-    },
-    {
       "joke": "⚠️ API Error: Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.",
       "timestamp": "2025-11-04T13:10:54.481238+00:00",
       "category": "error",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "I love `git`: it's like time travel, but you're just fixing yesterday's mistakes.",
-      "category": "git",
       "timestamp": "2025-11-28T13:07:22.198441+00:00",
+      "category": "git",
       "hash": "1f581fd4dae1ab19039bb287f713bc51",
       "sentiment": "positive",
       "word_count": 13
+    },
+    {
+      "joke": "JavaScript: Async/await? More like async/awaaaaiting for the bug to surface.",
+      "category": "javascript",
+      "timestamp": "2025-11-29T02:18:09.626458+00:00",
+      "hash": "ccf4c14fec0facbfb8df559919e50e0a",
+      "sentiment": "negative",
+      "word_count": 10
     }
   ]
 }
