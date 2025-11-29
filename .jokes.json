@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "⚠️ API Error: Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.",
-      "timestamp": "2025-11-04T13:10:54.481238+00:00",
-      "category": "error",
-      "hash": "",
-      "sentiment": "neutral",
-      "word_count": 0
-    },
-    {
       "joke": "JavaScript: Closures: when variables escape scope like my dreams of finishing this project.",
       "timestamp": "2025-11-05T02:20:22.397749+00:00",
       "category": "javascript",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "JavaScript: Async/await? More like async/awaaaaiting for the bug to surface.",
-      "category": "javascript",
       "timestamp": "2025-11-29T02:18:09.626458+00:00",
+      "category": "javascript",
       "hash": "ccf4c14fec0facbfb8df559919e50e0a",
       "sentiment": "negative",
       "word_count": 10
+    },
+    {
+      "joke": "My debugging philosophy? \"printf\" is cheaper than a therapist.",
+      "category": "debugging",
+      "timestamp": "2025-11-29T13:03:29.020919+00:00",
+      "hash": "652476406152db7532584e4854835288",
+      "sentiment": "negative",
+      "word_count": 9
     }
   ]
 }
