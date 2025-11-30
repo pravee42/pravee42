@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "Debugging: The art of turning seemingly random code into predictably wrong code.",
-      "timestamp": "2025-11-05T13:08:15.477182+00:00",
-      "category": "debugging",
-      "hash": "4212cbc48c1954525e23ab0a8812a999",
-      "sentiment": "negative",
-      "word_count": 12
-    },
-    {
       "joke": "I'm fluent in CSS. I can speak specificity fluently, but understanding it is a different story.",
       "timestamp": "2025-11-06T02:20:47.708686+00:00",
       "category": "css",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "CSS: Inheriting styles is great, until your great-grandparent defined `background: lime;`.",
-      "category": "css",
       "timestamp": "2025-11-30T02:33:34.938413+00:00",
+      "category": "css",
       "hash": "95eb939b833c9baa7e2be3b302c1786a",
       "sentiment": "positive",
       "word_count": 11
+    },
+    {
+      "joke": "My database schema's so normalized, even *I* can't join the right tables anymore.",
+      "category": "databases",
+      "timestamp": "2025-11-30T13:03:00.426953+00:00",
+      "hash": "c7700fcc392a9edc2ad579fc685ef45d",
+      "sentiment": "neutral",
+      "word_count": 13
     }
   ]
 }
