@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "JavaScript: Closures: when variables escape scope like my dreams of finishing this project.",
-      "timestamp": "2025-11-05T02:20:22.397749+00:00",
-      "category": "javascript",
-      "hash": "07f3995460eadde700988cf91910a6e7",
-      "sentiment": "neutral",
-      "word_count": 13
-    },
-    {
       "joke": "Debugging: The art of turning seemingly random code into predictably wrong code.",
       "timestamp": "2025-11-05T13:08:15.477182+00:00",
       "category": "debugging",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "My debugging philosophy? \"printf\" is cheaper than a therapist.",
-      "category": "debugging",
       "timestamp": "2025-11-29T13:03:29.020919+00:00",
+      "category": "debugging",
       "hash": "652476406152db7532584e4854835288",
       "sentiment": "negative",
       "word_count": 9
+    },
+    {
+      "joke": "CSS: Inheriting styles is great, until your great-grandparent defined `background: lime;`.",
+      "category": "css",
+      "timestamp": "2025-11-30T02:33:34.938413+00:00",
+      "hash": "95eb939b833c9baa7e2be3b302c1786a",
+      "sentiment": "positive",
+      "word_count": 11
     }
   ]
 }
