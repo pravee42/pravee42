@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "Git: Committing to the repo is easier than committing to a relationship. Both end in merges, eventually.",
-      "timestamp": "2025-11-06T13:07:38.855222+00:00",
-      "category": "git",
-      "hash": "91a980a0f3916be81f9cc9b5be304881",
-      "sentiment": "neutral",
-      "word_count": 17
-    },
-    {
       "joke": "Python: Duck typing? More like \"runs until it doesn't.\"",
       "timestamp": "2025-11-07T02:18:23.447385+00:00",
       "category": "python",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "Python's so readable, I almost understand my coworker's spaghetti code... almost.",
-      "category": "python",
       "timestamp": "2025-12-01T02:56:08.566995+00:00",
+      "category": "python",
       "hash": "8a05e2d480240547a2126f62cc68305f",
       "sentiment": "neutral",
       "word_count": 11
+    },
+    {
+      "joke": "Stashing changes: because sometimes you need a clean slate for your dirty laundry.",
+      "category": "git",
+      "timestamp": "2025-12-01T13:11:45.335190+00:00",
+      "hash": "c8082f3f5c7165cb07be0ba49955984a",
+      "sentiment": "neutral",
+      "word_count": 13
     }
   ]
 }
