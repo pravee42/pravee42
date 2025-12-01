@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "I'm fluent in CSS. I can speak specificity fluently, but understanding it is a different story.",
-      "timestamp": "2025-11-06T02:20:47.708686+00:00",
-      "category": "css",
-      "hash": "c264712f1bd93deb182d034cc69a4414",
-      "sentiment": "neutral",
-      "word_count": 16
-    },
-    {
       "joke": "Git: Committing to the repo is easier than committing to a relationship. Both end in merges, eventually.",
       "timestamp": "2025-11-06T13:07:38.855222+00:00",
       "category": "git",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "My database schema's so normalized, even *I* can't join the right tables anymore.",
-      "category": "databases",
       "timestamp": "2025-11-30T13:03:00.426953+00:00",
+      "category": "databases",
       "hash": "c7700fcc392a9edc2ad579fc685ef45d",
       "sentiment": "neutral",
       "word_count": 13
+    },
+    {
+      "joke": "Python's so readable, I almost understand my coworker's spaghetti code... almost.",
+      "category": "python",
+      "timestamp": "2025-12-01T02:56:08.566995+00:00",
+      "hash": "8a05e2d480240547a2126f62cc68305f",
+      "sentiment": "neutral",
+      "word_count": 11
     }
   ]
 }
