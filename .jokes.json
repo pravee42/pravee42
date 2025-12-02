@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "Python: Duck typing? More like \"runs until it doesn't.\"",
-      "timestamp": "2025-11-07T02:18:23.447385+00:00",
-      "category": "python",
-      "hash": "ef4dfcd11486818944a9224bf5baa4b1",
-      "sentiment": "neutral",
-      "word_count": 9
-    },
-    {
       "joke": "NoSQL? No problem… until you need relationships. Then you have *two* problems.",
       "timestamp": "2025-11-07T13:05:50.325436+00:00",
       "category": "databases",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "Stashing changes: because sometimes you need a clean slate for your dirty laundry.",
-      "category": "git",
       "timestamp": "2025-12-01T13:11:45.335190+00:00",
+      "category": "git",
       "hash": "c8082f3f5c7165cb07be0ba49955984a",
       "sentiment": "neutral",
       "word_count": 13
+    },
+    {
+      "joke": "JavaScript: Where `[] == ![]` is true, proving that nothing equals something.",
+      "category": "javascript",
+      "timestamp": "2025-12-02T02:23:47.370200+00:00",
+      "hash": "29f55a263fe31635d919e0d1dbc03d02",
+      "sentiment": "neutral",
+      "word_count": 12
     }
   ]
 }
