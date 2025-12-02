@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "NoSQL? No problem… until you need relationships. Then you have *two* problems.",
-      "timestamp": "2025-11-07T13:05:50.325436+00:00",
-      "category": "databases",
-      "hash": "7a998435d80b78e29779a141000135d1",
-      "sentiment": "neutral",
-      "word_count": 12
-    },
-    {
       "joke": "JavaScript: It's not a bug, it's an implicit type coercion. (Please ignore the screaming.)",
       "timestamp": "2025-11-08T02:11:52.545537+00:00",
       "category": "javascript",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "JavaScript: Where `[] == ![]` is true, proving that nothing equals something.",
-      "category": "javascript",
       "timestamp": "2025-12-02T02:23:47.370200+00:00",
+      "category": "javascript",
       "hash": "29f55a263fe31635d919e0d1dbc03d02",
       "sentiment": "neutral",
       "word_count": 12
+    },
+    {
+      "joke": "Debugging: The art of confirming your code's consistently inconsistent behavior.",
+      "category": "debugging",
+      "timestamp": "2025-12-02T13:11:23.185957+00:00",
+      "hash": "e391d64351c742c404bf8ef572483796",
+      "sentiment": "negative",
+      "word_count": 10
     }
   ]
 }

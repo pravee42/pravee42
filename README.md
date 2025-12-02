@@ -13,10 +13,10 @@
 ### 😂 Dev Joke of the Day
 <!-- JOKE-START -->
 ```javascript
-JavaScript: Where `[] == ![]` is true, proving that nothing equals something.
+Debugging: The art of confirming your code's consistently inconsistent behavior.
 ```
-*🏷️ Category: javascript | 📅 2025-12-02 02:23 UTC*
-*📊 Joke Stats: 1 jokes generated | Top category: javascript (1)*
+*🏷️ Category: debugging | 📅 2025-12-02 13:11 UTC*
+*📊 Joke Stats: 1 jokes generated | Top category: debugging (1)*
 <!-- JOKE-END -->
 
 
