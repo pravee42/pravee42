@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "JavaScript: It's not a bug, it's an implicit type coercion. (Please ignore the screaming.)",
-      "timestamp": "2025-11-08T02:11:52.545537+00:00",
-      "category": "javascript",
-      "hash": "9d29af4d81478b46179da3784c5cb72e",
-      "sentiment": "negative",
-      "word_count": 14
-    },
-    {
       "joke": "\"Bug-free\" code? Just untested features in disguise.",
       "timestamp": "2025-11-08T13:00:25.685591+00:00",
       "category": "debugging",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "Debugging: The art of confirming your code's consistently inconsistent behavior.",
-      "category": "debugging",
       "timestamp": "2025-12-02T13:11:23.185957+00:00",
+      "category": "debugging",
       "hash": "e391d64351c742c404bf8ef572483796",
       "sentiment": "negative",
       "word_count": 10
+    },
+    {
+      "joke": "CSS: Giving elements personalities, then realizing they have sibling rivalry issues.",
+      "category": "css",
+      "timestamp": "2025-12-03T02:23:46.681529+00:00",
+      "hash": "ef2c86740e19321ee65902ef1ab42299",
+      "sentiment": "neutral",
+      "word_count": 11
     }
   ]
 }
