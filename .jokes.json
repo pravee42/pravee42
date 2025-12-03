@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "\"Bug-free\" code? Just untested features in disguise.",
-      "timestamp": "2025-11-08T13:00:25.685591+00:00",
-      "category": "debugging",
-      "hash": "3d6f7302649533536136f8f7ad8591b8",
-      "sentiment": "negative",
-      "word_count": 7
-    },
-    {
       "joke": "CSS Grid: Finally, elements can line dance... into the wrong places.",
       "timestamp": "2025-11-09T02:22:45.943383+00:00",
       "category": "css",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "CSS: Giving elements personalities, then realizing they have sibling rivalry issues.",
-      "category": "css",
       "timestamp": "2025-12-03T02:23:46.681529+00:00",
+      "category": "css",
       "hash": "ef2c86740e19321ee65902ef1ab42299",
       "sentiment": "neutral",
       "word_count": 11
+    },
+    {
+      "joke": "Database schema changes: evolving data structures, or just a developer's mid-life crisis?",
+      "category": "databases",
+      "timestamp": "2025-12-03T13:11:56.386981+00:00",
+      "hash": "659708e1b72962f078d390ccfac162ac",
+      "sentiment": "neutral",
+      "word_count": 12
     }
   ]
 }
