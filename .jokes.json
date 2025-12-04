@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "Git branching: because reality's too linear, let's explore parallel universes of potential bugs.",
-      "timestamp": "2025-11-09T13:00:31.973378+00:00",
-      "category": "git",
-      "hash": "eba76c5d1276660172a506e7d82aebef",
-      "sentiment": "negative",
-      "word_count": 13
-    },
-    {
       "joke": "Python's strength? Readability. Its weakness? Misread-ability after 3 AM.",
       "timestamp": "2025-11-10T02:25:01.865284+00:00",
       "category": "python",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "Python: Write once, debug everywhere. Thanks, GIL.",
-      "category": "python",
       "timestamp": "2025-12-04T02:24:41.289946+00:00",
+      "category": "python",
       "hash": "07b3909ec16e34e5a6b001f0bc65e281",
       "sentiment": "negative",
       "word_count": 7
+    },
+    {
+      "joke": "Git rebase: rewriting history until your past self is a stranger.",
+      "category": "git",
+      "timestamp": "2025-12-04T13:12:09.250520+00:00",
+      "hash": "d3bf0cfa7fa3a1154f2e686b7f82291e",
+      "sentiment": "neutral",
+      "word_count": 11
     }
   ]
 }
