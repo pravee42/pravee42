@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "CSS Grid: Finally, elements can line dance... into the wrong places.",
-      "timestamp": "2025-11-09T02:22:45.943383+00:00",
-      "category": "css",
-      "hash": "6038579f5b4f3a8db286ff9fd822f4f7",
-      "sentiment": "neutral",
-      "word_count": 11
-    },
-    {
       "joke": "Git branching: because reality's too linear, let's explore parallel universes of potential bugs.",
       "timestamp": "2025-11-09T13:00:31.973378+00:00",
       "category": "git",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "Database schema changes: evolving data structures, or just a developer's mid-life crisis?",
-      "category": "databases",
       "timestamp": "2025-12-03T13:11:56.386981+00:00",
+      "category": "databases",
       "hash": "659708e1b72962f078d390ccfac162ac",
       "sentiment": "neutral",
       "word_count": 12
+    },
+    {
+      "joke": "Python: Write once, debug everywhere. Thanks, GIL.",
+      "category": "python",
+      "timestamp": "2025-12-04T02:24:41.289946+00:00",
+      "hash": "07b3909ec16e34e5a6b001f0bc65e281",
+      "sentiment": "negative",
+      "word_count": 7
     }
   ]
 }
