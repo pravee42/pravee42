@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "My database design is like a good relationship: one-to-many, but only if *I* say so.",
-      "timestamp": "2025-11-10T13:08:12.077648+00:00",
-      "category": "databases",
-      "hash": "7da6fbf4fb1699819d6b5fd5e3e2bec2",
-      "sentiment": "neutral",
-      "word_count": 15
-    },
-    {
       "joke": "JavaScript's spirit animal? The chameleon. It blends seamlessly... into every framework.",
       "timestamp": "2025-11-11T02:20:39.984818+00:00",
       "category": "javascript",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "JavaScript: the only language where adding curly braces can fix *anything*. Or break everything.",
-      "category": "javascript",
       "timestamp": "2025-12-05T02:24:30.524927+00:00",
+      "category": "javascript",
       "hash": "16f1ccc502bdbf2277951d33fce7b384",
       "sentiment": "negative",
       "word_count": 14
+    },
+    {
+      "joke": "My code compiled! Now, to debug the *warnings*... which are practically features, right?",
+      "category": "debugging",
+      "timestamp": "2025-12-05T13:08:39.585494+00:00",
+      "hash": "a3fc46eea577ba80cb4b832038fe0a97",
+      "sentiment": "negative",
+      "word_count": 13
     }
   ]
 }
