@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "Python's strength? Readability. Its weakness? Misread-ability after 3 AM.",
-      "timestamp": "2025-11-10T02:25:01.865284+00:00",
-      "category": "python",
-      "hash": "56ea8b72cb80aa8564c9d80315ff3849",
-      "sentiment": "neutral",
-      "word_count": 9
-    },
-    {
       "joke": "My database design is like a good relationship: one-to-many, but only if *I* say so.",
       "timestamp": "2025-11-10T13:08:12.077648+00:00",
       "category": "databases",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "Git rebase: rewriting history until your past self is a stranger.",
-      "category": "git",
       "timestamp": "2025-12-04T13:12:09.250520+00:00",
+      "category": "git",
       "hash": "d3bf0cfa7fa3a1154f2e686b7f82291e",
       "sentiment": "neutral",
       "word_count": 11
+    },
+    {
+      "joke": "JavaScript: the only language where adding curly braces can fix *anything*. Or break everything.",
+      "category": "javascript",
+      "timestamp": "2025-12-05T02:24:30.524927+00:00",
+      "hash": "16f1ccc502bdbf2277951d33fce7b384",
+      "sentiment": "negative",
+      "word_count": 14
     }
   ]
 }
