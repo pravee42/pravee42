@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "JavaScript's spirit animal? The chameleon. It blends seamlessly... into every framework.",
-      "timestamp": "2025-11-11T02:20:39.984818+00:00",
-      "category": "javascript",
-      "hash": "01bff1d0e5ddbce779c313753f9436de",
-      "sentiment": "neutral",
-      "word_count": 11
-    },
-    {
       "joke": "Debugging: Like a detective show, except you're also the prime suspect.",
       "timestamp": "2025-11-11T13:08:00.887042+00:00",
       "category": "debugging",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "My code compiled! Now, to debug the *warnings*... which are practically features, right?",
-      "category": "debugging",
       "timestamp": "2025-12-05T13:08:39.585494+00:00",
+      "category": "debugging",
       "hash": "a3fc46eea577ba80cb4b832038fe0a97",
       "sentiment": "negative",
       "word_count": 13
+    },
+    {
+      "joke": "CSS: I call it \"cascading\" style sheets because my hopes and dreams are cascading down the drain.",
+      "category": "css",
+      "timestamp": "2025-12-06T02:17:35.010878+00:00",
+      "hash": "2e11c1484e9b6c25c82b50e05c29b672",
+      "sentiment": "neutral",
+      "word_count": 17
     }
   ]
 }
