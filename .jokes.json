@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "Debugging: Like a detective show, except you're also the prime suspect.",
-      "timestamp": "2025-11-11T13:08:00.887042+00:00",
-      "category": "debugging",
-      "hash": "5272a51e656b4b1b0da82bdd12919867",
-      "sentiment": "negative",
-      "word_count": 11
-    },
-    {
       "joke": "CSS: Where \"center\" is a concept, not a command. Good luck with that div!",
       "timestamp": "2025-11-12T02:19:41.563376+00:00",
       "category": "css",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "CSS: I call it \"cascading\" style sheets because my hopes and dreams are cascading down the drain.",
-      "category": "css",
       "timestamp": "2025-12-06T02:17:35.010878+00:00",
+      "category": "css",
       "hash": "2e11c1484e9b6c25c82b50e05c29b672",
       "sentiment": "neutral",
       "word_count": 17
+    },
+    {
+      "joke": "Database design: Where your relationships get more complex than your actual relationships.",
+      "category": "databases",
+      "timestamp": "2025-12-06T13:03:54.489738+00:00",
+      "hash": "6b6ccf2a6f0431fddd12b2ed147f6463",
+      "sentiment": "neutral",
+      "word_count": 12
     }
   ]
 }
