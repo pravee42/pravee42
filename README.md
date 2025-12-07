@@ -13,10 +13,14 @@
 ### 😂 Dev Joke of the Day
 <!-- JOKE-START -->
 ```javascript
-Database design: Where your relationships get more complex than your actual relationships.
+⚠️ API Error: You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash
+Please retry in 55.395600501s.
 ```
-*🏷️ Category: databases | 📅 2025-12-06 13:03 UTC*
-*📊 Joke Stats: 1 jokes generated | Top category: databases (1)*
+*🏷️ Category: error | 📅 2025-12-07 02:34 UTC*
+*📊 Joke Stats: 1 jokes generated | Top category: error (1)*
 <!-- JOKE-END -->
 
 
