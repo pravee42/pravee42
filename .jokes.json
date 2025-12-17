@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "\"Fixed that bug!\"... said the developer, introducing three new, undocumented features.",
-      "timestamp": "2025-11-23T12:59:42.265374+00:00",
-      "category": "debugging",
-      "hash": "1a8e16efa60091439f01c2850f8cfb8f",
-      "sentiment": "negative",
-      "word_count": 11
-    },
-    {
       "joke": "CSS: Where every problem can be solved with another `div`, or thirty.",
       "timestamp": "2025-11-24T02:28:35.408199+00:00",
       "category": "css",
@@ -394,8 +386,16 @@
     },
     {
       "joke": "⚠️ API Error: You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash\nPlease retry in 40.146050176s.",
-      "category": "error",
       "timestamp": "2025-12-17T02:24:19.875557+00:00",
+      "category": "error",
+      "hash": "",
+      "sentiment": "neutral",
+      "word_count": 0
+    },
+    {
+      "joke": "⚠️ API Error: You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash\nPlease retry in 23.511265174s.",
+      "category": "error",
+      "timestamp": "2025-12-17T13:12:36.515665+00:00",
       "hash": "",
       "sentiment": "neutral",
       "word_count": 0
