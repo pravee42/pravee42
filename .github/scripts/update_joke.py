@@ -7,7 +7,7 @@ from datetime import datetime, timezone
 import hashlib
 from typing import List, Dict, Optional
 
-API_KEY = os.getenv("GEMINI_API_KEY")
+API_KEY = os.getenv("MISTRAL_API_KEY")
 JOKE_FILE = Path(".jokes.json")
 ANALYTICS_FILE = Path(".joke_analytics.json")
 
@@ -25,11 +25,9 @@ class JokeManager:
                 try:
                     data = json.load(f)
                     if isinstance(data, dict) and "history" in data:
-                        # Handle mixed format in history
                         normalized_history = []
                         for item in data["history"]:
                             if isinstance(item, str):
-                                # Convert old string format to new dict format
                                 normalized_history.append({
                                     "joke": item,
                                     "timestamp": "",
@@ -39,7 +37,6 @@ class JokeManager:
                                     "word_count": len(item.split())
                                 })
                             elif isinstance(item, dict):
-                                # Ensure all required fields exist
                                 normalized_item = {
                                     "joke": item.get("joke", ""),
                                     "timestamp": item.get("timestamp", ""),
@@ -51,7 +48,6 @@ class JokeManager:
                                 normalized_history.append(normalized_item)
                         return normalized_history
                     elif isinstance(data, list):
-                        # Convert old list format to new format
                         return [{
                             "joke": joke if isinstance(joke, str) else str(joke),
                             "timestamp": "",
@@ -84,9 +80,8 @@ class JokeManager:
         return "neutral"
     
     def get_dev_joke(self, category: str = None) -> Dict:
-        """Fetch a new programming joke with enhanced prompting"""
+        """Fetch a new programming joke using Mistral API"""
         jokes = self.load_joke_history()
-        # Safe extraction of joke text from both old and new formats
         not_allowed = "\n".join([f"- {joke['joke']}" for joke in jokes if joke.get('joke')]) if jokes else "None yet"
         
         # Smart category rotation
@@ -95,30 +90,26 @@ class JokeManager:
             available_categories = [c for c in self.categories if c not in used_categories]
             category = available_categories[0] if available_categories else "general"
         
-        url = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent"
+        url = "https://api.mistral.ai/v1/chat/completions"
         payload = {
-            "contents": [
+            "model": "mistral-small-latest",
+            "messages": [
                 {
-                    "parts": [
-                        {
-                            "text": (
-                                f"Create a witty programming joke about '{category}' development.\n\n"
-                                "🎯 REQUIREMENTS:\n"
-                                "- 15-30 words maximum\n"
-                                "- Technical but accessible to developers\n"
-                                "- Creative wordplay or unexpected punchline\n"
-                                "- Avoid clichés like 'works on my machine'\n\n"
-                                f"❌ DO NOT repeat these jokes:\n{not_allowed}\n\n"
-                                "Return ONLY the joke text, no quotes or explanations."
-                            )
-                        }
-                    ]
+                    "role": "user",
+                    "content": (
+                        f"Create a witty programming joke about '{category}' development.\n\n"
+                        "🎯 REQUIREMENTS:\n"
+                        "- 15-30 words maximum\n"
+                        "- Technical but accessible to developers\n"
+                        "- Creative wordplay or unexpected punchline\n"
+                        "- Avoid clichés like 'works on my machine'\n\n"
+                        f"❌ DO NOT repeat these jokes:\n{not_allowed}\n\n"
+                        "Return ONLY the joke text, no quotes or explanations."
+                    )
                 }
             ],
-            "generationConfig": {
-                "temperature": 0.9,  # Higher creativity
-                "maxOutputTokens": 50
-            }
+            "temperature": 0.9,
+            "max_tokens": 100
         }
         
         try:
@@ -126,29 +117,27 @@ class JokeManager:
                 url,
                 headers={
                     "Content-Type": "application/json",
-                    "x-goog-api-key": API_KEY,
+                    "Authorization": f"Bearer {API_KEY}",
                 },
                 json=payload,
                 timeout=20,
             )
             data = response.json()
             
-            if "candidates" in data:
-                cand = data["candidates"][0]
-                if "content" in cand and "parts" in cand["content"]:
-                    joke_text = cand["content"]["parts"][0].get("text", "").strip()
-                    
-                    return {
-                        "joke": joke_text,
-                        "category": category,
-                        "timestamp": datetime.now(timezone.utc).isoformat(),
-                        "hash": self.get_joke_hash(joke_text),
-                        "sentiment": self.analyze_joke_sentiment(joke_text),
-                        "word_count": len(joke_text.split())
-                    }
+            if "choices" in data:
+                joke_text = data["choices"][0]["message"]["content"].strip()
+                
+                return {
+                    "joke": joke_text,
+                    "category": category,
+                    "timestamp": datetime.now(timezone.utc).isoformat(),
+                    "hash": self.get_joke_hash(joke_text),
+                    "sentiment": self.analyze_joke_sentiment(joke_text),
+                    "word_count": len(joke_text.split())
+                }
             
             return {
-                "joke": f"⚠️ API Error: {data.get('error', {}).get('message', 'Unknown error')}",
+                "joke": f"⚠️ API Error: {data.get('message', 'Unknown error')}",
                 "category": "error",
                 "timestamp": datetime.now(timezone.utc).isoformat(),
                 "hash": "",
@@ -168,7 +157,6 @@ class JokeManager:
     
     def save_joke_history(self, jokes: List[Dict]):
         """Save enhanced joke history with metadata"""
-        # Keep last 50 jokes for better analytics
         with open(JOKE_FILE, "w", encoding="utf-8") as f:
             json.dump({"history": jokes[-50:]}, f, indent=2, ensure_ascii=False)
     
@@ -183,17 +171,14 @@ class JokeManager:
                 except json.JSONDecodeError:
                     pass
         
-        # Update stats
         analytics["total_jokes"] = analytics.get("total_jokes", 0) + 1
         analytics["last_updated"] = joke_data["timestamp"]
         
-        # Category stats
         category = joke_data["category"]
         if "categories" not in analytics:
             analytics["categories"] = {}
         analytics["categories"][category] = analytics["categories"].get(category, 0) + 1
         
-        # Sentiment stats  
         sentiment = joke_data["sentiment"]
         if "sentiment_stats" not in analytics:
             analytics["sentiment_stats"] = {}
@@ -212,7 +197,6 @@ class JokeManager:
                 analytics = json.load(f)
                 total = analytics.get("total_jokes", 0)
                 top_category = max(analytics.get("categories", {}).items(), key=lambda x: x[1], default=("general", 0))
-                
                 return f"\n*📊 Joke Stats: {total} jokes generated | Top category: {top_category[0]} ({top_category[1]})*"
             except:
                 return ""
@@ -226,7 +210,6 @@ class JokeManager:
         with open("README.md", "r", encoding="utf-8") as f:
             readme = f.read()
         
-        # Enhanced joke formatting with category and timestamp
         joke_section = f"""
 ```javascript
 {joke_data['joke']}
@@ -249,13 +232,9 @@ def main():
     """Main execution function"""
     manager = JokeManager()
     
-    # Get new joke
     joke_data = manager.get_dev_joke()
-    
-    # Load history and add new joke
     jokes = manager.load_joke_history()
     
-    # Check for duplicates
     new_hash = joke_data["hash"]
     if any(j.get("hash") == new_hash for j in jokes[-10:]):
         print("🔄 Duplicate detected, fetching new joke...")
@@ -263,7 +242,6 @@ def main():
     
     jokes.append(joke_data)
     
-    # Save everything
     manager.save_joke_history(jokes)
     manager.update_analytics(joke_data)
     manager.update_readme(joke_data)
