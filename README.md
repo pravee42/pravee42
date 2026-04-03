@@ -1,4 +1,3 @@
-
 ### Praveen Kumar 🧑
 
  - I am Praveen Kumar and a fullstack Python Django Developer with React Native(Android).<br/>
