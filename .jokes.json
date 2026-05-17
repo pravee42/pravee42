@@ -2,14 +2,6 @@
   "history": [
     {
       "joke": "⚠️ API Error: Unknown error",
-      "timestamp": "2026-04-21T14:16:01.445268+00:00",
-      "category": "error",
-      "hash": "",
-      "sentiment": "neutral",
-      "word_count": 0
-    },
-    {
-      "joke": "⚠️ API Error: Unknown error",
       "timestamp": "2026-04-22T03:48:57.627859+00:00",
       "category": "error",
       "hash": "",
@@ -394,8 +386,16 @@
     },
     {
       "joke": "⚠️ API Error: Unknown error",
-      "category": "error",
       "timestamp": "2026-05-16T14:05:32.441071+00:00",
+      "category": "error",
+      "hash": "",
+      "sentiment": "neutral",
+      "word_count": 0
+    },
+    {
+      "joke": "⚠️ API Error: Unknown error",
+      "category": "error",
+      "timestamp": "2026-05-17T04:39:54.214022+00:00",
       "hash": "",
       "sentiment": "neutral",
       "word_count": 0
