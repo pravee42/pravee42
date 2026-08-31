@@ -27,7 +27,7 @@ jobs:
       - name: Fetch Dev Joke
         run: python .github/scripts/update_joke.py
         env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.MISTRAL_API_KEY }}
 
       - name: Commit changes
         run: |
