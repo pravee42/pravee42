@@ -2,14 +2,6 @@
   "history": [
     {
       "joke": "⚠️ API Error: Unknown error",
-      "timestamp": "2026-08-07T03:31:10.365485+00:00",
-      "category": "error",
-      "hash": "",
-      "sentiment": "neutral",
-      "word_count": 0
-    },
-    {
-      "joke": "⚠️ API Error: Unknown error",
       "timestamp": "2026-08-07T13:49:28.899885+00:00",
       "category": "error",
       "hash": "",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "Why did the Python developer get stuck in the shower? They couldn't escape the *indentation*!",
-      "category": "python",
       "timestamp": "2026-08-31T02:59:04.249265+00:00",
+      "category": "python",
       "hash": "ef367e6405cd56e8338aa2961967c0d9",
       "sentiment": "neutral",
       "word_count": 15
+    },
+    {
+      "joke": "JavaScript functions: so flexible, they’ll turn your `var` into a global, your `let` into a mystery, and your `this` into a question.",
+      "category": "javascript",
+      "timestamp": "2026-08-31T05:58:56.189208+00:00",
+      "hash": "03722a3dd6f3dba5d8439b2e53bdae0d",
+      "sentiment": "positive",
+      "word_count": 22
     }
   ]
 }
