@@ -2,14 +2,6 @@
   "history": [
     {
       "joke": "⚠️ API Error: Unknown error",
-      "timestamp": "2026-08-07T13:49:28.899885+00:00",
-      "category": "error",
-      "hash": "",
-      "sentiment": "neutral",
-      "word_count": 0
-    },
-    {
-      "joke": "⚠️ API Error: Unknown error",
       "timestamp": "2026-08-08T02:28:40.253459+00:00",
       "category": "error",
       "hash": "",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "JavaScript functions: so flexible, they’ll turn your `var` into a global, your `let` into a mystery, and your `this` into a question.",
-      "category": "javascript",
       "timestamp": "2026-08-31T05:58:56.189208+00:00",
+      "category": "javascript",
       "hash": "03722a3dd6f3dba5d8439b2e53bdae0d",
       "sentiment": "positive",
       "word_count": 22
+    },
+    {
+      "joke": "Why did the developer’s code refuse to compile?\nIt had a runtime… but forgot its lunch break.",
+      "category": "debugging",
+      "timestamp": "2026-08-31T19:12:10.208254+00:00",
+      "hash": "1f9fc79da8ef16dd0408cae4dd51051f",
+      "sentiment": "negative",
+      "word_count": 17
     }
   ]
 }
