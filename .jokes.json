@@ -2,14 +2,6 @@
   "history": [
     {
       "joke": "⚠️ API Error: Unknown error",
-      "timestamp": "2026-08-09T02:35:32.532890+00:00",
-      "category": "error",
-      "hash": "",
-      "sentiment": "neutral",
-      "word_count": 0
-    },
-    {
-      "joke": "⚠️ API Error: Unknown error",
       "timestamp": "2026-08-09T13:30:36.919166+00:00",
       "category": "error",
       "hash": "",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "Why did the firewall blush?\nIt saw the admin’s password in plain text!",
-      "category": "cyber security",
       "timestamp": "2026-09-01T05:31:36.375074+00:00",
+      "category": "cyber security",
       "hash": "e259b43a02edc6b9f581a855c182c54b",
       "sentiment": "neutral",
       "word_count": 13
+    },
+    {
+      "joke": "Why did the AIML developer bring a debugger to a party?\n\n*It couldn’t handle the conversation’s runtime exceptions!*",
+      "category": "aiml",
+      "timestamp": "2026-09-01T16:49:44.877798+00:00",
+      "hash": "cf898ba809abf0f4025bf89ff6741fbc",
+      "sentiment": "negative",
+      "word_count": 18
     }
   ]
 }
