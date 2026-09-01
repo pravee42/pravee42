@@ -14,8 +14,7 @@ ANALYTICS_FILE = Path(".joke_analytics.json")
 class JokeManager:
     def __init__(self):
         self.categories = [
-            "python", "javascript", "debugging", "css", "git", 
-            "databases", "algorithms", "frontend", "backend", "devops"
+            "python", "data engineering", "cyber security", "aiml"
         ]
     
     def load_joke_history(self) -> List[Dict]:
