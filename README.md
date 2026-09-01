@@ -12,11 +12,11 @@
 ### 😂 Dev Joke of the Day
 <!-- JOKE-START -->
 ```javascript
-Why did the data engineer break up with Spark?
-It kept partitioning their heart without asking.
+Why did the firewall blush?
+It saw the admin’s password in plain text!
 ```
-*🏷️ Category: data engineering | 📅 2026-09-01 01:55 UTC*
-*📊 Joke Stats: 1 jokes generated | Top category: data engineering (1)*
+*🏷️ Category: cyber security | 📅 2026-09-01 05:31 UTC*
+*📊 Joke Stats: 1 jokes generated | Top category: cyber security (1)*
 <!-- JOKE-END -->
 
 
