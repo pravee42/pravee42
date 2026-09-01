@@ -12,11 +12,11 @@
 ### 😂 Dev Joke of the Day
 <!-- JOKE-START -->
 ```javascript
-Why did the developer’s code refuse to compile?
-It had a runtime… but forgot its lunch break.
+Why did the data engineer break up with Spark?
+It kept partitioning their heart without asking.
 ```
-*🏷️ Category: debugging | 📅 2026-08-31 19:12 UTC*
-*📊 Joke Stats: 1 jokes generated | Top category: debugging (1)*
+*🏷️ Category: data engineering | 📅 2026-09-01 01:55 UTC*
+*📊 Joke Stats: 1 jokes generated | Top category: data engineering (1)*
 <!-- JOKE-END -->
 
 

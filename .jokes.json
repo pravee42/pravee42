@@ -2,14 +2,6 @@
   "history": [
     {
       "joke": "⚠️ API Error: Unknown error",
-      "timestamp": "2026-08-08T02:28:40.253459+00:00",
-      "category": "error",
-      "hash": "",
-      "sentiment": "neutral",
-      "word_count": 0
-    },
-    {
-      "joke": "⚠️ API Error: Unknown error",
       "timestamp": "2026-08-08T13:26:53.820452+00:00",
       "category": "error",
       "hash": "",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "Why did the developer’s code refuse to compile?\nIt had a runtime… but forgot its lunch break.",
-      "category": "debugging",
       "timestamp": "2026-08-31T19:12:10.208254+00:00",
+      "category": "debugging",
       "hash": "1f9fc79da8ef16dd0408cae4dd51051f",
       "sentiment": "negative",
       "word_count": 17
+    },
+    {
+      "joke": "Why did the data engineer break up with Spark?\nIt kept partitioning their heart without asking.",
+      "category": "data engineering",
+      "timestamp": "2026-09-01T01:55:48.124899+00:00",
+      "hash": "c66942cf8fd9673c67a488fb810a0b13",
+      "sentiment": "negative",
+      "word_count": 16
     }
   ]
 }
