@@ -2,14 +2,6 @@
   "history": [
     {
       "joke": "⚠️ API Error: Unknown error",
-      "timestamp": "2026-08-10T02:41:34.636481+00:00",
-      "category": "error",
-      "hash": "",
-      "sentiment": "neutral",
-      "word_count": 0
-    },
-    {
-      "joke": "⚠️ API Error: Unknown error",
       "timestamp": "2026-08-10T13:55:53.535670+00:00",
       "category": "error",
       "hash": "",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "Why did the Python dev refuse to play cards in the jungle?\n\nBecause the deck kept getting *eaten by a snake*... and it wasn't in the standard library.",
-      "category": "python",
       "timestamp": "2026-09-02T04:57:15.483449+00:00",
+      "category": "python",
       "hash": "2ead9c69134c2a5660bd520eb7773547",
       "sentiment": "neutral",
       "word_count": 28
+    },
+    {
+      "joke": "Why did the developer's deployment fail?\nThey tried `git push` without reading the LICENSE agreement.",
+      "category": "general",
+      "timestamp": "2026-09-02T16:46:45.338598+00:00",
+      "hash": "bae31f53a575a652ec9ed746cb406c48",
+      "sentiment": "negative",
+      "word_count": 15
     }
   ]
 }
