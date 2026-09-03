@@ -2,14 +2,6 @@
   "history": [
     {
       "joke": "⚠️ API Error: Unknown error",
-      "timestamp": "2026-08-10T13:55:53.535670+00:00",
-      "category": "error",
-      "hash": "",
-      "sentiment": "neutral",
-      "word_count": 0
-    },
-    {
-      "joke": "⚠️ API Error: Unknown error",
       "timestamp": "2026-08-11T02:35:33.059601+00:00",
       "category": "error",
       "hash": "",
@@ -394,11 +386,19 @@
     },
     {
       "joke": "Why did the developer's deployment fail?\nThey tried `git push` without reading the LICENSE agreement.",
-      "category": "general",
       "timestamp": "2026-09-02T16:46:45.338598+00:00",
+      "category": "general",
       "hash": "bae31f53a575a652ec9ed746cb406c48",
       "sentiment": "negative",
       "word_count": 15
+    },
+    {
+      "joke": "Why did the developer’s coffee get a promotion?\nIt was *asynchronous*—just like their callbacks.",
+      "category": "general",
+      "timestamp": "2026-09-03T04:54:38.302267+00:00",
+      "hash": "8f4d910102cd7d76396712d40a9c9ce3",
+      "sentiment": "neutral",
+      "word_count": 14
     }
   ]
 }
