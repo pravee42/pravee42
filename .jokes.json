@@ -2,14 +2,6 @@
   "history": [
     {
       "joke": "⚠️ API Error: Unknown error",
-      "timestamp": "2026-08-20T13:26:59.987298+00:00",
-      "category": "error",
-      "hash": "",
-      "sentiment": "neutral",
-      "word_count": 0
-    },
-    {
-      "joke": "⚠️ API Error: Unknown error",
       "timestamp": "2026-08-21T02:08:40.652260+00:00",
       "category": "error",
       "hash": "",
@@ -394,8 +386,16 @@
     },
     {
       "joke": "⚠️ API Error: Rate limit exceeded",
-      "category": "error",
       "timestamp": "2026-09-12T15:44:54.015935+00:00",
+      "category": "error",
+      "hash": "",
+      "sentiment": "neutral",
+      "word_count": 0
+    },
+    {
+      "joke": "⚠️ API Error: Rate limit exceeded",
+      "category": "error",
+      "timestamp": "2026-09-13T05:16:20.297066+00:00",
       "hash": "",
       "sentiment": "neutral",
       "word_count": 0
