@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "JavaScript functions: so flexible, they’ll turn your `var` into a global, your `let` into a mystery, and your `this` into a question.",
-      "timestamp": "2026-08-31T05:58:56.189208+00:00",
-      "category": "javascript",
-      "hash": "03722a3dd6f3dba5d8439b2e53bdae0d",
-      "sentiment": "positive",
-      "word_count": 22
-    },
-    {
       "joke": "Why did the developer’s code refuse to compile?\nIt had a runtime… but forgot its lunch break.",
       "timestamp": "2026-08-31T19:12:10.208254+00:00",
       "category": "debugging",
@@ -394,8 +386,16 @@
     },
     {
       "joke": "⚠️ API Error: Rate limit exceeded",
-      "category": "error",
       "timestamp": "2026-09-24T05:14:14.527215+00:00",
+      "category": "error",
+      "hash": "",
+      "sentiment": "neutral",
+      "word_count": 0
+    },
+    {
+      "joke": "⚠️ API Error: Rate limit exceeded",
+      "category": "error",
+      "timestamp": "2026-09-24T17:27:22.513653+00:00",
       "hash": "",
       "sentiment": "neutral",
       "word_count": 0
