@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "Why did the Python developer get stuck in the shower? They couldn't escape the *indentation*!",
-      "timestamp": "2026-08-31T02:59:04.249265+00:00",
-      "category": "python",
-      "hash": "ef367e6405cd56e8338aa2961967c0d9",
-      "sentiment": "neutral",
-      "word_count": 15
-    },
-    {
       "joke": "JavaScript functions: so flexible, they’ll turn your `var` into a global, your `let` into a mystery, and your `this` into a question.",
       "timestamp": "2026-08-31T05:58:56.189208+00:00",
       "category": "javascript",
@@ -394,8 +386,16 @@
     },
     {
       "joke": "⚠️ API Error: Rate limit exceeded",
-      "category": "error",
       "timestamp": "2026-09-23T17:22:32.366127+00:00",
+      "category": "error",
+      "hash": "",
+      "sentiment": "neutral",
+      "word_count": 0
+    },
+    {
+      "joke": "⚠️ API Error: Rate limit exceeded",
+      "category": "error",
+      "timestamp": "2026-09-24T05:14:14.527215+00:00",
       "hash": "",
       "sentiment": "neutral",
       "word_count": 0
