@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "Why did the firewall blush?\nIt saw the admin’s password in plain text!",
-      "timestamp": "2026-09-01T05:31:36.375074+00:00",
-      "category": "cyber security",
-      "hash": "e259b43a02edc6b9f581a855c182c54b",
-      "sentiment": "neutral",
-      "word_count": 13
-    },
-    {
       "joke": "Why did the AIML developer bring a debugger to a party?\n\n*It couldn’t handle the conversation’s runtime exceptions!*",
       "timestamp": "2026-09-01T16:49:44.877798+00:00",
       "category": "aiml",
@@ -394,8 +386,16 @@
     },
     {
       "joke": "⚠️ API Error: Rate limit exceeded",
-      "category": "error",
       "timestamp": "2026-09-25T17:27:13.738728+00:00",
+      "category": "error",
+      "hash": "",
+      "sentiment": "neutral",
+      "word_count": 0
+    },
+    {
+      "joke": "⚠️ API Error: Rate limit exceeded",
+      "category": "error",
+      "timestamp": "2026-09-26T05:21:37.583956+00:00",
       "hash": "",
       "sentiment": "neutral",
       "word_count": 0
