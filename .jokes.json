@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "Why did the developer's deployment fail?\nThey tried `git push` without reading the LICENSE agreement.",
-      "timestamp": "2026-09-02T16:46:45.338598+00:00",
-      "category": "general",
-      "hash": "bae31f53a575a652ec9ed746cb406c48",
-      "sentiment": "negative",
-      "word_count": 15
-    },
-    {
       "joke": "Why did the developer’s coffee get a promotion?\nIt was *asynchronous*—just like their callbacks.",
       "timestamp": "2026-09-03T04:54:38.302267+00:00",
       "category": "general",
@@ -394,8 +386,16 @@
     },
     {
       "joke": "⚠️ API Error: Rate limit exceeded",
-      "category": "error",
       "timestamp": "2026-09-27T05:37:05.483769+00:00",
+      "category": "error",
+      "hash": "",
+      "sentiment": "neutral",
+      "word_count": 0
+    },
+    {
+      "joke": "⚠️ API Error: Rate limit exceeded",
+      "category": "error",
+      "timestamp": "2026-09-27T17:10:55.509968+00:00",
       "hash": "",
       "sentiment": "neutral",
       "word_count": 0
