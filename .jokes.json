@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "joke": "Why did the developer’s coffee get a promotion?\nIt was *asynchronous*—just like their callbacks.",
-      "timestamp": "2026-09-03T04:54:38.302267+00:00",
-      "category": "general",
-      "hash": "8f4d910102cd7d76396712d40a9c9ce3",
-      "sentiment": "neutral",
-      "word_count": 14
-    },
-    {
       "joke": "Why did the data engineer install a revolving door on their ETL pipeline?\n*Too many jobs to schedule!*",
       "timestamp": "2026-09-03T16:36:49.247204+00:00",
       "category": "data engineering",
@@ -394,8 +386,16 @@
     },
     {
       "joke": "⚠️ API Error: Rate limit exceeded",
-      "category": "error",
       "timestamp": "2026-09-27T17:10:55.509968+00:00",
+      "category": "error",
+      "hash": "",
+      "sentiment": "neutral",
+      "word_count": 0
+    },
+    {
+      "joke": "⚠️ API Error: Rate limit exceeded",
+      "category": "error",
+      "timestamp": "2026-09-28T05:45:03.866058+00:00",
       "hash": "",
       "sentiment": "neutral",
       "word_count": 0
