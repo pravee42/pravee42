@@ -12,9 +12,9 @@
 ### 😂 Dev Joke of the Day
 <!-- JOKE-START -->
 ```javascript
-⚠️ API Error: Rate limit exceeded
+⚠️ API Error: You need a subscription to access this API.
 ```
-*🏷️ Category: error | 📅 2026-11-25 09:00 UTC*
+*🏷️ Category: error | 📅 2026-11-25 21:55 UTC*
 *📊 Joke Stats: 1 jokes generated | Top category: error (1)*
 <!-- JOKE-END -->
 
