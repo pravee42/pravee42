@@ -2,14 +2,6 @@
   "history": [
     {
       "joke": "⚠️ API Error: Rate limit exceeded",
-      "timestamp": "2026-11-02T06:40:29.068370+00:00",
-      "category": "error",
-      "hash": "",
-      "sentiment": "neutral",
-      "word_count": 0
-    },
-    {
-      "joke": "⚠️ API Error: Rate limit exceeded",
       "timestamp": "2026-11-02T21:51:55.284189+00:00",
       "category": "error",
       "hash": "",
@@ -394,8 +386,16 @@
     },
     {
       "joke": "⚠️ API Error: You need a subscription to access this API.",
-      "category": "error",
       "timestamp": "2026-11-26T21:49:26.548932+00:00",
+      "category": "error",
+      "hash": "",
+      "sentiment": "neutral",
+      "word_count": 0
+    },
+    {
+      "joke": "⚠️ API Error: You need a subscription to access this API.",
+      "category": "error",
+      "timestamp": "2026-11-27T08:58:24.197855+00:00",
       "hash": "",
       "sentiment": "neutral",
       "word_count": 0
